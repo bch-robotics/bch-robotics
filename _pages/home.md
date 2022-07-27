@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Pediatric Cardiac Bioengineering Laboratory - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Pediatric Cardiac Bioengineering Lab at Boston Children's Hospital and Harvard Medical School."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+Our mission is to embed a team of creative young engineers in a world-class hospital where they can identify and solve clincally-relevant healthcare problems through the creation of new technology with a focus on commercialization
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -51,22 +51,8 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <span class="sr-only">Next</span>
   </a>
 </div>
+We solve theoretical and practical problems in minimally invasive surgery. We specialize in medical robot and instrument design, development of imaging techniques for surgical guidance, modeling tool-tissue interaction and teleoperation/automation of instrument control. We utilize analytical tools from robotics, dynamics, and control, together with innovative design techniques to create successful solutions.
 
+Our team members come from diverse backgrounds with degrees in mechanical / biomedical / electrical engineering and medicine. Their specialties range from specialties range from biomedical robotics, clinical practice and imaging, to product design and many areas in between. Please explore our work, and feel free to contact us.
 
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+ **We are  looking for passionate new Postdocs to join the team** 
