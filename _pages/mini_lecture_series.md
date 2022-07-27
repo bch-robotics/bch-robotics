@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Pediatric Cardiac Bioengineering Lab at Boston Children's Hospital and Harvard Medical School."
 layout: textlay
 excerpt: "AOA"
 sitemap: false

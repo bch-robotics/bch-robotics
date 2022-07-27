@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Pediatric Cardiac Bioengineering Lab at Boston Children's Hospital and Harvard Medical School."
 sitemap: false
 permalink: /allnews.html
 ---
