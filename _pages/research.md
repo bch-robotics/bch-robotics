@@ -1,46 +1,56 @@
 ---
-title: "Allan Lab - Research"
+title: "Pediatric Cardiac Bioengineering Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Pediatric Cardiac Bioengineering Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
-
-Here are some themes and techniques that we currently work on:
-
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**Robotic Implants** 
 
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+We are proposing a new class of medical devices that we call robotic implants. These devices are comprised of robots designed to autonomously regulate biological processes inside the body. Potential benefits of these devices include restoration of degraded or missing biological functionality, induction of tissue growth, as well as a reduction in the number of surgeries necessary to treat a patient with a chronic condition. These devices may move through the body or reside in one location and employ their degrees of freedom to interact with tissue structures. For example, they could automatically regulate flow resistance in the vasculature or adjust the length and compliance of tissues.
 
-**Nanofabricated "Smart Tips"**.
+
+A specific pediatric application is the treatment of long gap esophageal atresia. This is a congenital defect in which a portion of the esophagus is missing (see Figure). We are developing a robotic implant to apply traction forces to the two disconnected esophageal segments to induce sufficient tissue growth so that the two ends can be joined together to form a functioning esophagus. In contrast to the current manual method of externally applied traction forces, the implant offers the potential to avoid multi-week patient paralysis and sedation while substantially reducing treatment time and cost.
+
+
+This technology can be licensed from Boston Children's Hospital.
+
+
+**Concentric Tube Robots.** 
+
+
+Minimally invasive medical procedures involve the manipulation of sensors, tools and prosthetic devices inside the body while minimizing damage to surrounding tissue structures. In many cases, navigation to the surgical site involves steering the delivery instrument along three-dimensional curves through tissue to avoid bony or sensitive structures (percutaneous procedures), or following the interior contours of a body orifice (e.g., the nasal passages) or body cavity (e.g., the heart). Once at the surgical site, it is often necessary to control the position and orientation of the instrument’s distal tip while holding relatively immobile the proximal inserted length.
+
+A novel approach to constructing robots for such applications is based on concentrically combining pre-curved elastic tubes. By rotating and extending the tubes with respect to each other, their curvatures interact elastically to position and orient the robot’s tip, as well as control the robot’s shape along its length. In this approach, the flexible tubes comprise both the links and the joints of the robot. Since the actuators attach to the tubes at their proximal end, the robot itself forms a slender curve that is well suited for minimally invasive medical procedures. Our research encompasses the design, modeling and real-time control of this robot technology. We are also designing tip-mounted actuated tools for beating-heart intracardiac surgery.
+
+This technology can be licensed from Boston University.
+
+**MEMS Surgical Instruments**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+While tools for minimally invasive surgery are often needed at the millimeter scale, most manufacturing technologies are not well suited to this length scale. In this research, we are exploring the practicality of using a metal microelectromechanical systems (MEMS) technology for constructing devices for surgery inside the heart. In this approach, wafer-scale batch processing can produce fully-assembled devices composed of traditional mechanical components such as gears, screws and springs. We are teaming with Microfabrica, Inc. to design and test a toolbox of devices and implants for tissue removal and tissue approximation.
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+**3D Ultrasound Tracking and Servoing of Surgical Instruments.** 
 
 
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
+Ultrasound imaging is a useful modality for guiding minimally invasive interventions due to its portability and safety. In cardiac surgery, for example, real-time 3D ultrasound imaging is being investigated for guiding repairs of complex defects inside the beating heart. Substantial difficulty can arise, however, when surgical instruments and tissue structures are imaged simultaneously to achieve precise manipulations. This research project includes: (1) the development of echogenic instrument coatings, (2) the design of passive instrument markers, and (3) the development of algorithms for instrument tracking and servoing. For example, a family of passive markers has been developed by which the position and orientation of a surgical instrument can be determined from a single 3D ultrasound volume using simple image processing. Marker-based estimates of instrument pose can be used in augmented reality displays or for image-based servoing.
 
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+While prior detection and tracking algorithms can be applied only to straight-shafted instruments, our most recent work focuses on the detection and tracking of curved continuum robots, e.g., concentric tube robots.
 
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+**MRI-Powered Robot Actuators.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
+
+
+Magnetic resonance imaging provides high quality images of soft tissue without the use of ionizing radiation. Its use for robotic interventional procedures is challenging, however, due to the incompatibility of standard actuation technologies with the high magnetic fields produced within the scanner and the complexity of alternate compatible technologies. An alternative approach is to create an actuator that can be both powered and controlled using the MRI scanner itself. We have designed and demonstrated such an actuator in a clinical MRI scanner. Our current research on this topic involves improving actuator design, developing state estimators and achieving closed loop control. We are also investigating a variety of clinical applications for this technology.
+
+
+**MRI-Powered Millirobot Swarms.** 
+
+
+There are many examples of minimally invasive surgery in which tethered robots are incapable of accurately reaching target locations deep inside the body either because they are too large and result in tissue damage or because the tortuosity of the path leads to loss of tip control. In these situations, groups of small untethered magnetically-powered robots may hold the potential to act as a network of sensors or as delivery vehicles for therapeutic agents. While prior work has focused on controlling a single robot with MRI, our focus is on the development of techniques for individually controlling groups of millimeter- and micron-scale swimming robots. We are also working on functionalizing our robots for specific clinical applications.
+
 
 ### ... and more.
