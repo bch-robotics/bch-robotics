@@ -1,10 +1,10 @@
-- title: "Determination of the charge transfer when tunneling into putative Majorana modes in individual vortices in FeTe0.55Se0.045"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "Eccentric Tube Robots as Multiarmed Steerable Sheaths"
+  image: wang1-3080659-large.gif
+  description: This article presents a novel continuum robot sheath for use in single-port minimally invasive procedures such as neuroendoscopy in which the sheath is designed to deliver multiple robotic arms. Actuation of the sheath is achieved by using precurved superelastic tubes lining the working channels used for arm delivery. 
+  authors: Jiaole Wang, Joseph Peine, Pierre E. Dupont
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
+    url: https://ieeexplore.ieee.org/document/9455126/
+    display: IEEE Trans. Robotics, vol. 38, no. 1, pp. 477-490, 2022
   highlight: 1
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
