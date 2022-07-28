@@ -42,7 +42,7 @@
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202010525
     display:  Advanced Functional Materials, vol. 2010525, pp. https://doi.org/10.1002/adfm.202010525, 2021
-  highlight: 0
+  highlight: 1
 
 - title: "A Soft Robotic Balloon Endoscope for Airway Procedures"
   image: soft_robotics_2021.PNG
