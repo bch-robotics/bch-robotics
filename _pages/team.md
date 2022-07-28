@@ -98,7 +98,7 @@ Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab vi
   <ul style="overflow: hidden">
   </ul>
 </div>
-
+{% endfor %}
 
 ## Alumni
 
