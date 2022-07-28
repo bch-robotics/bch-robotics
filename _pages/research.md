@@ -20,6 +20,8 @@ A specific pediatric application is the treatment of long gap esophageal atresia
 This technology can be licensed from Boston Children's Hospital.
 
 
+
+
 **Concentric Tube Robots.** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/concentricTubes.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -29,10 +31,16 @@ A novel approach to constructing robots for such applications is based on concen
 
 This technology can be licensed from Boston University.
 
+
+
+
 **MEMS Surgical Instruments**.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/metalMEMS.png){: style="width: 250px; float: left; margin: 0px  10px"}
 While tools for minimally invasive surgery are often needed at the millimeter scale, most manufacturing technologies are not well suited to this length scale. In this research, we are exploring the practicality of using a metal microelectromechanical systems (MEMS) technology for constructing devices for surgery inside the heart. In this approach, wafer-scale batch processing can produce fully-assembled devices composed of traditional mechanical components such as gears, screws and springs. We are teaming with Microfabrica, Inc. to design and test a toolbox of devices and implants for tissue removal and tissue approximation.
+
+
+
 
 **3D Ultrasound Tracking and Servoing of Surgical Instruments.** 
 
@@ -42,10 +50,14 @@ Ultrasound imaging is a useful modality for guiding minimally invasive intervent
 While prior detection and tracking algorithms can be applied only to straight-shafted instruments, our most recent work focuses on the detection and tracking of curved continuum robots, e.g., concentric tube robots.
 
 
+
+
 **MRI-Powered Robot Actuators.**  
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredActuator.png){: style="width: 250px; float: left; margin: 0px  10px"}
 Magnetic resonance imaging provides high quality images of soft tissue without the use of ionizing radiation. Its use for robotic interventional procedures is challenging, however, due to the incompatibility of standard actuation technologies with the high magnetic fields produced within the scanner and the complexity of alternate compatible technologies. An alternative approach is to create an actuator that can be both powered and controlled using the MRI scanner itself. We have designed and demonstrated such an actuator in a clinical MRI scanner. Our current research on this topic involves improving actuator design, developing state estimators and achieving closed loop control. We are also investigating a variety of clinical applications for this technology.
+
+
 
 
 **MRI-Powered Millirobot Swarms.** 
