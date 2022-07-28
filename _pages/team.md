@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni).
 
 ## Director
 {% assign number_printed = 0 %}
@@ -68,7 +68,7 @@ Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab vi
 {% endfor %}
 
 ## Alumni
-<div>
+<div class="row">
 {% for member in site.data.alumni %}
 {{ member.name }}
 {% endfor %}
