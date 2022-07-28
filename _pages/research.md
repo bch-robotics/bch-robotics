@@ -31,12 +31,12 @@ This technology can be licensed from Boston University.
 
 **MEMS Surgical Instruments**.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/metalMEMS.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/implant3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 While tools for minimally invasive surgery are often needed at the millimeter scale, most manufacturing technologies are not well suited to this length scale. In this research, we are exploring the practicality of using a metal microelectromechanical systems (MEMS) technology for constructing devices for surgery inside the heart. In this approach, wafer-scale batch processing can produce fully-assembled devices composed of traditional mechanical components such as gears, screws and springs. We are teaming with Microfabrica, Inc. to design and test a toolbox of devices and implants for tissue removal and tissue approximation.
 
 **3D Ultrasound Tracking and Servoing of Surgical Instruments.** 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ultrasoundTracking.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/implant3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 Ultrasound imaging is a useful modality for guiding minimally invasive interventions due to its portability and safety. In cardiac surgery, for example, real-time 3D ultrasound imaging is being investigated for guiding repairs of complex defects inside the beating heart. Substantial difficulty can arise, however, when surgical instruments and tissue structures are imaged simultaneously to achieve precise manipulations. This research project includes: (1) the development of echogenic instrument coatings, (2) the design of passive instrument markers, and (3) the development of algorithms for instrument tracking and servoing. For example, a family of passive markers has been developed by which the position and orientation of a surgical instrument can be determined from a single 3D ultrasound volume using simple image processing. Marker-based estimates of instrument pose can be used in augmented reality displays or for image-based servoing.
 
 While prior detection and tracking algorithms can be applied only to straight-shafted instruments, our most recent work focuses on the detection and tracking of curved continuum robots, e.g., concentric tube robots.
@@ -44,13 +44,13 @@ While prior detection and tracking algorithms can be applied only to straight-sh
 
 **MRI-Powered Robot Actuators.**  
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredActuator.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/implant3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 Magnetic resonance imaging provides high quality images of soft tissue without the use of ionizing radiation. Its use for robotic interventional procedures is challenging, however, due to the incompatibility of standard actuation technologies with the high magnetic fields produced within the scanner and the complexity of alternate compatible technologies. An alternative approach is to create an actuator that can be both powered and controlled using the MRI scanner itself. We have designed and demonstrated such an actuator in a clinical MRI scanner. Our current research on this topic involves improving actuator design, developing state estimators and achieving closed loop control. We are also investigating a variety of clinical applications for this technology.
 
 
 **MRI-Powered Millirobot Swarms.** 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredSwarms.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/implant3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 There are many examples of minimally invasive surgery in which tethered robots are incapable of accurately reaching target locations deep inside the body either because they are too large and result in tissue damage or because the tortuosity of the path leads to loss of tip control. In these situations, groups of small untethered magnetically-powered robots may hold the potential to act as a network of sensors or as delivery vehicles for therapeutic agents. While prior work has focused on controlling a single robot with MRI, our focus is on the development of techniques for individually controlling groups of millimeter- and micron-scale swimming robots. We are also working on functionalizing our robots for specific clinical applications.
 
 
