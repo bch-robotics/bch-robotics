@@ -1,19 +1,19 @@
 ---
-title: "Allan Lab - Team"
+title: "Pediatric Cardiac Bioengineering Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Pediatric Cardiac Bioengineering Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-## Staff
+## Director
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Post-doctoral Research Fellows
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -165,7 +165,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors, Masters students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -182,15 +182,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
