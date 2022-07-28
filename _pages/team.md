@@ -68,9 +68,7 @@ Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab vi
 {% endfor %}
 
 ## Alumni
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<div>
 {% for member in site.data.alumni %}
 {{ member.name }}
 {% endfor %}
