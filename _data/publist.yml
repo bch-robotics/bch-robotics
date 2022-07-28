@@ -9,33 +9,29 @@
 
 - title: "Continuum Robots for Medical Interventions"
   image: dupon1abcdefghijklm-3141338-small.gif
-  description: Why do cuprate superconductors stop superconducting past a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
+  description: This article attempts to provide a unified summary of the state of the art of continuum robot architectures with respect to design for specific clinical applications.
   authors: Pierre E. Dupont, Nabil Simaan, Howie Choset, Caleb Rucker
   link:
     url: https://ieeexplore.ieee.org/document/9707607
     display: Proceedings of the IEEE, 2022.
   highlight: 1
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+- title: "Non-surgical Removal of Partially Absorbable Bionic Implants"
   image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+  description: This paper investigates a strategy in which an implant is fabricated from a combination of absorbable and non-absorbable materials with the latter connected by a tether to the skin.
+  authors: V. Del Bono, J. Peine, M. Finocchiaro, K. Price, M. Mencattelli, Y. Chitalia, V. Ko, L. Yu, J. Secor, A. Pan, Z. Machaidze, M. Puder, A. Artoni, P.E. Dupont
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+    url: http://robotics.tch.harvard.edu/publications/pdfs/delbono2022nonsurgical.pdf
+    display: IEEE Transactions on Medical Robotics and Bionics, 2022
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Preclinical Evaluation of a Pediatric Airway Stent for Tracheobronchomalacia"
+  image: 1-s2.0-S0022522320305729-gr3_lrg.jpg
+  description: We sought to demonstrate in an animal model that helical stents made from a nickel titanium alloy called nitinol (NiTi) and designed for malacic airways could be delivered and removed without significant trauma while minimally impeding mucus clearance during the period of implantation.
+  authors: Abhijit Mondal, Junhyoung Ha, Vickie Y. Jo, Fei-Yi Wu, Aditya K. Kaza, Pierre E. Dupont
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
-  highlight: 0
-  news2:
+    url: https://doi.org/10.1016/j.jtcvs.2020.03.007
+    display: The Journal of Thoracic and Cardiovascular Surgery, Elsevier, vol. 161, no. 1, pp. e51-e60, 2021
+
 
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
   image: TBG_SL.png
