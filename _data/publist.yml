@@ -33,34 +33,30 @@
     display: The Journal of Thoracic and Cardiovascular Surgery, Elsevier, vol. 161, no. 1, pp. e51-e60, 2021
 
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "In Vivo Molding of Airway Stents"
+  image: 
+  description: This paper reports an in vivo molding process in which a soft flexible photocurable stent is delivered into the trachea or bronchi over a ultraviolet (UV)-transparent balloon.
+  authors: M. Mencattelli, A. Mondal, R. Miale, D Van Story, J. Peine, Y. Li, A. Artoni, A.K. Kaza, P. E. Dupont
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202010525
+    display:  Advanced Functional Materials, vol. 2010525, pp. https://doi.org/10.1002/adfm.202010525, 2021
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
+- title: "A Soft Robotic Balloon Endoscope for Airway Procedures"
+  image: soft_robotics_2021.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+  authors: Y. Li, J. Peine, M. Mencattelli, J. Wang, J. Ha, P. E. Dupont
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+    url: https://pubmed.ncbi.nlm.nih.gov/34813373/
+    display:  Soft Robotics, 2021
 
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
+
+- title: "A decade retrospective of medical robotics research from 2010 to 2020"
+  image: scirobotics.abi8017-f1.jpg
+  description: Our goal for this Review article is to provide an accessible way for readers to quickly appreciate some of the most exciting accomplishments in medical robotics over the past decade; for this reason, we have focused only on a small number of seminal papers in each thematic area. 
+  authors: Pierre E. Dupont, Bradley J. Nelson, Michael Goldfarb, Blake Hannaford, Arianna Menciassi, Marcia K. O'Malley, Nabil Simaan, Pietro Valdastri, Guang-Zhong Yang
   link:
-    url: https://dx.doi.org/10.1038/s41535-020-00303-4
-    display: npj Quantum Materials 6, 7 (2021)
-  highlight: 0
-  news2:
+    url: https://www.science.org/doi/abs/10.1126/scirobotics.abi8017
+    display: Science Robotics, vol. 6, no. 60, pp. eabi8017, 2021
 
 
 - title: "Observation of flat bands in twisted bilayer graphene"
