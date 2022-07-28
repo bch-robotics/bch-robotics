@@ -1,14 +1,15 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
+- name: Pierre E. Dupont, Ph. D.
+  photo: dupont.jpg
+  info: > 
+  Edward P. Marram Chair and Chief, 
+  Pediatric Cardiac Bioengineering 
+  Boston Children's Hospital,
+  Professor of Surgery 
+  Harvard Medical School
+  email: milan.pierre.dupont@childrens.harvard.edu
+  number_educ: 1
+  education1:  
+  
 - name: Jianfeng (Jacky) Ge
   photo: Jacky.jpg
   info: Postdoc, started Oct 2019
