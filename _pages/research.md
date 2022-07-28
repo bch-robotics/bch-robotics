@@ -41,7 +41,7 @@ While tools for minimally invasive surgery are often needed at the millimeter sc
 
 
 
-
+<br />
 **3D Ultrasound Tracking and Servoing of Surgical Instruments.** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ultrasoundTracking.png){: style="width: 250px; float: left; margin: 0px  10px"}
