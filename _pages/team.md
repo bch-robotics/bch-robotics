@@ -25,9 +25,9 @@ Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab vi
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-   {{ member.info }} <br>
-   Contact: <{{ member.email }}>
+  <h4>{{ member.name }}</h4><br>
+   {{ member.info }}<br>
+   <ins>Contact:</ins> <{{ member.email }}>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -57,12 +57,13 @@ Jump to [Director](#director), [postdocs](#postdocs), [alumni](#alumni), [lab vi
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4><br>
-  Interests:<br>
+  <ins>Interests:</ins><br>
   {{ member.interests }} 
   <br>
-  Contact: <{{ member.email }}><br>
-  Bio:<br> {{ member.bio }} 
+  <ins>Contact:</ins> <{{ member.email }}><br>
+  <ins>Bio:</ins><br> {{ member.bio }} 
 </div>
 {% endfor %}
 
