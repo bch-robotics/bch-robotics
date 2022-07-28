@@ -53,7 +53,7 @@ permalink: /publications/
 
 
 ## Patents
-<em>Sample Patent Author</em><br /> Methods of turning water to wine <br /> <a href="https://scholar.google.com/">US314159 (2023)</a>
+<em>Sample Patent Author</em><br /> Methods of turning water to wine <br /> <a [Patent](href="https://scholar.google.com/)">US314159 (2023)</a>
 
 ## Full List of publications
 
