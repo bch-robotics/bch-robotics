@@ -21,7 +21,9 @@ This technology can be licensed from Boston Children's Hospital.
 
 
 
-
+<br />
+<br />
+<br />
 **Concentric Tube Robots.** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/concentricTubes.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -33,7 +35,9 @@ This technology can be licensed from Boston University.
 
 
 
-
+<br />
+<br />
+<br />
 **MEMS Surgical Instruments**.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/metalMEMS.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -41,6 +45,8 @@ While tools for minimally invasive surgery are often needed at the millimeter sc
 
 
 
+<br />
+<br />
 <br />
 **3D Ultrasound Tracking and Servoing of Surgical Instruments.** 
 
@@ -51,7 +57,9 @@ While prior detection and tracking algorithms can be applied only to straight-sh
 
 
 
-
+<br />
+<br />
+<br />
 **MRI-Powered Robot Actuators.**  
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredActuator.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -59,7 +67,9 @@ Magnetic resonance imaging provides high quality images of soft tissue without t
 
 
 
-
+<br />
+<br />
+<br />
 **MRI-Powered Millirobot Swarms.** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredSwarms.png){: style="width: 250px; float: left; margin: 0px  10px"}
