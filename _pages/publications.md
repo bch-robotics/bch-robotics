@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Pediatric Cardiac Bioengineering Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Pediatric Cardiac Bioengineering Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
