@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our mission is to embed a team of creative young engineers in a world-class hospital where they can identify and solve clincally-relevant healthcare problems through the creation of new technology with a focus on commercialization
+Our mission is to embed a team of creative young engineers in a world-class hospital where they can identify and solve clincally-relevant healthcare problems through the creation of new technology with a focus on commercialization.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -74,6 +74,6 @@ Our mission is to embed a team of creative young engineers in a world-class hosp
 </div>
 We solve theoretical and practical problems in minimally invasive surgery. We specialize in medical robot and instrument design, development of imaging techniques for surgical guidance, modeling tool-tissue interaction and teleoperation/automation of instrument control. We utilize analytical tools from robotics, dynamics, and control, together with innovative design techniques to create successful solutions.
 
-Our team members come from diverse backgrounds with degrees in mechanical / biomedical / electrical engineering and medicine. Their specialties range from specialties range from biomedical robotics, clinical practice and imaging, to product design and many areas in between. Please explore our work, and feel free to contact us.
+Our team members come from diverse backgrounds with degrees in mechanical / biomedical / electrical engineering and medicine. Their specialties range from biomedical robotics, clinical practice and imaging, to product design and many areas in between. Please explore our work, and feel free to contact us.
 
  **We are  looking for passionate new Postdocs to join the team** 
