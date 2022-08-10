@@ -74,6 +74,3 @@ Magnetic resonance imaging provides high quality images of soft tissue without t
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredSwarms.png){: style="width: 250px; float: left; margin: 0px  10px"}
 There are many examples of minimally invasive surgery in which tethered robots are incapable of accurately reaching target locations deep inside the body either because they are too large and result in tissue damage or because the tortuosity of the path leads to loss of tip control. In these situations, groups of small untethered magnetically-powered robots may hold the potential to act as a network of sensors or as delivery vehicles for therapeutic agents. While prior work has focused on controlling a single robot with MRI, our focus is on the development of techniques for individually controlling groups of millimeter- and micron-scale swimming robots. We are also working on functionalizing our robots for specific clinical applications.
-
-
-### ... and more.
