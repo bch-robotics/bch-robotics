@@ -67,9 +67,9 @@ Jump to [Director](#director), [postdocs](#fellows), [alumni](#alumni).
 </div>
 {% endfor %}
 
-    
-  
-  
+
+
+
 ## Alumni
 <div class="row">
 {% for member in site.data.alumni %}
