@@ -23,8 +23,6 @@ Our mission is to embed a team of creative young engineers in a world-class hosp
 	<li data-target="#carousel" data-slide-to="8"></li>
 	<li data-target="#carousel" data-slide-to="9"></li>
 	<li data-target="#carousel" data-slide-to="10"></li>
-	<li data-target="#carousel" data-slide-to="11"></li>
-
     </ol>
 
     <!-- Items -->
