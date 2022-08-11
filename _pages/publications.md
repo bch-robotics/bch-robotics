@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+<!---## Group highlights--->
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
+<!---**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**--->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
