@@ -5,7 +5,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/9455126/
     display: IEEE Trans. Robotics, vol. 38, no. 1, pp. 477-490, 2022
-  highlight: 1
+  highlight: 0
 
 - title: "Continuum Robots for Medical Interventions"
   image: dupon1abcdefghijklm-3141338-small.gif
@@ -14,7 +14,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/9707607
     display: Proceedings of the IEEE, 2022.
-  highlight: 1
+  highlight: 0
 
 - title: "Non-surgical Removal of Partially Absorbable Bionic Implants"
   image: Pairs3.png
@@ -23,7 +23,7 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/delbono2022nonsurgical.pdf
     display: IEEE Transactions on Medical Robotics and Bionics, 2022
-  highlight: 1
+  highlight: 0
 
 - title: "Preclinical Evaluation of a Pediatric Airway Stent for Tracheobronchomalacia"
   image: 1-s2.0-S0022522320305729-gr3_lrg.jpg
@@ -32,7 +32,7 @@
   link:
     url: https://doi.org/10.1016/j.jtcvs.2020.03.007
     display: The Journal of Thoracic and Cardiovascular Surgery, Elsevier, vol. 161, no. 1, pp. e51-e60, 2021
-  highlight: 1
+  highlight: 0
 
 
 - title: "In Vivo Molding of Airway Stents"
@@ -51,7 +51,7 @@
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/34813373/
     display:  Soft Robotics, 2021
-  highlight: 1
+  highlight: 0
 
 
 - title: "A decade retrospective of medical robotics research from 2010 to 2020"
@@ -61,4 +61,4 @@
   link:
     url: https://www.science.org/doi/abs/10.1126/scirobotics.abi8017
     display: Science Robotics, vol. 6, no. 60, pp. eabi8017, 2021
-  highlight: 1
+  highlight: 0
