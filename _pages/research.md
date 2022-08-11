@@ -8,22 +8,7 @@ permalink: /research/
 
 # Research
 
-**Robotic Implants** 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/implant3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
-We are proposing a new class of medical devices that we call robotic implants. These devices are comprised of robots designed to autonomously regulate biological processes inside the body. Potential benefits of these devices include restoration of degraded or missing biological functionality, induction of tissue growth, as well as a reduction in the number of surgeries necessary to treat a patient with a chronic condition. These devices may move through the body or reside in one location and employ their degrees of freedom to interact with tissue structures. For example, they could automatically regulate flow resistance in the vasculature or adjust the length and compliance of tissues.
-
-
-A specific pediatric application is the treatment of long gap esophageal atresia. This is a congenital defect in which a portion of the esophagus is missing (see Figure). We are developing a robotic implant to apply traction forces to the two disconnected esophageal segments to induce sufficient tissue growth so that the two ends can be joined together to form a functioning esophagus. In contrast to the current manual method of externally applied traction forces, the implant offers the potential to avoid multi-week patient paralysis and sedation while substantially reducing treatment time and cost.
-
-
-This technology can be licensed from Boston Children's Hospital.
-
-
-
-<br />
-<br />
-<br />
 **Concentric Tube Robots.** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/concentricTubes.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -70,7 +55,7 @@ Magnetic resonance imaging provides high quality images of soft tissue without t
 <br />
 <br />
 <br />
-**MRI-Powered Millirobot Swarms.** 
+**Robotic Implants** 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredSwarms.png){: style="width: 250px; float: left; margin: 0px  10px"}
-There are many examples of minimally invasive surgery in which tethered robots are incapable of accurately reaching target locations deep inside the body either because they are too large and result in tissue damage or because the tortuosity of the path leads to loss of tip control. In these situations, groups of small untethered magnetically-powered robots may hold the potential to act as a network of sensors or as delivery vehicles for therapeutic agents. While prior work has focused on controlling a single robot with MRI, our focus is on the development of techniques for individually controlling groups of millimeter- and micron-scale swimming robots. We are also working on functionalizing our robots for specific clinical applications.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/implant3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+Robotic implants are devices designed to autonomously regulate biological processes inside the body. Potential benefits of these devices include restoration of degraded or missing biological functionality, induction of tissue growth, as well as a reduction in the number of surgeries necessary to treat a patient with a chronic condition. These devices may move through the body or reside in one location and employ their degrees of freedom to interact with tissue structures. For example, they could automatically regulate flow resistance in the vasculature or adjust the length and compliance of tissues. We have developed robotic implants to induce tissue regeneration in tubular organs. Specifically, we have considered the pediatric applications of long gap esophageal atresia and short bowel syndrome. The goal for both applications is to increase the length of the organ by applying controlled traction forces to the tissue over a period of several weeks. Our most recent work has considered how to design implants from a combination of absorbable and non-absorbable materials so that, if they need to be removed from the body, this can be done without surgery.
