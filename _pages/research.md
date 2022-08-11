@@ -9,46 +9,30 @@ permalink: /research/
 # Research
 
 
-**Concentric Tube Robots.** 
+**Heart Valve Repair** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/concentricTubes.png){: style="width: 250px; float: left; margin: 0px  10px"}
-Minimally invasive medical procedures involve the manipulation of sensors, tools and prosthetic devices inside the body while minimizing damage to surrounding tissue structures. In many cases, navigation to the surgical site involves steering the delivery instrument along three-dimensional curves through tissue to avoid bony or sensitive structures (percutaneous procedures), or following the interior contours of a body orifice (e.g., the nasal passages) or body cavity (e.g., the heart). Once at the surgical site, it is often necessary to control the position and orientation of the instrument’s distal tip while holding relatively immobile the proximal inserted length.
-
-A novel approach to constructing robots for such applications is based on concentrically combining pre-curved elastic tubes. By rotating and extending the tubes with respect to each other, their curvatures interact elastically to position and orient the robot’s tip, as well as control the robot’s shape along its length. In this approach, the flexible tubes comprise both the links and the joints of the robot. Since the actuators attach to the tubes at their proximal end, the robot itself forms a slender curve that is well suited for minimally invasive medical procedures. Our research encompasses the design, modeling and real-time control of this robot technology. We are also designing tip-mounted actuated tools for beating-heart intracardiac surgery.
-
-This technology can be licensed from Boston University.
+Our overall goal is to convert heart valve repair procedures that are currently performed as open-heart surgery into transcatheter interventions that avoid both the trauma of opening the chest as well as the use of cardiopulmonary bypass. This approach can reduce procedural risk enabling treatment earlier in the disease process and in patients too sick to undergo surgery. Replicating the dexterity and visualization of open surgery at the tip of the catheter inside a beating heart is challenging. Our research is comprised of three main components: the creation of steerable robotic catheters as a platform for valve repair, the development and integration of imaging technologies into the catheter, tip and the design of valve repair tools and devices. Our projects span identification of clinical need, idea conception, algorithmic design and prototyping to in vivo testing. We are currently targeting repair of the aortic, mitral and tricuspid valves. 
 
 
 
 <br />
 <br />
 <br />
-**MEMS Surgical Instruments**.
+**Multi-armed single-port medical robots**.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/metalMEMS.png){: style="width: 250px; float: left; margin: 0px  10px"}
-While tools for minimally invasive surgery are often needed at the millimeter scale, most manufacturing technologies are not well suited to this length scale. In this research, we are exploring the practicality of using a metal microelectromechanical systems (MEMS) technology for constructing devices for surgery inside the heart. In this approach, wafer-scale batch processing can produce fully-assembled devices composed of traditional mechanical components such as gears, screws and springs. We are teaming with Microfabrica, Inc. to design and test a toolbox of devices and implants for tissue removal and tissue approximation.
+Many surgical tasks require the coordinated use several tools at once. While this is easy to achieve in open surgery, it is more challenging during minimally invasive procedures. In laparoscopy, the use of multiple tools is achieved by inflating the abdomen to create an empty working volume and then inserting tools into this volume through separate incisions spread over the abdomen. In other parts of the body, the surgical site must be reached through a single pathway to avoid damaging surrounding delicate tissues. Examples include brain surgery as well as endoluminal procedures such as trans-oral or trans-anal surgery. Multi-armed robots equipped with endoscopic imaging provide the means to reproduce the coordinated use of several tools as is done in open surgery, but through a single small surgical corridor. Such single-port robots are designed with the arms and endoscope located at the distal end of a sheath that is either straight or steerable. We have developed a two-armed system with a straight sheath for neurosurgical procedures. Unique features of this robot include the high curvatures of the arms and the ability to intraoperatively swap the tools that are inserted through the arms. We have also developed a steerable sheath technology comprised of eccentrically arranged precurved superelastic tubes that serve as the working channels for the robotic arms. The shape of the sheath is controlled by rotating the precurved tubes with respect to the sheath. 
 
 
 
 <br />
 <br />
 <br />
-**3D Ultrasound Tracking and Servoing of Surgical Instruments.** 
+**Airway stents for tracheobronchomalacia** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ultrasoundTracking.png){: style="width: 250px; float: left; margin: 0px  10px"}
-Ultrasound imaging is a useful modality for guiding minimally invasive interventions due to its portability and safety. In cardiac surgery, for example, real-time 3D ultrasound imaging is being investigated for guiding repairs of complex defects inside the beating heart. Substantial difficulty can arise, however, when surgical instruments and tissue structures are imaged simultaneously to achieve precise manipulations. This research project includes: (1) the development of echogenic instrument coatings, (2) the design of passive instrument markers, and (3) the development of algorithms for instrument tracking and servoing. For example, a family of passive markers has been developed by which the position and orientation of a surgical instrument can be determined from a single 3D ultrasound volume using simple image processing. Marker-based estimates of instrument pose can be used in augmented reality displays or for image-based servoing.
-
-While prior detection and tracking algorithms can be applied only to straight-shafted instruments, our most recent work focuses on the detection and tracking of curved continuum robots, e.g., concentric tube robots.
-
-
-
-<br />
-<br />
-<br />
-**MRI-Powered Robot Actuators.**  
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mriPoweredActuator.png){: style="width: 250px; float: left; margin: 0px  10px"}
-Magnetic resonance imaging provides high quality images of soft tissue without the use of ionizing radiation. Its use for robotic interventional procedures is challenging, however, due to the incompatibility of standard actuation technologies with the high magnetic fields produced within the scanner and the complexity of alternate compatible technologies. An alternative approach is to create an actuator that can be both powered and controlled using the MRI scanner itself. We have designed and demonstrated such an actuator in a clinical MRI scanner. Our current research on this topic involves improving actuator design, developing state estimators and achieving closed loop control. We are also investigating a variety of clinical applications for this technology.
+Tracheobronchomalacia is a condition in which a portion of the trachea and bronchi collapse during respiration. While stents have the potential to support the collapsing airway segment, existing designs do not perform well. Current stent types exhibit some combination of the following limitations. They can block mucus transport, slide along the airway during coughing, induce the growth of granulation tissue that can block the airway or become embedded into the tissue such that they cannot be safely removed. Due to these limitations, both pediatric and adult patients must often undergo lengthy open surgical procedures to structurally reinforce the airways. With the goal of eliminating the need for such operations, we have created a helical stent along with delivery and removal tools that address the limitations of existing stent designs. Since the helical coils cover only a small portion of the airway, they do not impede mucus transport. Shaped like the threads of screw on the surface of the airway, the stent resists sliding. The small amount of material in the stent induces a smaller foreign body response. Furthermore, even if the inner surface of the airway grows over the stent, it can be safely removed using our removal tool which unscrews it like a corkscrew from the tissue. We have also developed a version of this stent that can be molded to the shape of the airway during delivery to achieve a patient-specific fit. We are currently refining this technology for commercialization. 
 
 
 
