@@ -70,7 +70,7 @@ Our mission is to embed a team of creative young engineers in a world-class hosp
     <span class="sr-only">Next</span>
   </a>
 </div>
-We solve theoretical and practical problems in minimally invasive surgery. We specialize in medical robot and instrument design, development of imaging techniques for surgical guidance, modeling tool-tissue interaction and teleoperation/automation of instrument control. We utilize analytical tools from robotics, dynamics, and control, together with innovative design techniques to create successful solutions.
+<div align="justify">We solve theoretical and practical problems in minimally invasive surgery. We specialize in medical robot and instrument design, development of imaging techniques for surgical guidance, modeling tool-tissue interaction and teleoperation/automation of instrument control. We utilize analytical tools from robotics, dynamics, and control, together with innovative design techniques to create successful solutions.
 
 Our team members come from diverse backgrounds with degrees in mechanical / biomedical / electrical engineering and medicine. Their specialties range from biomedical robotics, clinical practice and imaging, to product design and many areas in between. Please explore our work, and feel free to contact us.
 
