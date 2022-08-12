@@ -28,13 +28,13 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_2015.jpg" alt="Slide 1" height="200"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_2015.jpg" alt="Slide 1" width="auto" height="200"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.jpg" alt="Slide 2" height="200"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.jpg" alt="Slide 2" width="auto" height="200"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.jpg" alt="Slide 3" height="200"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.jpg" alt="Slide 3" width="auto" height="200"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-mems_small.jpg" alt="Slide 4" height="200"/>
