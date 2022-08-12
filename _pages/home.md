@@ -74,4 +74,4 @@ Our mission is to embed a team of creative young engineers in a world-class hosp
 
 Our team members come from diverse backgrounds with degrees in mechanical / biomedical / electrical engineering and medicine. Their specialties range from biomedical robotics, clinical practice and imaging, to product design and many areas in between. Please explore our work, and feel free to contact us.
 
- **We are  looking for passionate new Postdocs to join the team** 
+ **We are  looking for passionate new Postdocs to join the team [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies)** 
