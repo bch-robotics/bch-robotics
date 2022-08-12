@@ -16,6 +16,7 @@
   > .item {
     width: 250px; 
     height: 250px; 
+    display: none;
     position: relative;
     overflow: hidden; 
     @include transition(.6s ease-in-out left);
