@@ -13,12 +13,9 @@
   overflow: hidden;
   width: 100%;
 
-  > .item {
-    width: 250px; 
-    height: 250px; 
+  > .item { 
     display: none;
     position: relative;
-    overflow: hidden; 
     @include transition(.6s ease-in-out left);
 
     // Account for jankitude on images
