@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our mission is to embed a team of creative young engineers in a world-class hospital where they can identify and solve clincally-relevant healthcare problems through the creation of new technology with a focus on commercialization.
+<div align="justify">Our mission is to embed a team of creative young engineers in a world-class hospital where they can identify and solve clincally-relevant healthcare problems through the creation of new technology with a focus on commercialization.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
