@@ -23,7 +23,7 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix" style="text-align: justify">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4><br>
    {{ member.info }}<br>
@@ -44,8 +44,6 @@ permalink: /team/
 {% endif %}
 
 
-
-
 ## Post-doctoral Research Fellows
 {% assign number_printed = 0 %}
 {% for member in site.data.fellows %}
@@ -57,7 +55,7 @@ permalink: /team/
 {% endif %}
 
   <div class="col-sm-6 clearfix" style="text-align: justify">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: justify" />
   <h4>{{ member.name }}</h4><br>
   <ins>Interests:</ins><br>
   {{ member.interests }} 
@@ -66,8 +64,6 @@ permalink: /team/
   <ins>Bio:</ins><br> {{ member.bio }} 
 </div>
 {% endfor %}
-
-
 
 
 ## Alumni
