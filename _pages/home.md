@@ -28,37 +28,37 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_2015.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_2015.jpg" alt="Slide 1" width="200"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.jpg" alt="Slide 2" width="200"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.jpg" alt="Slide 3" width="200"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-mems_small.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-mems_small.jpg" alt="Slide 4" width="200"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/weitzman-gosline_small.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/weitzman-gosline_small.jpg" alt="Slide 5" width="200"/>
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_02_small.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_02_small.jpg" alt="Slide 6" width="200"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_small.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_small.jpg" alt="Slide 7" width="200"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_03_small.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_03_small.jpg" alt="Slide 8" width="200"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lego-actuator_small.jpg" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lego-actuator_small.jpg" alt="Slide 9" width="200"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heart-surgery_small.jpg" alt="Slide 10" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heart-surgery_small.jpg" alt="Slide 10" width="200"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tedmed_prnt_small.jpg" alt="Slide 11" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tedmed_prnt_small.jpg" alt="Slide 11" width="200"/>
         </div>	
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
