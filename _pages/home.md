@@ -31,16 +31,16 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_2015.jpg" alt="Slide 1"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.jpg" alt="Slide 2"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.png" alt="Slide 2"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.jpg" alt="Slide 3"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.png" alt="Slide 3"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-mems_small.jpg" alt="Slide 4"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-mems_small.png" alt="Slide 4"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/weitzman-gosline_small.jpg" alt="Slide 5"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/weitzman-gosline_small.png" alt="Slide 5"/>
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_02_small.jpg" alt="Slide 6"/>
@@ -52,10 +52,10 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_03_small.jpg" alt="Slide 8"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lego-actuator_small.jpg" alt="Slide 9"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lego-actuator_small.png" alt="Slide 9"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heart-surgery_small.jpg" alt="Slide 10"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heart-surgery_small.png" alt="Slide 10"/>
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tedmed_prnt_small.jpg" alt="Slide 11"/>
