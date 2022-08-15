@@ -23,7 +23,7 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix" style="text-align: justify">
+<div class="col-sm-8 clearfix" style="text-align: justify">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4><br>
    {{ member.info }}<br>
@@ -54,7 +54,7 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-  <div class="col-sm-6 clearfix" style="text-align: justify">
+  <div class="col-sm-8 clearfix" style="text-align: justify">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: justify" />
   <h4>{{ member.name }}</h4><br>
   <ins>Interests:</ins><br>
