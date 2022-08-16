@@ -66,16 +66,7 @@ permalink: /team/
 {% endfor %}
 
 
-## Alumni
-    {% assign number_printed = 0 %}
-{% for member in site.data.fellows %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row align-items">
-{% endif %}
-  
+## Alumni 
 <div class="row" style="text-align: justify">
 {% for member in site.data.alumni %}
 {{ member.name }}
