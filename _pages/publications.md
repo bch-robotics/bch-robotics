@@ -52,10 +52,10 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
+<!---## Patents
 <em>Sample Patent Author</em><br /> Methods of turning water to wine <br /> <a href="https://scholar.google.com/">US314159 (2023)</a>
 
-## Full List of publications
+## Full List of publications--->
 
 {% for publi in site.data.publist %}
 
