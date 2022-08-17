@@ -123,3 +123,53 @@
   link:
     url: https://robotics.sciencemag.org/content/3/14/eaar7650
     display: Science Robotics, vol. 3, no. 14, pp. 353-370, 2018
+
+
+- title: "**2017**"
+- title: "Optimizing Tube Precurvature to Enhance Elastic Stability of Concentric Tube Robots"
+  authors:  J. Ha, F.C. Park, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017optimizing.pdf
+    display: IEEE Trans. on Robotics, vol. 33, no. 1, pp. 22-37, 2017
+
+- title: "Medical robotics---Regulatory, ethical, and legal considerations for increasing levels of autonomy"
+  authors:  G.Z. Yang, J. Cambias, K. Cleary, E. Daimler, J. Drake, P.E. Dupont, N. Hata, P. Kazanzides, S. Martel, R. Patel, V. Santos, R. Taylor
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/yang2017medical.pdf
+    display: Science Robotics, vol. 2, no. 4, pp. eaam8638, 2017
+
+- title: "A low cost bioprosthetic semilunar valve for research, disease modeling and surgical training applications"
+  authors:  B. Rosa, Z. Machaidze, B. Shin, S. Manjila, D. Brown, C. Baird, J. Mayer Jr,P.E. Dupont
+  link:
+    url: https://academic.oup.com/icvts/article/25/5/785/4060635
+    display: Interactive CardioVascular and Thoracic Surgery, 2017
+
+- title: "Image-based Contact Stabilization Inside the Beating Heart"
+  authors: B. Rosa, G. Fagogenis, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/rosa2017image.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 17-18, 2017
+
+- title: "Cardioscopically-guided beating heart surgery: paravalvular leak repair"
+  authors: B. Rosa, Z. Machaidze, M. Mencattelli, S. Manjila, B. Shin, K. Price, M. Borger, V. Thourani, P.J. del Nido, D. Brown, C. Baird, J. Mayer Jr, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/rosa2017cardioscopically.pdf
+    display: The Annals of Thoracic Surgery, vol. 104, no. 3, pp. 1074-1079, 2017
+
+- title: "Incorporating Tube-to-Tube Clearances in the Kinematics of Concentric Tube Robots"
+  authors: J. Ha, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017incorporating.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 6730-6736, 2017
+
+- title: "Effect of Path HIstory on Concentric Tube Robot Model Calibration"
+  authors: J. Ha, G. Fagogenis, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017effect.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 77-78, 2017
+
+- title: "Designing Stable Concentric Tube Robots Using Piecewise Straight Tubes"
+  authors: J. Ha, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2016designing.pdf
+    display: IEEE Robotics and Automation Letters, vol. 2, no. 1, pp. 298-304, 2017
