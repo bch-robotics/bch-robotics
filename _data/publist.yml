@@ -74,3 +74,24 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6947666/
     display: IEEE Trans. Biomedical Engineering, vol. 67, no. 1, pp. 177-184, 2020
+
+
+- title: "**2019**"
+
+- title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
+  authors: J. Wang, J. Ha, P.E. Dupont
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910658/
+    display: IEEE Int. Conf. Robotics and Automation, pp. 9834-9840, 2019
+
+- title: "Optically-guided instrument for transapical beating-heart delivery of artificial mitral chordae tendineae"
+  authors: Z. Machaidze, M. Mencattelli, G. Arnal, K. Price, F. Wu, V. Weixler, D. Brown, J. Mayer Jr, P.E. Dupont
+  link:
+    url: https://www.jtcvs.org/article/S0022-5223(19)30671-3/fulltext
+    display: The Journal of Thoracic and Cardiovascular Surgery, vol. 158, no. 5, pp. 9834-9840, 2019
+
+- title: "Autonomous robotic intracardiac catheter navigation using haptic vision"
+  authors:  G. Fagogenis, M. Mencattelli, Z. Machaidze, B. Rosa, K. Price, F. Wu, V. Weixler, M. Saeed, J.E. Mayer, P.E. Dupont
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6693882/
+    display: Science Robotics, vol. 4, no. 29, pp. eaaw1977, 2019
