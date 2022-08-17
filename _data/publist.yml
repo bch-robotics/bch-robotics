@@ -8,3 +8,23 @@
     url: https://ieeexplore.ieee.org/document/9455126/
     display: IEEE Trans. Robotics, vol. 38, no. 1, pp. 477-490, 2022
   highlight: 0
+  
+- title: "Continuum Robots for Medical Interventions"
+  image: dupon1abcdefghijklm-3141338-small.gif
+  description: This article attempts to provide a unified summary of the state of the art of continuum robot architectures with respect to design for specific clinical applications.
+  authors: P.E. Dupont, N. Simaan, H. Choset, C. Rucker
+  link:
+    url: https://ieeexplore.ieee.org/document/9707607
+    display: Proceedings of the IEEE, 2022.
+  highlight: 0
+
+- title: "Non-surgical Removal of Partially Absorbable Bionic Implants"
+  image: Pairs3.png
+  description: This paper investigates a strategy in which an implant is fabricated from a combination of absorbable and non-absorbable materials with the latter connected by a tether to the skin.
+  authors: V. Del Bono, J. Peine, M. Finocchiaro, K. Price, M. Mencattelli, Y. Chitalia, V. Ko, L. Yu, J. Secor, A. Pan, Z. Machaidze, M. Puder, A. Artoni, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/delbono2022nonsurgical.pdf
+    display: IEEE Transactions on Medical Robotics and Bionics, 2022
+  highlight: 0
+  
+- title: "**2021**"
