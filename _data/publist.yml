@@ -3,7 +3,7 @@
 - title: "Eccentric Tube Robots as Multiarmed Steerable Sheaths"
   image: wang1-3080659-large.gif
   description: This article presents a novel continuum robot sheath for use in single-port minimally invasive procedures such as neuroendoscopy in which the sheath is designed to deliver multiple robotic arms. Actuation of the sheath is achieved by using precurved superelastic tubes lining the working channels used for arm delivery. 
-  authors: Jiaole Wang, Joseph Peine, Pierre E. Dupont
+  authors: J. Wang, J. Peine, P.E. Dupont
   link:
     url: https://ieeexplore.ieee.org/document/9455126/
     display: IEEE Trans. Robotics, vol. 38, no. 1, pp. 477-490, 2022
@@ -12,7 +12,7 @@
 - title: "Continuum Robots for Medical Interventions"
   image: dupon1abcdefghijklm-3141338-small.gif
   description: This article attempts to provide a unified summary of the state of the art of continuum robot architectures with respect to design for specific clinical applications.
-  authors: Pierre E. Dupont, Nabil Simaan, Howie Choset, Caleb Rucker
+  authors: P.E. Dupont, N. Simaan, H. Choset, C. Rucker
   link:
     url: https://ieeexplore.ieee.org/document/9707607
     display: Proceedings of the IEEE, 2022.
@@ -32,7 +32,7 @@
 - title: "Preclinical Evaluation of a Pediatric Airway Stent for Tracheobronchomalacia"
   image: 1-s2.0-S0022522320305729-gr3_lrg.jpg
   description: We sought to demonstrate in an animal model that helical stents made from a nickel titanium alloy called nitinol (NiTi) and designed for malacic airways could be delivered and removed without significant trauma while minimally impeding mucus clearance during the period of implantation.
-  authors: Abhijit Mondal, Junhyoung Ha, Vickie Y. Jo, Fei-Yi Wu, Aditya K. Kaza, Pierre E. Dupont
+  authors: A. Mondal, J. Ha, V. Y. Jo, F.Y. Wu, A. K. Kaza, P.E. Dupont
   link:
     url: https://doi.org/10.1016/j.jtcvs.2020.03.007
     display: The Journal of Thoracic and Cardiovascular Surgery, Elsevier, vol. 161, no. 1, pp. e51-e60, 2021
@@ -61,7 +61,7 @@
 - title: "A decade retrospective of medical robotics research from 2010 to 2020"
   image: scirobotics.abi8017-f1.jpg
   description: Our goal for this Review article is to provide an accessible way for readers to quickly appreciate some of the most exciting accomplishments in medical robotics over the past decade; for this reason, we have focused only on a small number of seminal papers in each thematic area. 
-  authors: Pierre E. Dupont, Bradley J. Nelson, Michael Goldfarb, Blake Hannaford, Arianna Menciassi, Marcia K. O'Malley, Nabil Simaan, Pietro Valdastri, Guang-Zhong Yang
+  authors: P.E. Dupont, B. J. Nelson, M. Goldfarb, B. Hannaford, A. Menciassi, M. K. O'Malley, N. Simaan, P. Valdastri, G.Z. Yang
   link:
     url: https://www.science.org/doi/abs/10.1126/scirobotics.abi8017
     display: Science Robotics, vol. 6, no. 60, pp. eabi8017, 2021
@@ -71,7 +71,17 @@
 
 
 - title: "Pediatric Airway Stent Designed to Facilitate Mucus Transport and Atraumatic Removal"
-  authors: Ha, J. and Mondal, A. and Zhao, Z. and Kaza, A.K. and Dupont, P.E.
+  authors: J. Ha, A. Mondal, Z. Zhao, A.K. Kaza, P.E. Dupont
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6947666/
     display: IEEE Trans. Biomedical Engineering, vol. 67, no. 1, pp. 177-184, 2020
+ 
+ - title: "**2019**"
+ 
+ 
+ - title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
+   authors: J. Wang, J. Ha, P.E. Dupont
+   link:
+	   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910658/
+     display: IEEE Int. Conf. Robotics and Automation, pp. 9834-9840, 2019
+	
