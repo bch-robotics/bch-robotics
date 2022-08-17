@@ -28,3 +28,40 @@
   highlight: 0
   
 - title: "**2021**"
+
+
+- title: "Preclinical Evaluation of a Pediatric Airway Stent for Tracheobronchomalacia"
+  image: 1-s2.0-S0022522320305729-gr3_lrg.jpg
+  description: We sought to demonstrate in an animal model that helical stents made from a nickel titanium alloy called nitinol (NiTi) and designed for malacic airways could be delivered and removed without significant trauma while minimally impeding mucus clearance during the period of implantation.
+  authors: A. Mondal, J. Ha, V. Y. Jo, F.Y. Wu, A. K. Kaza, P.E. Dupont
+  link:
+    url: https://doi.org/10.1016/j.jtcvs.2020.03.007
+    display: The Journal of Thoracic and Cardiovascular Surgery, Elsevier, vol. 161, no. 1, pp. e51-e60, 2021
+  highlight: 0
+
+- title: "In Vivo Molding of Airway Stents"
+  image: 
+  description: This paper reports an in vivo molding process in which a soft flexible photocurable stent is delivered into the trachea or bronchi over a ultraviolet (UV)-transparent balloon.
+  authors: M. Mencattelli, A. Mondal, R. Miale, D Van Story, J. Peine, Y. Li, A. Artoni, A.K. Kaza, P. E. Dupont
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202010525
+    display:  Advanced Functional Materials, vol. 2010525, pp. https://doi.org/10.1002/adfm.202010525, 2021
+  highlight: 0
+
+- title: "A Soft Robotic Balloon Endoscope for Airway Procedures"
+  image: soft_robotics_2021.PNG
+  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
+  authors: Y. Li, J. Peine, M. Mencattelli, J. Wang, J. Ha, P. E. Dupont
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34813373/
+    display:  Soft Robotics, 2021
+  highlight: 0
+
+- title: "A decade retrospective of medical robotics research from 2010 to 2020"
+  image: scirobotics.abi8017-f1.jpg
+  description: Our goal for this Review article is to provide an accessible way for readers to quickly appreciate some of the most exciting accomplishments in medical robotics over the past decade; for this reason, we have focused only on a small number of seminal papers in each thematic area. 
+  authors: P.E. Dupont, B. J. Nelson, M. Goldfarb, B. Hannaford, A. Menciassi, M. K. O'Malley, N. Simaan, P. Valdastri, G.Z. Yang
+  link:
+    url: https://www.science.org/doi/abs/10.1126/scirobotics.abi8017
+    display: Science Robotics, vol. 6, no. 60, pp. eabi8017, 2021
+  highlight: 0
