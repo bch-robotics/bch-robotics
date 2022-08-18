@@ -531,3 +531,65 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/anor2011algorithms.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 667-673, 2011
+
+- title: "**2010**"
+- title: "IN-Haptics: interactive navigation using haptics"
+  authors: R. Walker, S. Andersson, C. Belta, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/walker2010in.pdf
+    display: IEEE Haptics Symposium, pp. 463-466, 2010
+
+- title: "Stiffness control of a continuum manipulator in contact with a soft environment"
+  authors: M. Mahvash, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2010stiffness.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 863-870, 2010
+
+- title: "Mechanics of dynamic needle insertion into a biological material"
+  authors: M. Mahvash, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2010mechanics.pdf
+    display: IEEE Trans. Biomedical Engineering, vol. 57, no. 4, pp. 934-943, 2010
+
+- title: "Quasistatic modeling of concentric tube robots with external loads"
+  authors: J. Lock, G. Lain, M. Mahvash, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/lock2010quasistatic.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2325-2332, 2010
+
+- title: "Real-time position control of concentric tube robots"
+  authors: P.E. Dupont, J. Lock, B. Itkowitz
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2010real.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 562-568, 2010
+
+- title: "Design and control of concentric tube robots"
+  authors: P.E. Dupont, J. Lock, B. Itkowitz, E. Butler
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2010design.pdf
+    display: IEEE Trans. Robotics, vol. 26, no. 2, pp. 209-225, 2010
+
+- title: "**2009**"
+- title: "Image guided surgical interventions"
+  authors: D. Perrin, N.V. Vasilyev, P. Novotny, J.A. Stoll, R. Howe,P.E. Dupont, I. Salgo, P.J. del Nido
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/perrin2009image.pdf
+    display: Current Problems in Surgery, vol. 46, no. 9, pp. 730-766, 2009
+
+- title: "Fast needle insertion to minimize tissue deformation and damage"
+  authors: M. Mahvash, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2009fast.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 3097-3102, 2009
+
+- title: "Discrete-time elasto-plastic friction estimation"
+  authors: V. Hayward, B. Armstrong, F. Altpeter, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/hayward2009discrete.pdf
+    display: IEEE Trans. Control Systems Technology, vol. 17, no. 3, pp. 688-696, 2009
+
+- title: "Torsional kinematic model for concentric tube robots"
+  authors: P.E. Dupont, J. Lock, E. Butler
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2009torsional.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 3851-3858, 2009
