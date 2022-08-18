@@ -625,3 +625,52 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/huang2007imaging.pdf
     display: J. Ultrasound in Medicine, vol. 26, pp. 1303-1322, 2007
+
+- title: "**2006**"
+- title: "Real-time 3D ultrasound-based servoing of a surgical instrument"
+  authors: J. Stoll, P. Novotny, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2006real.pdf
+    display: IEEE Int. Conf. Robotics and Automation, 2006
+
+- title: "Force control for grasping force tissue"
+  authors: J. Stoll, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2006force.pdf
+    display: IEEE Int. Conf. Robotics and Automation, 2006
+
+- title: "A steerable needle technology using curved concentric tubes"
+  authors: P. Sears, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/sears2006steerable.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2006
+
+- title: "Stereo display of 3D ultrasound images for surgical robot guidance"
+  authors: P. Novotny, D. Kettler, P. Jordan, P.E. Dupont, P.J. del Nido, R. Howe, R.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/17946048/
+    display: IEEE Engineering in Medicine and Biology Conf., 2006
+
+- title: "GPU based real-time instrument tracking with three-dimensional ultrasound"
+  authors: P. Novotny, J. Stoll, N.V. Vasilyev, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/novotny2006gpu.pdf
+    display: Int. Conf. Medical Image Computing and Computer Assisted Intervention, 2006
+
+- title: "3D ultrasound in robotic surgery: a study of performance with stereo displays"
+  authors: P. Novotny, S. Jacobsen, N.V. Vasilyev, D. Kettler, I. Salgo, P.E. Dupont, P.J. del Nido, R. Howe
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.102
+    display: Int. J. Medical Robotics and Computer Assisted Surgery, vol. 2, pp. 279-285, 2006
+
+- title: "Producing diffuse ultrasound reflections from medical instruments using the quadratic residue diffuser"
+  authors: J. Huang, P.E. Dupont, A. Undurti, J. Triedman, R. Cleveland
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/huang2006producing.pdf
+    display: Ultrasound in Medicine and Biology, vol. 32, no. 5, pp. 721-727, 2006
+
+- title: "Electromechanical emulation of active vibratory systems"
+  authors: W. Chen, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/huang2006producing.pdf
+    display: J. Acoustical Society of America, vol. 119, no. 3, pp. 27-33, 2006
