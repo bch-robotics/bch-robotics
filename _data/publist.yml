@@ -476,3 +476,58 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2012tracking.pdf
     display: IEEE Engineering in Medicine and Biology Conf., pp. 928-931, 2012
+
+- title: "**2011**"
+- title: "MRI-powered actuators for robotic interventions"
+  authors: P. Vartholomeos, L. Qin, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2011mri.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 4508-4515, 2011
+
+- title: "Tubular structure enhancement for surgical instrument detection in 3D ultrasound"
+  authors: H. Ren, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2011tubular.pdf
+    display: IEEE Engineering in Medicine and Biology Conf., pp. 7203-7206, 2011
+
+- title: "Detection of curved robots using 3D ultrasound"
+  authors: H. Ren, N.V. Vasilyev, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2011detection.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2083-2089, 2011
+
+- title: "Stiffness control of surgical continuum manipulators"
+  authors: M. Mahvash, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2011stiffness.pdf
+    display: IEEE Trans. Robotics, vol. 27, no. 2, pp. 334-345, 2011
+
+- title: "Friction modeling in concentric tube roots"
+  authors: J. Lock, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/lock2011friction.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1139-1146, 2011
+
+- title: "Beating-heart mitral valve chordal replacement"
+  authors: G. Laing, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/laing2011beating.pdf
+    display: IEEE Engineering in Medicine and Biology Conf., pp. 2476-2479, 2011
+
+- title: "Metal-MEMS tools for beating-heart tissue approximation"
+  authors: E. Butler, C. Folk, A. Cohen, N.V. Vasilyev, R. Chen, P.J. del Nido, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/butler2011metal.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 411-416, 2011
+
+- title: "Design optimization of concentric tube robots based on task and anatomical constraints"
+  authors: C. Bedell, J. Lock, A. Gosline, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/bedell2011design.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 398-403, 2011
+
+- title: "Algorithms for design of continuum robots using the concentric tubes approach: a neurosurgical example"
+  authors: T. Anor, J. Madsen, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/anor2011algorithms.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 667-673, 2011
