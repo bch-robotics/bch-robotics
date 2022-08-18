@@ -705,3 +705,28 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/chen2005realization.pdf
     display: J. Acoustical Society of America, vol. 118, no. 2, 2005
+
+- title: "**2004**"
+- title: "Multi-Channel Vibrotactile Display for Teleoperated Assembly"
+  authors: T. Debus, P.E. Dupont, R.D. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004multi.pdf
+    display: International Journal of Control, Automation and System, vol. 2, no. 3, pp. 390-397, 2004
+
+- title: "Distinguishability and identifiability of contact states"
+  authors: T. Debus, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004distinguishability.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1135-1140, 2004
+
+- title: "Contact state estimation using multiple model estimation and hidden markov models"
+  authors: T. Debus, P.E. Dupont, R.D. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004contact.pdf
+    display: Int. J. Robotics Research, vol. 23, no. 4, pp. 399-414, 2004
+
+- title: "Kinematic error correction for minimally invasive surgical robots"
+  authors: R. Beasley, R. Howe, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/beasley2004kinematic.pdf
+    display: IEEE Int. Conf. Robotics and Automation, 2004
