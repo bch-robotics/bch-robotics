@@ -593,3 +593,35 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2009torsional.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3851-3858, 2009
+
+- title: "**2008**"
+- title: "Bilateral teleoperation of flexible surgical robots"
+  authors: M. Mahvash, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2008bilateral.pdf
+    display: IEEE Int. Conf. Robotics and Automation, New Vistas and Challenges in Telerobotics Workshop, 2008
+
+- title: "**2007**"
+- title: "Inverse kinematics of concentric tube steerable needles"
+  authors: P. Sears, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/sears2007inverse.pdf
+    display: IEEE Int. Conf. Robotics and Automation, 2007
+
+- title: "Real-time visual servoing of a robot using three dimensional ultrasound"
+  authors: P. Novotny, J. Stoll, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/novotny2007real.pdf
+    display: IEEE Int. Conf. Robotics and Automation, 2007
+
+- title: "GPU based real-time instrument tracking with three-dimensional ultrasound"
+  authors: P. Novotny, J. Stoll, N. Vasilyev, P.J. del Nido, P.E. Dupont, PT. Zickler, R. Howe
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2693901/
+    display: Medical Image Analysis, vol. 11, pp. 458-464, 2007
+
+- title: "Imaging artifacts of medical instruments in ultrasound-guided interventions"
+  authors: J. Huang, J. Triedman, N.V. Vasilyev, Y. Suematsu, R. Cleveland, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/huang2007imaging.pdf
+    display: J. Ultrasound in Medicine, vol. 26, pp. 1303-1322, 2007
