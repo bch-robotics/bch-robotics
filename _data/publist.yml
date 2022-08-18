@@ -674,3 +674,34 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/chen2006electromechanical.pdf
     display: J. Acoustical Society of America, vol. 119, no. 3, pp. 27-33, 2006
+
+- title: "**2005**"
+- title: "Three-dimensional echo-guided beating heart surgery without cardiopulmonary bypass - atrial septal defect closure in a swine model"
+  authors: Y. Suematsu, J.F. Martinez, B.K. Wolf, G.R. Marx, J.A. Stoll, P.E. Dupont, R. Howe, J.K. Triedman, P.J. del Nido
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/suematsu2005three.pdf
+    display: J. Thorac Cardiovascular Surgery, vol. 130, no. 5, pp. 1348-1357, 2005
+
+- title: "Passive markers for ultrasound tracking of surgical instruments"
+  authors: J. Stoll, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2005passive.pdf
+    display: Int. Conf. Medical Image Computing and Computer Assisted Intervention, 2005
+
+- title: "Trajectory optimization for dynamic needle insertion"
+  authors: M. Heverly, P.E. Dupont, J. Triedman
+  link:
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.6247&rep=rep1&type=pdf
+    display: IEEE Int. Conf. Robotics and Automation, 2005
+
+- title: "Distinguishability and identifiability testing of contact state models"
+  authors: T.J. Debus, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2005distinguishability.pdf
+    display: Advanced Robotics, vol. 19, no. 5, pp. 545-566, 2005
+
+- title: "Realization of mechanical systems from second-order models"
+  authors: W. Chen, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/chen2005realization.pdf
+    display: J. Acoustical Society of America, vol. 118, no. 2, 2005
