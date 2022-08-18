@@ -181,3 +181,63 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/manjila2016multiport.pdf
     display: Neurosurgical Focus, vol. 41, no. 3, pp. E13 (15 pages), 2016
+ 
+- title: "Cardioscopic Tool-delivery Instrument for Beating-heart Surgery"
+  authors: A. Ataollahi,I. Berra, N.V. Vasilyev, Z. Machaidze, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ataollahi2015cardio.pdf
+    display: ASME / IEEE Trans. Mechatronics, vol. 21, no. 1, pp. 584-590, 2016
+
+- title: "When will a robot outperform a handheld instrument? - A Case Study in Beating-heart Paravalvular Leak Closure"
+  authors: B. Rosa and Z. Machaidze, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/rosa2016when.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 11-12, 2016
+
+- title: "A Robotic Implant for Enterogenesis"
+  authors: K. Price, Z. Machaidze, T. Jaksic, R.P. Jennings, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/price2016robotic.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 68-69, 2016
+
+- title: "Multi-port Neuroendoscope for Robotic Intraventricular Procedures"
+  authors: M. Mencattelli, S. Manjila, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mencattelli2016multi.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 32-33, 2016
+
+- title: "Enabling Automated MRI-based Targeting Assessment During Dipole Field Navigation"
+  authors: M. Latulippe, O. Felfoul, P.E. Dupont, S. Martel
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/latulippe2016enabling.pdf
+    display: Applied Physics Letters, vol. 108, no. 062403, 2016
+
+- title: "Toward On-line Parameter Estimation of Concentric Tube Robots Using a Mechanics-based Model"
+  authors: C. Jang, J. Ha, P.E. Dupont, F.C. Park
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/jang2016toward.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2016
+
+- title: "Elastic Stability of Concentric Tube Robots Subject to External Loads"
+  authors: J. Ha, F.C. Park, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2016elastic.pdf
+    display: IEEE Trans. Biomedical Engineering, vol. 63, no. 6, pp. 1116-1128, 2016
+
+- title: "Simultaneous steering and imaging of magnetic particles using MRI toward delivery of therapeutics"
+  authors: O. Felfoul, A. Becker, G. Fagogenis, P.E. Dupont
+  link:
+    url: https://www.nature.com/articles/srep33567
+    display: Scientific Reports, 2016
+
+- title: "Adaptive Nonparametric Kinematic Modeling of Concentric Tube Robots"
+  authors: G. Fagogenis, C. Bergeles, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/fagogenis2016adaptive.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2016
+
+- title: "Biocompatible Pressure Sensing Skins for Minimally Invasive Surgical Instruments"
+  authors: V. Arabagi, O. Felfoul, A. Gosline, R. Wood, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/arabagi2016biocompatible.pdf
+    display: IEEE Sensors Journal, vol. 16, no.5, pp. 1294-1303, 2016
