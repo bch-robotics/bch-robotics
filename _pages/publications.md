@@ -13,7 +13,7 @@ permalink: /publications/
 
 <!---**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**--->
 
-{% assign number_printed = 0 %}
+<!---{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -49,7 +49,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p>--->
 
 
 <!---## Patents
