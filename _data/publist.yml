@@ -240,4 +240,78 @@
   authors: V. Arabagi, O. Felfoul, A. Gosline, R. Wood, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/arabagi2016biocompatible.pdf
-    display: IEEE Sensors Journal, vol. 16, no.5, pp. 1294-1303, 2016
+    display: IEEE Sensors Journal, vol. 16, no. 5, pp. 1294-1303, 2016
+    
+    
+- title: "**2015**"
+- title: "Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints"
+  authors: C. Bergeles, A.H. Gosline, N.V. Vasilyev, P.J. Codd, P.J. del Nido, P.E. and Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2015concentric.pdf
+    display: IEEE Trans. Robotics, vol. 33, no. 1, pp. 67-84, 2015
+
+- title: "Tissue Removal Inside the Beating Heart using a Robotically Delivered Metal MEMS Tool"
+  authors: N.V. Vasilyev, A. Gosline, A. Veeramani, M.T. Wu,G. Schmitz, R. Chen, V. Arabagi, P.J. del Nido, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2015tissue.pdf
+    display: Int. J. Robotics Research, vol. 34, no. 2, pp. 236-247, 2015
+
+- title: "Intensity-based Visual Servoing for Instrument and Tissue Tracking in 3D Ultrasound Volumes"
+  authors: C. Nadeau, H. Ren, A. Krupa, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/nadeau2015intensity.pdf
+    display: IEEE Transactions on Automation Science and Engineering, vol. 12, no. 1, pp. 367-371, 2015
+
+- title: "Real-time Adaptive Kinematic Model Estimation of Concentric Tube Robots"
+  authors: C. Kim, S. Ryu, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/kim2015real.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3214-3219, 2015
+
+- title: "Cardioscopic Imaging to Guide Manual and Robotic Surgery Inside the Beating Heart"
+  authors: C. Kim, A. Ataollahi, I. Berra, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/kim2015cardioscopic.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 15-16, 2015
+
+- title: "Untethered Magnetic Millirobot for Targeted Drug Delivery"
+  authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/iacovacci2015untethered.pdf
+    display: Biomedical Microdevices, vol. 17, no. 3, pp. 1-12, 2015
+
+- title: "Magnetic Bi-component Millirobot for Targeted Drug Delivery"
+  authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/iacovacci2015magnetic.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 5-6, 2015
+
+- title: "Achieving Commutation Control of an MRI-powered Robot Actuator"
+  authors: O. Felfoul, A. Becker, C. Bergeles, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/felfoul2015achieving.pdf
+    display: IEEE Trans. Robotics, vol. 31, no. 2, pp. 387-399, 2015
+
+- title: "Stabilizing the Relative Position of Millirobots inside an MRI Scanner Considering Magnetic Interaction Forces"
+  authors: A. Eqtami, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/eqtami2015stabilizing.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3220-3226, 2015
+
+- title: "Design of a robotic implant for in vivo esophageal tissue growth"
+  authors: D. Damian, S. Arabagi, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/damian2015design.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 73-74, 2015
+
+- title: "Toward Tissue Penetration by MRI-powered Millirobots Using a Self-Assembled Gauss Gun"
+  authors: A. Becker, O. Felfoul, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/becker2015toward.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1184-1189, 2015
+
+- title: "MRI-Powered Robotics""
+  authors: A. Becker, O. Felfoul, Li Huang, P.E. Dupont
+  link:
+    url: https://swarmcontrol.ece.uh.edu/wp-content/papercite-data/pdf/becker2015mripoweredrobotics.pdf
+    display: International Symposium on Robotics Research, 2015
