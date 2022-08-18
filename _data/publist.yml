@@ -315,3 +315,51 @@
   link:
     url: https://swarmcontrol.ece.uh.edu/wp-content/papercite-data/pdf/becker2015mripoweredrobotics.pdf
     display: International Symposium on Robotics Research, 2015
+
+- title: "**2014**"
+- title: "Novel Pressure-Sensing Skin for Detecting Impending Tissue Damage during Neuroendoscopy"
+  authors: P. Codd, V. Arabagi, A. Gosline, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/codd2014novel.pdf
+    display: Journal of Neurosurgery: Pediatrics, vol. 13, no. 1, pp. 114-121, 2014
+
+- title: "FBG-based Shape Sensing Tubes for Continuum Robots"
+  authors: S. Ryu, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ryu2014FBG.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 3531-3537, 2014
+
+- title: "Optimizing Curvature Sensor Placement for Fast, Accurate Shape Sensing of Continuum Robots"
+  authors: B. Kim, J. Ha, F.C. Park, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/kim2014optimizing.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 5374-5379, 2014
+
+- title: "Achieving Elastic Stability of Concentric Tube Robots Through Optimization of Tube Precurvature"
+  authors: J. Ha, F. Park, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2014achieving.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 864-870, 2014
+
+- title: "MRI-powered Closed-loop Control for Multiple Magnetic Capsules"
+  authors: A. Eqtami, O. Felfoul, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/eqtami2014MRI.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3536-3542, 2014
+
+- title: "Robotic Implant to Apply Tissue Traction Forces in the Treatment of Esophageal Atresia"
+  authors: D. Damian, S. Arabagi, A. Fabozzo, P. Ngo, R. Jennings, M. Manfredi, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/damian2014robotic.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 786-792, 2014
+
+- title: "Simultaneously Powering and Controlling Many Actuators With a Clinical MRI Scanner"
+  authors: A. Becker, O. Felfoul, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/becker2014simultaneously.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2017-2023, 2014
+
+- title: "Robotic Surgery"
+  authors: N.V. Vasilyev, P.J. del Nido, P.E. Dupont
+  link:
+    display: Book chapter in E.M. da Cruz, D. Ivy, J. Jaggers, editors. Pediatric and Congenital Cardiology, Cardiac Surgery and Intensive Care, vol. 3 pp. 1237-1249, 2014
