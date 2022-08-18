@@ -364,3 +364,41 @@
   link:
     url: https://link.springer.com/referencework/10.1007/978-1-4471-4619-3
     display: Book chapter in E.M. da Cruz, D. Ivy, J. Jaggers, editors. Pediatric and Congenital Cardiology, Cardiac Surgery and Intensive Care, vol. 3 pp. 1237-1249, 2014
+
+
+- title: "**2013**"
+- title: "An MRI-powered and Controlled Actuator Technology for Tetherless Robotic Interventions"
+  authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2013MRI.pdf
+    display: Int. J. Robotics Research, vol. 32, no. 13, pp. 1536-1552, 2013
+
+- title: "Percutaneous Steerable Robotic Tool Delivery Platform and Metal MEMS Device for Tissue Manipulation and Approximation: Initial Experience with Closure of Patent Foramen Ovale"
+  authors: N.V. Vasilyev, A. Gosline, E. Butler, N. Lang, P. Codd, H. Yamauchi, E. Feins, C. Folk, A. Cohen, R. Chen, P.J. del Nido, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2013percutaneous.pdf
+    display: Circulation: Cardiovascular Interventions, vol. 6, pp. 468-475, 2013
+
+- title: "Achieving Biocompatibility in Soft Sensors for Surgical Robots"
+  authors: A. Gosline, V. Arabagi, A. Kassam, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/gosline2013achieving.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 5-6, 2013
+
+- title: "Planning Stable Paths for Concentric Tube Robots"
+  authors: C. Bergeles, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2013planning.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3077-3082, 2013
+
+- title: "Closed-Loop Commutation Control of an MRI-Powered Robot Actuator"
+  authors: C. Bergeles, P. Vartholomeos, L. Qin, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2013closed.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 690-695, 2013
+
+- title: "Simultaneous Soft Sensing of Contact Orientation and Force for Millimeter-scale Medical Robots"
+  authors: V. Arabagi, A. Gosline, R. Wood, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/arabagi2013simultaneous.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 4381-4387, 2013
