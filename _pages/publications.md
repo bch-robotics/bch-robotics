@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications {.tabset}
+# Publications 
 
 <!---## Group highlights--->
 
@@ -57,7 +57,6 @@ permalink: /publications/
 
 ## Full List of publications--->
 
-## 1
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
