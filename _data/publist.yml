@@ -402,3 +402,77 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/arabagi2013simultaneous.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 4381-4387, 2013
+
+
+- title: "**2012**"
+- title: "Robotics and imaging in congenital heart surgery"
+  authors: N.V. Vasilyev, P.E. Dupont, P.J. and del Nido
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2012robotics.pdf
+    display: Future Cardiology, vol. 8, no. 2, pp. 285-296, 2012
+
+- title: "Motion planning for multiple millimeter-scale magnetic capsules in a fluid environment"
+  authors: P. Vartholomeos, R. Akhavan-Sharif, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2012motion.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1927-1932, 2012
+
+- title: "Closed-loop position control of an MRI-powered biopsy robot"
+  authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2012closed.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 83-84, 2012
+
+- title: "Passive markers for tracking surgical instruments in real-time 3D ultrasound imaging"
+  authors: J.A. Stoll, H. Ren, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2012passive.pdf
+    display: IEEE Trans. Medical Imaging, vol. 31, no. 3, pp. 563-575, 2012
+
+- title: "Tubular enhanced geodesic active contours for continuum robot detection using 3D ultrasound"
+  authors: H. Ren, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2012tubular.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 2907-2912, 2012
+
+- title: "Target tracking in 3D ultrasound volumes by direct visual servoing"
+  authors: C. Nadeau, H. Ren, A. Krupa, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/nadeau2012target.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 15-16, 2012
+
+- title: "Percutaneous intracardiac beating-heart surgery using metal MEMS tissue approximation tools"
+  authors: A. Gosline, N.V. Vasilyev, E. and Butler, C. Folk, A. Cohen, R. Chen, N. Lang, P.J. del Nido, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/gosline2012percutaneous.pdf
+    display: Int. J. Robotics Research, 2012
+
+- title: "Metal-MEMS tools for beating-heart tissue approximation"
+  authors: E. Butler, C. Folk, A. Cohen, N.V. Vasilyev, R. Chen, P.J. del Nido, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/gosline2012metal.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 411-416, 2012
+
+- title: "Extending the reach and stability of manually steerable neuroendoscopes through robotics"
+  authors: P.E. Dupont, S. Chawarski, E. Butler, R. Hammond-Oakley, A. Gosline, P. Codd, T. Anor, J. Madsen, J. Lock
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2012extending.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 89-90, 2012
+
+- title: "Concentric Tube Robots for Minimally Invasive Surgery"
+  authors: P.E. Dupont, A. Gosline, N. Vasilyev, J. Lock, E. Butler, C. Folk, A. Cohen, A. Veeramani, M. Wu, G. Schmitz, R. Chen, R. del Nido
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2012concentric.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 3-4, 2012
+
+- title: "Robotic neuroendoscope with concentric tube augmentation"
+  authors:  E. Butler, R. Hammond-Oakley, S. Chawarski, A. Gosline, P. Codd, T. Anor, J. Madsen, P.E. Dupont, J. Lock
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/butler2012robotic.pdf
+    display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2941-2946, 2012
+
+- title: "Tracking and position control of an MRI-powered needle-insertion robot"
+  authors:  C. Bergeles, L. Qin, P. Vartholomeos, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2012tracking.pdf
+    display: IEEE Engineering in Medicine and Biology Conf., pp. 928-931, 2012
