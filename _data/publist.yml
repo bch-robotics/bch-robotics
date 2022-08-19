@@ -1043,3 +1043,17 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1991avoiding.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1470-1475, 1991
+
+
+- title: "**1990**"
+- title: "Two Phase Path Planning for Robots with Six or More Joints"
+  authors: P.E. Dupont, S. Derby
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1990two.pdf
+    display: Transactions of the ASME - Journal of Mechanical Design, vol. 112, no. 1, pp. 50-58, 1990
+
+- title: "Friction Modeling in Dynamic Robot Simulation"
+  authors: P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1990friction.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1370-1376, 1990
