@@ -1057,3 +1057,17 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1990friction.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1370-1376, 1990
+
+
+- title: "**1988**"
+- title: "A Two Phase Path Planning Algorithm for Robots with Six or More Joints"
+  authors: P.E. Dupont, S. Derby <br> Trends and Developments in Mechanisms, Machines and Robotics - 1988, ASME 20th Biennial Mechanisms Conference, vol. 3, pp. 415-428, 1988
+
+- title: "A Simple Heuristic Path Planner for Redundant Robots"
+  authors: P.E. Dupont, S. Derby <br> Trends and Developments in Mechanisms, Machines and Robotics - 1988, ASME 20th Biennial Mechanisms Conference, vol. 3, pp. 429-440, 1988
+
+- title: "An Algorithm for CAD-based Generation of Collision-Free Robot Paths"
+  authors: P.E. Dupont, S. Derby
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-642-83625-1_20
+    display: CAD Based Programming for Sensory Robots, NATO Advanced Research Workshop, vol. F50, pp. 433-465, 1988
