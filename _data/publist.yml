@@ -730,3 +730,43 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/beasley2004kinematic.pdf
     display: IEEE Int. Conf. Robotics and Automation, 2004
+
+
+- title: "**2003**"
+- title: "Contact state estimation using multiple model estimation and hidden markov models"
+  authors: T. Debus, P.E. Dupont, R.D. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2003contact.pdf
+    display: 8th Int. Symposium on Experimental Robotics, vol. 5, pp. 517-52, 2003
+
+- title: "Real-time 3-dimensional ultrasound for guiding surgical tasks"
+  authors: J. Cannon, J. Stoll, I. Salgo, H. Knowles, R. Howe, P.E. Dupont, G. Marx, P.J. del Nido
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/cannon2003real.pdf
+    display: Computer Aided Surgery, vol. 8, no. 2  pp. 82-90, 2003
+
+- title: "Port placement planning in robot-assisted coronary artery bypass"
+  authors: J. Cannon, J. Stoll, S. Selha, P.E. Dupont, R.D. Howe, D. Torchiana
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/cannon2003port.pdf
+    display: IEEE Trans. Robotics and Automation, vol. 19, no. 5  pp. 912-917, 2003
+
+- title: "Application of robotics in congenital cardiac surgery"
+  authors: J. Cannon, R. Howe, P.E. Dupont, J. Triedman, G. Marx, P.J. del Nido
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1092912603700106
+    display: Seminars in Thoracic and Cardiovascular Surgery: Pediatric Cardiac Surgery Annual, vol. 6, no. 1  pp. 72-83, 2003
+
+
+- title: "**2002**"
+- title: "Single state elasto-plastic friction models"
+  authors: P.E. Dupont, V. Hayward, B. Armstrong, F. Altpeter
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2002single.pdf
+    display: IEEE Trans. Automatic Control, vol. 47, no. 5  pp. 787-792, 2002
+
+- title: "Multichannel Vibrotactile Display for Teleoperated Assembly"
+  authors: T. Debus, P.E. Dupont, T.J. Jang, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2002multichannel.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 592-597, 2002
