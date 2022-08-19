@@ -834,3 +834,27 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/debus2000automatic.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3428-3434, 2000
+
+
+- title: "**1999**"
+- title: "Twice the Fun: Two Phantoms as a High-Performance Telemanipulation System"
+  authors: R. Howe, T. Debus, P.E. Dupont
+    display: Proc Fourth Annual PHANTOM Users Group Workshop, 1999
+
+- title: "Simplified Dispersion Relations for Floquet Waves in a Plate with Multiple Arrays of Attachments"
+  authors: D. Gueorguiev, J.G. McDaniel, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/gueorguiev1999simplified.pdf
+    display: Proc 17th Biennial Conference on Mechanical Vibration and Noise, ASME 1999 Design Engineering , 1999
+
+- title: "Automatic identification of environment haptic properties"
+  authors: P.E. Dupont, P. Schulteis, P. Millman, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1999automatic.pdf
+    display: PRESENCE - Teleoperators and virtual environments, vol. 8, no. 4, pp. 392-409, 1999
+
+- title: "Automatic Property Identification via Parameterized Constraints"
+  authors: T. Debus, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus1999automatic.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1876-1881, 1999
