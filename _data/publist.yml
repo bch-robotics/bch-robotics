@@ -963,3 +963,34 @@
   link:
     url: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/DETC95/1109/1102657
     display: Symposium on Friction Damping and Friction-induced Vibration, ASME 15th Biennial Conference on Mechanical Vibration and Noise, DE-Vol. 84-1, pp. 1109-1115, 1995
+
+- title: "**1994**"
+- title: "Friction in Servo Machines: Analysis and Control Methods"
+  authors: B. Armstrong-Helouvry, P.E. Dupont, C. Canudas de Wit
+  link:
+    url: https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/47/7/275/401404/Friction-in-Servo-Machines-Analysis-and-Control
+    display: Applied Mechanics Reviews, Special Issue on Friction Induced Vibration, vol. 47, no. 7, pp. 275-305, 1994
+
+- title: "A Survey of Models, Analysis Tools and Compensation Methods for the Control of Machines with Friction"
+  authors: B. Armstrong-Helouvry, P.E. Dupont, C. Canudas de Wit
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/armstrong1994survey.pdf
+    display: Automatica, vol. 30, no. 7, pp. 1083-1138, 1994
+
+- title: "Avoiding Stick-slip Through PD Control"
+  authors: P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994avoiding.pdf
+    display: IEEE Trans. Automatic Control, vol. 39, no. 5, pp. 1094-1097, 1994
+
+- title: "Stability of Sliding Frictional Surfaces with Varying Normal Force"
+  authors: P.E. Dupont, D. Bapna
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994stability.pdf
+    display: ASME Journal of Vibration and Acoustics, vol. 116, no. 2, pp. 237-242, 1994
+
+- title: "Jamming and Wedging in Constrained Rigid-body Dynamics"
+  authors: P.E. Dupont, S. Yamajako
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994jamming.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 2349-2354, 1994
