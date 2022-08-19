@@ -922,3 +922,45 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1997experimental.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2677-2682, 1997
+
+- title: "**1996**"
+- title: "Perturbational Stability of Frictional Sliding with Varying Normal Force"
+  authors: P.E. Dupont, D. Bapna
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1996perturbation.pdf
+    display: ASME Journal of Vibration and Acoustics, vol. 118, no. 3, pp. 491-497, 1996
+
+- title: "Automatic Identification of Remote Environments"
+  authors: P. Schulteis, P.E. Dupont, P. Millman,R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/schulteis1996automatic.pdf
+    display: ASME Int Mechanical Engineering Congress & Exposition, pp. 451-458, 1996
+
+- title: "Experimental Evaluation of a Semi-active Friction Damper"
+  authors: P.E. Dupont, P. Kasturi, A. Stokes <br>
+  Elasto-impact and Friction in Dynamic Systems, ASME Int Mech Engineering Congress & Exposition, vol. DE-90, pp. 69-74, 1996
+
+- title: "**1995**"
+- title: "Friction Modeling and PD Compensation at Very Low Velocities"
+  authors: P.E. Dupont, E. Dunlap
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1995friction.pdf
+    display: ASME Journal of Dynamic Systems, Measurement and Control, vol. 117, pp. 8-14, 1995
+
+- title: "Stability of Rigid-body Dynamics with Sliding Frictional Contacts"
+  authors: P.E. Dupont, S. Yamajako
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1995stability.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 378-384, 1995
+
+- title: "Semi-active Control of Friction Dampers"
+  authors: P.E. Dupont, P. Kasturi, A. Stokes
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X96907981
+    display: Journal of Sound and Vibration, vol. 202, no. 2, pp. 203-218, 1995
+
+- title: "Experimental Investigation of Friction Dynamics Associated with Normal Load"
+  authors: P.E. Dupont, P. Kasturi
+  link:
+    url: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/DETC95/1109/1102657
+    display: Symposium on Friction Damping and Friction-induced Vibration, ASME 15th Biennial Conference on Mechanical Vibration and Noise, DE-Vol. 84-1, pp. 1109-1115, 1995
