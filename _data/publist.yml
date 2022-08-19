@@ -770,3 +770,41 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/debus2002multichannel.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 592-597, 2002
+
+
+- title: "**2001**"
+- title: "Ultrasound-based Servoing of Manipulators for Telesurgery"
+  authors: J. Stoll, P. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2001ultrasound.pdf
+    display: Telemanipulator and Telepresence Technologies VIII Conference, Proceedings of the SPIE, vol. 4570, pp. 78-85, 2001
+
+- title: "Analysis of rigid body dynamic models for simulation of systems with frictional contacts"
+  authors: P. Song, P. Kraus, V. Kumar, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/song2001analysis.pdf
+    display: J. Applied Mechanics, vol. 68, no. 1,  pp. 118-128, 2001
+
+- title: "Optimal Port Placement in Robot-Assisted Coronary Artery Bypass Grafting"
+  authors: S. Selha, P.E. Dupont, R. Howe, D. Torchiana
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/selha2001optimal.pdf
+    display: Medical Image Computing and Computer-Assisted Intervention, pp. 1435-1436, 2001
+
+- title: "Dexterity Optimization by Port Placement in Robot-Assisted Minimally Invasive Surgery"
+  authors: S. Selha, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/selha2001dexterity.pdf
+    display: Telemanipulator and Telepresence Technologies VIII Conference, Proceedings of the SPIE, vol. 4570, 2001
+
+- title: "Multichannel Vibrotactile Display for Sensory Substitution During teleoperation"
+  authors: T. Debus, T. Becker, P.E. Dupont, T.J. Jang, R. and Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2001multichannel.pdf
+    display: Multichannel Vibrotactile Display for Sensory Substitution During teleoperation, 2001
+
+- title: "Cooperative Human and Machine Perception in Teleoperated Assembly"
+  authors: T. Debus, J. Stoll, R. Howe, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2001cooperative.pdf
+    display: Cooperative Human and Machine Perception in Teleoperated Assembly, Lecture notes in control and information sciences, vol. 271, pp. 51-60, 2001
