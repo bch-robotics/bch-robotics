@@ -1071,3 +1071,12 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-642-83625-1_20
     display: CAD Based Programming for Sensory Robots, NATO Advanced Research Workshop, vol. F50, pp. 433-465, 1988
+
+
+- title: "**1987**"
+- title: "Path Planning of Redundant Industrial Robots for Aerospace Assembly"
+  authors: S. Derby, P.E. Dupont <br> Proc SME FASTEC Conference, pp. 317-330, 1987
+
+- title: "**1986**"
+- title: "Planning Collision Free Paths for Redundant Robots Using a Selective Search of Configuration Space"
+  authors: P.E. Dupont, S. Derby <br> Design Engineering Technical Conference, 1986
