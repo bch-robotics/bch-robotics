@@ -823,7 +823,7 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/gueorguiev2000analysis.pdf
     display: J. Sound and Vibration, vol. 203, no. 5, pp. 819-840, 2000
 
-- title: "Elastic-plastic Friction Model: Contact Compliance and Stiction"
+- title: "Elasto-plastic Friction Model: Contact Compliance and Stiction"
   authors: P.E. Dupont, B. Armstrong, V. Hayward
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2000elastic.pdf
