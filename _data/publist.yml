@@ -808,3 +808,29 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/debus2001cooperative.pdf
     display: Cooperative Human and Machine Perception in Teleoperated Assembly, Lecture notes in control and information sciences, vol. 271, pp. 51-60, 2001
+
+
+- title: "**2000**"
+- title: "A wave approach to estimating frequency-dependent damping under transient loading"
+  authors: J.G. McDaniel, P.E. Dupont, L. Salvino
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/mcdaniel2000wave.pdf
+    display: J. Sound and Vibration, vol. 231, no. 2, pp. 433-449, 2000
+
+- title: "Analysis of floquet wave generation and propagation in a plate with multiple arrays of attachments"
+  authors: D. Gueorguiev, J.G. McDaniel, P.E. Dupont, L. Felsen
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/gueorguiev2000analysis.pdf
+    display: J. Sound and Vibration, vol. 203, no. 5, pp. 819-840, 2000
+
+- title: "Elastic-plastic Friction Model: Contact Compliance and Stiction"
+  authors: P.E. Dupont, B. Armstrong, V. Hayward
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2000elastic.pdf
+    display: American Control Conference, pp. 1072-1077, 2000
+
+- title: "Automatic Identification of Local Geometric Properties During Teleoperation"
+  authors: T. Debus, P.E. Dupont, R. Howe
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2000automatic.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 3428-3434, 2000
