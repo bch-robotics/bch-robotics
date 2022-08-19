@@ -858,3 +858,41 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/debus1999automatic.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1876-1881, 1999
+
+
+- title: "**1998**"
+- title: "Evaluation of Granular-fill Damping in Shock Loaded Box Beams"
+  authors: L. Salvino, P.E. Dupont, J.G. McDaniel
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/salvino1998evaluation.pdf
+    display: Proc 69th Shock and Vibration Symposium, 1998
+
+- title: "An Error Measure for the Shock Testing of Scale Models"
+  authors: P.E. Dupont, J.G. McDaniel
+  link:
+    url: https://dash.harvard.edu/bitstream/handle/1/33885203/98_Asa_vibration.pdf?sequence=1
+    display: Proc 16th Int Conf Acoustics and 135th Meeting Acoustical Society of America, 1998
+
+- title: "Analysis of Frictional Contact Models for Dynamic Simulation"
+  authors: P. Kraus, V. Kumar, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/kraus1998analysis.pdf
+    display: IEEE Int. Conf. Robotics and Automation, vol. 2, pp. 976-981, 1998
+
+- title: "Constrained optimal control of vibration dampers"
+  authors: P. Kasturi, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/kasturi1998constrained.pdf
+    display: J. Sound and Vibration, pp.  499-509, 1998
+
+- title: "Haptic Identification of Remote Environment Properties"
+  authors: R. Howe, T. Debus, P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/howe1998haptic.pdf
+    display: SPIE Int Symp Intelligent Systems and Advanced Manufacturing, Proc SPIE, vol. 3524, 1998
+
+- title: "Model Reduction Techniques for Shock Loaded Equipment Emulators"
+  authors: P.E. Dupont, A. Stokes
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1998model.pdf
+    display: Proc 69th Shock and Vibration Symposium, 1998
