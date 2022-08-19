@@ -1025,3 +1025,21 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/4793209
     display: American Control Conference, pp. 1905-1909, 1993
+
+
+- title: "**1992**"
+- title: "The Use of Compliance to Resolve teh Existence and Uniqueness of the Forward Dynamics Solution with Coulomb Friction"
+  authors: P.E. Dupont <br> Proceedings of the CSME Forum, pp. 537-542, 1992
+
+- title: "The Effect of Coulomb Friction on the Existence and Uniqueness of the Forward Dynamics Problem"
+  authors: P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1992effect.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1442-1447, 1993
+
+- title: "**1991**"
+- title: "Avoiding Stick-slip In Position and Force Control Through Feedback"
+  authors: P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1991avoiding.pdf
+    display: IEEE Int. Conf. Robotics and Automation, pp. 1470-1475, 1991
