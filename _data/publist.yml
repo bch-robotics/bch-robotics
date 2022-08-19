@@ -994,3 +994,34 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994jamming.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2349-2354, 1994
+
+- title: "**1993**"
+- title: "The Effect of Friction on the Forward Dynamics Problem"
+  authors: P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993effect.pdf
+    display: Int. J. Robotics Research, vol. 12, no. 2, pp. 164-179, 1993
+
+- title: "Friction Modeling and Control in Boundary Lubrication"
+  authors: P.E. Dupont, E. Dunlap
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993friction.pdf
+    display: American Control Conference, pp. 1910-1914, 1993
+
+- title: "Existence and Uniqueness of Rigid-Body Dynamics with Coulomb Friction"
+  authors: P.E. Dupont
+  link:
+    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993existence.pdf
+    display: Transactions of the Canadian Society for Mechanical Engineering, vol. 17, no. 4A, pp. 513-525, 1993
+
+- title: "Compensation Techniques for Servos with Friction"
+  authors: P.E. Dupont, B. Armstrong-Helouvry
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/4793211
+    display: American Control Conference, pp. 1915-1919, 1993
+
+- title: "Friction Modeling for Control"
+  authors: B. Armstrong-Helouvry, P.E. Dupont
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/4793209
+    display: American Control Conference, pp. 1905-1909, 1993
