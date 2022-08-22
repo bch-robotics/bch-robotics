@@ -249,9 +249,9 @@
     display: IEEE Sensors Journal, vol. 16, no. 5, pp. 1294-1303, 2016
     
     
-- title:
-- title: "**2015**"
-- title: "Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints"
+- year:
+- year: 2015
+  title: "Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints"
   authors: C. Bergeles, A.H. Gosline, N.V. Vasilyev, P.J. Codd, P.J. del Nido, P.E. and Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2015concentric.pdf
@@ -323,9 +323,9 @@
     url: https://swarmcontrol.ece.uh.edu/wp-content/papercite-data/pdf/becker2015mripoweredrobotics.pdf
     display: International Symposium on Robotics Research, 2015
 
-- title:
-- title: "**2014**"
-- title: "Novel Pressure-Sensing Skin for Detecting Impending Tissue Damage during Neuroendoscopy"
+- year:
+- year: 2014
+  title: "Novel Pressure-Sensing Skin for Detecting Impending Tissue Damage during Neuroendoscopy"
   authors: P. Codd, V. Arabagi, A. Gosline, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/codd2014novel.pdf
@@ -373,9 +373,9 @@
     url: https://link.springer.com/referencework/10.1007/978-1-4471-4619-3
     display: Book chapter in E.M. da Cruz, D. Ivy, J. Jaggers, editors. Pediatric and Congenital Cardiology, Cardiac Surgery and Intensive Care, vol. 3 pp. 1237-1249, 2014
 
-- title:
-- title: "**2013**"
-- title: "An MRI-powered and Controlled Actuator Technology for Tetherless Robotic Interventions"
+- year:
+- year: 2013
+  title: "An MRI-powered and Controlled Actuator Technology for Tetherless Robotic Interventions"
   authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2013MRI.pdf
@@ -412,9 +412,9 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 4381-4387, 2013
 
 
-- title:
-- title: "**2012**"
-- title: "Robotics and imaging in congenital heart surgery"
+- year:
+- year: 2012
+  title: "Robotics and imaging in congenital heart surgery"
   authors: N.V. Vasilyev, P.E. Dupont, P.J. del Nido
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2012robotics.pdf
@@ -486,9 +486,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2012tracking.pdf
     display: IEEE Engineering in Medicine and Biology Conf., pp. 928-931, 2012
 
-- title:
-- title: "**2011**"
-- title: "MRI-powered actuators for robotic interventions"
+- year:
+- year: 2011
+  title: "MRI-powered actuators for robotic interventions"
   authors: P. Vartholomeos, L. Qin, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2011mri.pdf
@@ -542,9 +542,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/anor2011algorithms.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 667-673, 2011
 
-- title:
-- title: "**2010**"
-- title: "IN-Haptics: interactive navigation using haptics"
+- year:
+- year: 2010
+  title: "IN-Haptics: interactive navigation using haptics"
   authors: R. Walker, S. Andersson, C. Belta, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/walker2010in.pdf
@@ -580,9 +580,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2010design.pdf
     display: IEEE Trans. Robotics, vol. 26, no. 2, pp. 209-225, 2010
 
-- title:
-- title: "**2009**"
-- title: "Image guided surgical interventions"
+- year:
+- year: 2009
+  title: "Image guided surgical interventions"
   authors: D. Perrin, N.V. Vasilyev, P. Novotny, J.A. Stoll, R. Howe,P.E. Dupont, I. Salgo, P.J. del Nido
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/perrin2009image.pdf
@@ -606,17 +606,17 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2009torsional.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3851-3858, 2009
 
-- title:
-- title: "**2008**"
-- title: "Bilateral teleoperation of flexible surgical robots"
+- year:
+- year: 2008
+  title: "Bilateral teleoperation of flexible surgical robots"
   authors: M. Mahvash, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2008bilateral.pdf
     display: IEEE Int. Conf. Robotics and Automation, New Vistas and Challenges in Telerobotics Workshop, 2008
 
-- title:
-- title: "**2007**"
-- title: "Inverse kinematics of concentric tube steerable needles"
+- year:
+- year: 2007
+  title: "Inverse kinematics of concentric tube steerable needles"
   authors: P. Sears, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/sears2007inverse.pdf
@@ -640,9 +640,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/huang2007imaging.pdf
     display: J. Ultrasound in Medicine, vol. 26, pp. 1303-1322, 2007
 
-- title:
-- title: "**2006**"
-- title: "Real-time 3D ultrasound-based servoing of a surgical instrument"
+- year:
+- year: 2006
+  title: "Real-time 3D ultrasound-based servoing of a surgical instrument"
   authors: J. Stoll, P. Novotny, P.E. Dupont, R. Howe
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2006real.pdf
@@ -690,9 +690,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/chen2006electromechanical.pdf
     display: J. Acoustical Society of America, vol. 119, no. 3, pp. 27-33, 2006
 
-- title:
-- title: "**2005**"
-- title: "Three-dimensional echo-guided beating heart surgery without cardiopulmonary bypass - atrial septal defect closure in a swine model"
+- year:
+- year: 2005
+  title: "Three-dimensional echo-guided beating heart surgery without cardiopulmonary bypass - atrial septal defect closure in a swine model"
   authors: Y. Suematsu, J.F. Martinez, B.K. Wolf, G.R. Marx, J.A. Stoll, P.E. Dupont, R. Howe, J.K. Triedman, P.J. del Nido
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/suematsu2005three.pdf
@@ -722,9 +722,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/chen2005realization.pdf
     display: J. Acoustical Society of America, vol. 118, no. 2, 2005
 
-- title:
-- title: "**2004**"
-- title: "Multi-Channel Vibrotactile Display for Teleoperated Assembly"
+- year:
+- year: 2004
+  title: "Multi-Channel Vibrotactile Display for Teleoperated Assembly"
   authors: T. Debus, P.E. Dupont, R.D. Howe
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004multi.pdf
@@ -748,9 +748,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/beasley2004kinematic.pdf
     display: IEEE Int. Conf. Robotics and Automation, 2004
 
-- title:
-- title: "**2003**"
-- title: "Contact state estimation using multiple model estimation and hidden markov models"
+- year:
+- year: 2003
+  title: "Contact state estimation using multiple model estimation and hidden markov models"
   authors: T. Debus, P.E. Dupont, R.D. Howe
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/debus2003contact.pdf
@@ -775,9 +775,9 @@
     display: Seminars in Thoracic and Cardiovascular Surgery - Pediatric Cardiac Surgery Annual, vol. 6, no. 1  pp. 72-83, 2003
 
 
-- title:
-- title: "**2002**"
-- title: "Single state elasto-plastic friction models"
+- year:
+- year: 2002
+  title: "Single state elasto-plastic friction models"
   authors: P.E. Dupont, V. Hayward, B. Armstrong, F. Altpeter
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2002single.pdf
@@ -790,9 +790,9 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 592-597, 2002
 
 
-- title:
-- title: "**2001**"
-- title: "Ultrasound-based Servoing of Manipulators for Telesurgery"
+- year:
+- year: 2001
+  title: "Ultrasound-based Servoing of Manipulators for Telesurgery"
   authors: J. Stoll, P. Dupont, R. Howe
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2001ultrasound.pdf
@@ -829,9 +829,9 @@
     display: Cooperative Human and Machine Perception in Teleoperated Assembly, Lecture notes in control and information sciences, vol. 271, pp. 51-60, 2001
 
 
-- title:
-- title: "**2000**"
-- title: "A wave approach to estimating frequency-dependent damping under transient loading"
+- year:
+- year: 2000
+  title: "A wave approach to estimating frequency-dependent damping under transient loading"
   authors: J.G. McDaniel, P.E. Dupont, L. Salvino
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/mcdaniel2000wave.pdf
@@ -856,9 +856,9 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 3428-3434, 2000
 
 
-- title:
-- title: "**1999**"
-- title: "Twice the Fun: Two Phantoms as a High-Performance Telemanipulation System"
+- year:
+- year: 1999
+  title: "Twice the Fun: Two Phantoms as a High-Performance Telemanipulation System"
   authors: R. Howe, T. Debus, P.E. Dupont <br> Proc Fourth Annual PHANTOM Users Group Workshop, 1999
   
 
@@ -881,9 +881,9 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 1876-1881, 1999
 
 
-- title:
-- title: "**1998**"
-- title: "Evaluation of Granular-fill Damping in Shock Loaded Box Beams"
+- year:
+- year: 1998
+  title: "Evaluation of Granular-fill Damping in Shock Loaded Box Beams"
   authors: L. Salvino, P.E. Dupont, J.G. McDaniel
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/salvino1998evaluation.pdf
@@ -920,9 +920,9 @@
     display: Proc 69th Shock and Vibration Symposium, 1998
 
 
-- title:
-- title: "**1997**"
-- title: "Semi-active Control of Friction Dampers"
+- year:
+- year: 1997
+  title: "Semi-active Control of Friction Dampers"
   authors: P.E. Dupont, P. Kasturi, A. Stokes
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1997semi.pdf
@@ -946,9 +946,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1997experimental.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2677-2682, 1997
 
-- title:
-- title: "**1996**"
-- title: "Perturbational Stability of Frictional Sliding with Varying Normal Force"
+- year:
+- year: 1996
+  title: "Perturbational Stability of Frictional Sliding with Varying Normal Force"
   authors: P.E. Dupont, D. Bapna
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1996perturbation.pdf
@@ -963,9 +963,9 @@
 - title: "Experimental Evaluation of a Semi-active Friction Damper"
   authors: P.E. Dupont, P. Kasturi, A. Stokes <br> Elasto-impact and Friction in Dynamic Systems, ASME Int Mech Engineering Congress & Exposition, vol. DE-90, pp. 69-74, 1996
 
-- title:
-- title: "**1995**"
-- title: "Friction Modeling and PD Compensation at Very Low Velocities"
+- year:
+- year: 1995
+  title: "Friction Modeling and PD Compensation at Very Low Velocities"
   authors: P.E. Dupont, E. Dunlap
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1995friction.pdf
@@ -989,9 +989,9 @@
     url: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/DETC95/1109/1102657
     display: Symposium on Friction Damping and Friction-induced Vibration, ASME 15th Biennial Conference on Mechanical Vibration and Noise, DE-Vol. 84-1, pp. 1109-1115, 1995
 
-- title:
-- title: "**1994**"
-- title: "Friction in Servo Machines: Analysis and Control Methods"
+- year:
+- year: 1994
+  title: "Friction in Servo Machines: Analysis and Control Methods"
   authors: B. Armstrong-Helouvry, P.E. Dupont, C. Canudas de Wit
   link:
     url: https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/47/7/275/401404/Friction-in-Servo-Machines-Analysis-and-Control
@@ -1021,9 +1021,9 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994jamming.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2349-2354, 1994
 
-- title:
-- title: "**1993**"
-- title: "The Effect of Friction on the Forward Dynamics Problem"
+- year:
+- year: 1993
+  title: "The Effect of Friction on the Forward Dynamics Problem"
   authors: P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993effect.pdf
@@ -1053,9 +1053,9 @@
     url: https://ieeexplore.ieee.org/abstract/document/4793209
     display: American Control Conference, pp. 1905-1909, 1993
 
-- title:
-- title: "**1992**"
-- title: "The Use of Compliance to Resolve teh Existence and Uniqueness of the Forward Dynamics Solution with Coulomb Friction"
+- year:
+- year: 1992
+  title: "The Use of Compliance to Resolve teh Existence and Uniqueness of the Forward Dynamics Solution with Coulomb Friction"
   authors: P.E. Dupont <br> Proceedings of the CSME Forum, pp. 537-542, 1992
 
 - title: "The Effect of Coulomb Friction on the Existence and Uniqueness of the Forward Dynamics Problem"
@@ -1064,17 +1064,17 @@
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1992effect.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1442-1447, 1993
 
-- title:
-- title: "**1991**"
-- title: "Avoiding Stick-slip In Position and Force Control Through Feedback"
+- year:
+- year: 1991
+  title: "Avoiding Stick-slip In Position and Force Control Through Feedback"
   authors: P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1991avoiding.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1470-1475, 1991
 
-- title:
-- title: "**1990**"
-- title: "Two Phase Path Planning for Robots with Six or More Joints"
+- year:
+- year: 1990
+  title: "Two Phase Path Planning for Robots with Six or More Joints"
   authors: P.E. Dupont, S. Derby
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1990two.pdf
@@ -1087,9 +1087,9 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 1370-1376, 1990
 
 
-- title:
-- title: "**1988**"
-- title: "A Two Phase Path Planning Algorithm for Robots with Six or More Joints"
+- year:
+- year: 1988
+  title: "A Two Phase Path Planning Algorithm for Robots with Six or More Joints"
   authors: P.E. Dupont, S. Derby <br> Trends and Developments in Mechanisms, Machines and Robotics - 1988, ASME 20th Biennial Mechanisms Conference, vol. 3, pp. 415-428, 1988
 
 - title: "A Simple Heuristic Path Planner for Redundant Robots"
@@ -1101,12 +1101,12 @@
     url: https://link.springer.com/chapter/10.1007/978-3-642-83625-1_20
     display: CAD Based Programming for Sensory Robots, NATO Advanced Research Workshop, vol. F50, pp. 433-465, 1988
 
-- title:
-- title: "**1987**"
-- title: "Path Planning of Redundant Industrial Robots for Aerospace Assembly"
+- year:
+- year: 1987
+  title: "Path Planning of Redundant Industrial Robots for Aerospace Assembly"
   authors: S. Derby, P.E. Dupont <br> Proc SME FASTEC Conference, pp. 317-330, 1987
 
-- title:
-- title: "**1986**"
-- title: "Planning Collision Free Paths for Redundant Robots Using a Selective Search of Configuration Space"
+- year:
+- year: 1986
+  title: "Planning Collision Free Paths for Redundant Robots Using a Selective Search of Configuration Space"
   authors: P.E. Dupont, S. Derby <br> Design Engineering Technical Conference, 1986
