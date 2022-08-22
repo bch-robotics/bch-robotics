@@ -27,8 +27,7 @@ permalink: /research/
 
 
 <br />
-<br />
-<br />
+
 **Airway stents for tracheobronchomalacia** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/airwaystent1.png){: style="width: 250px; float: left; margin: 0px  10px"}
@@ -37,8 +36,7 @@ permalink: /research/
 
 
 <br />
-<br />
-<br />
+
 **Robotic Implants** 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Implant.png){: style="width: 250px; float: left; margin: 0px  10px"}
