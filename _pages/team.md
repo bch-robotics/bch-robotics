@@ -54,7 +54,7 @@ permalink: /team/
 <div class="row align-items">
 {% endif %}
 
-  <div class="col-sm-6 clearfix" style="text-align: justify">
+  <div class="col-sm-6 clearfix" style="text-align: left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4><br>
   <ins>Interests:</ins><br>
