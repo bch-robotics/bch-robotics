@@ -42,4 +42,4 @@ kramdown:
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
   
   # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: G-0GQFZXGDBW
