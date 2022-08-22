@@ -66,18 +66,18 @@
   highlight: 0
 
 
-- title:
-- title: "**2020**"
-- title: "Pediatric Airway Stent Designed to Facilitate Mucus Transport and Atraumatic Removal"
+- year:
+- year: 2020
+  title: "Pediatric Airway Stent Designed to Facilitate Mucus Transport and Atraumatic Removal"
   authors: J. Ha, A. Mondal, Z. Zhao, A.K. Kaza, P.E. Dupont
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6947666/
     display: IEEE Trans. Biomedical Engineering, vol. 67, no. 1, pp. 177-184, 2020
 
 
-- title:
-- title: "**2019**"
-- title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
+- year:
+- year: 2019
+  title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
   authors: J. Wang, J. Ha, P.E. Dupont
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910658/
@@ -96,9 +96,9 @@
     display: Science Robotics, vol. 4, no. 29, pp. eaaw1977, 2019
 
 
-- title:
-- title: "**2018**"
-- title: "Varying Ultrasound Power to Distinguish Surgical Instruments and Tissue"
+- year:
+- year: 2018
+  title: "Varying Ultrasound Power to Distinguish Surgical Instruments and Tissue"
   authors:  H. Ren, A. Banani,P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/ren2017varying.pdf
@@ -129,9 +129,9 @@
     display: Science Robotics, vol. 3, no. 14, pp. 353-370, 2018
 
 
-- title:
-- title: "**2017**"
-- title: "Optimizing Tube Precurvature to Enhance Elastic Stability of Concentric Tube Robots"
+- year:
+- year: 2017
+  title: "Optimizing Tube Precurvature to Enhance Elastic Stability of Concentric Tube Robots"
   authors:  J. Ha, F.C. Park, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017optimizing.pdf
@@ -180,9 +180,9 @@
     display: IEEE Robotics and Automation Letters, vol. 2, no. 1, pp. 298-304, 2017
     
     
-- title:
-- title: "**2016**"
-- title: "A Multi-port MR-compatible Neuroendoscope - Spanning the Gap Between Rigid and Flexible Scopes"
+- year:
+- year: 2016
+  title: "A Multi-port MR-compatible Neuroendoscope - Spanning the Gap Between Rigid and Flexible Scopes"
   authors: S. Manjila,M. Mencattelli, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/manjila2016multiport.pdf
