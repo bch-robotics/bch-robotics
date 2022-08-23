@@ -1,5 +1,5 @@
 ---
-title: "Pediatric Cardiac Bioengineering Lab - Publications"
+title: "Dupont Laboratory - Publications"
 layout: gridlay
 excerpt: "Pediatric Cardiac Bioengineering Lab -- Publications."
 sitemap: false
