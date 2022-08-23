@@ -31,10 +31,10 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_2015.jpg" alt="Slide 1"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 1"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-tissue-approximator_small.png" alt="Slide 2"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Heart.png" alt="Slide 2"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.png" alt="Slide 3"/>
