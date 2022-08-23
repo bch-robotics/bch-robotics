@@ -43,7 +43,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Scope.png" alt="Slide 4"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/weitzman-gosline_small.png" alt="Slide 5"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Trachea.png" alt="Slide 5"/>
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_02_small.jpg" alt="Slide 6"/>
