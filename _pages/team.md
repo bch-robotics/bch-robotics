@@ -6,14 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
-## Group Members
+### Group Members
 
  **We are  looking for new Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <!---Jump to [Director](#director), [postdocs](#fellows), [alumni](#alumni).--->
 
-### Director
+#### Director
 {% assign number_printed = 0 %}
 {% for member in site.data.director %}
 
@@ -44,7 +44,7 @@ permalink: /team/
 {% endif %}
 
 
-### Post-doctoral Research Fellows
+#### Post-doctoral Research Fellows
 {% assign number_printed = 0 %}
 {% for member in site.data.fellows %}
 
@@ -72,7 +72,7 @@ permalink: /team/
 {% endfor %}
 
 
-### Alumni 
+#### Alumni 
 <div class="row" style="text-align: justify">
 {% for member in site.data.alumni %}
 {{ member.name }}
