@@ -1,5 +1,5 @@
 ---
-title: "Pediatric Cardiac Bioengineering Lab - Team"
+title: "Dupont Laboratory - Team"
 layout: gridlay
 excerpt: "Pediatric Cardiac Bioengineering Lab: Team members"
 sitemap: false
