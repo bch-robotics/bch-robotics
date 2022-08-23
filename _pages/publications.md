@@ -62,8 +62,8 @@ permalink: /publications/
  <div>
   <h4> {{publi.year}} </h4>
   {{ publi.title }} <br> 
-  <em>{{ publi.authors }} </em><br><a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br>
-  {{ publi.space }}
+  <em>{{ publi.authors }} </em><br><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.image }}
  </div>
 
 {% endfor %}
