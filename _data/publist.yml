@@ -24,7 +24,7 @@
   link:
     url: http://robotics.tch.harvard.edu/publications/pdfs/delbono2022nonsurgical.pdf
     display: IEEE Transactions on Medical Robotics and Bionics, 2022
-  space: 
+  editor: 
 
 
 - year: 2021
@@ -62,7 +62,7 @@
   link:
     url: https://www.science.org/doi/abs/10.1126/scirobotics.abi8017
     display: Science Robotics, vol. 6, no. 60, pp. eabi8017, 2021
-  highlight: 0
+  editor: 
 
 
 - year: 2020
