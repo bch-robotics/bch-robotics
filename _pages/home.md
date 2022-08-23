@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Introduction
+### Introduction
 
 <div align="justify">Our mission is to embed a team of creative young engineers in a world-class hospital where they can identify and solve clincally-relevant healthcare problems through the creation of new technology with a focus on commercialization.
 
