@@ -40,7 +40,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.png" alt="Slide 3"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metal-mems_small.png" alt="Slide 4"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Scope.png" alt="Slide 4"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/weitzman-gosline_small.png" alt="Slide 5"/>
