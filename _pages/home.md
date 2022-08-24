@@ -30,6 +30,7 @@ permalink: /
 	<li data-target="#carousel" data-slide-to="13"></li>
 	<li data-target="#carousel" data-slide-to="14"></li>
 	<li data-target="#carousel" data-slide-to="15"></li>
+	<li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
@@ -78,6 +79,9 @@ permalink: /
         </div>
 	    <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Eccentric.png" alt="Slide 15"/>
+        </div>
+	    <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Robotics.png" alt="Slide 15"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
