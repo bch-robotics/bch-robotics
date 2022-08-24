@@ -77,7 +77,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent1.png" alt="Slide 14"/>
         </div>
 	    <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent1.png" alt="Slide 15"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Eccentric.png" alt="Slide 15"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
