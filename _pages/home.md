@@ -27,6 +27,9 @@ permalink: /
 	<li data-target="#carousel" data-slide-to="10"></li>
 	<li data-target="#carousel" data-slide-to="11"></li>
 	<li data-target="#carousel" data-slide-to="12"></li>
+	<li data-target="#carousel" data-slide-to="13"></li>
+	<li data-target="#carousel" data-slide-to="14"></li>
+	<li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
@@ -70,6 +73,12 @@ permalink: /
 	    <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Finger.png" alt="Slide 13"/>
         </div>	
+	    <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent1.png" alt="Slide 14"/>
+        </div>
+	    <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent1.png" alt="Slide 15"/>
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
