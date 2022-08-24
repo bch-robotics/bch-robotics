@@ -87,3 +87,10 @@ permalink: /team/
 {{ member.name }}
 {% endfor %}
 </div>
+
+  {% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% endfor %}
