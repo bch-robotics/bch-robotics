@@ -46,7 +46,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Trachea.png" alt="Slide 5"/>
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_02_small.jpg" alt="Slide 6"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent.png" alt="Slide 6"/>
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group_small.png" alt="Slide 7"/>
