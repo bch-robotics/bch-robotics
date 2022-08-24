@@ -1,5 +1,5 @@
 ---
-title: "Dupont Laboratory - Home"
+title: "Dupont Lab - Home"
 layout: homelay
 excerpt: "Pediatric Cardiac Bioengineering Lab at Boston Children's Hospital and Harvard Medical School."
 sitemap: false
