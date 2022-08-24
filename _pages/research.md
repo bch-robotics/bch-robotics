@@ -1,5 +1,5 @@
 ---
-title: "Dupont Laboratory - Research"
+title: "Dupont Lab - Research"
 layout: textlay
 excerpt: "Pediatric Cardiac Bioengineering Lab -- Research"
 sitemap: false
