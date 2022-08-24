@@ -11,14 +11,15 @@
   padding-left: 0; // Override default ul/ol
   list-style: none;
   @include clearfix;
+  text-align:center;
 
   > li {
     position: relative;
-    display: block;
+    display: inline;
 
     > a {
       position: relative;
-      display: block;
+      display: inline-block;;
       padding: $nav-link-padding;
       &:hover,
       &:focus {
