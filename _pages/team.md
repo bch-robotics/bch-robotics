@@ -76,9 +76,9 @@ permalink: /team/
 
   
 <div class="row" style="text-align: justify">
-<!--{% for member in site.data.alumni %}-->
+{% for member in site.data.alumni %}
 {{ member.name }}
-<!--{% endfor %}-->
+{% endfor %}
 </div>
 
 
