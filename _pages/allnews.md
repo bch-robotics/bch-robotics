@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Dupont Lab - News"
 layout: textlay
 excerpt: "Dupont Laboratory at Boston Children's Hospital and Harvard Medical School."
 sitemap: false
