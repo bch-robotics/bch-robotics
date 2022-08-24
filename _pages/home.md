@@ -61,7 +61,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heart-surgery_small.png" alt="Slide 10"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tedmed_prnt_small.jpg" alt="Slide 11"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Valve.png" alt="Slide 11"/>
         </div>	
 	     <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 12"/>
