@@ -75,10 +75,10 @@ permalink: /team/
 #### Alumni 
 
   
-<ol class="row" style="text-align: justify">
+<div class="row" style="text-align: justify">
 {% for member in site.data.alumni %}
-{{ member.name }}
+<p style="margin-left: 40px">{{ member.name }}</p>
   {% endfor %}
-</ol>
+</div>
 
 
