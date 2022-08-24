@@ -58,7 +58,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fellows.png" alt="Slide 9"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heart-surgery_small.png" alt="Slide 10"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bimanual.png" alt="Slide 10"/>
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Valve.png" alt="Slide 11"/>
