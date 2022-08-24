@@ -64,7 +64,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Valve.png" alt="Slide 11"/>
         </div>	
 	     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 12"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Autonomous.png" alt="Slide 12"/>
         </div>	
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
