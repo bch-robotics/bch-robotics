@@ -41,7 +41,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Heart.png" alt="Slide 2"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/concentric_tubes_01_small.png" alt="Slide 3"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bowel.png" alt="Slide 3"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Scope.png" alt="Slide 4"/>
