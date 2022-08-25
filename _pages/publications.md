@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Publications 
 
-<div><b><a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=15g03MoAAAAJ&hl=en)">Google Scholar</a></div>
+<div><b><a href="https://scholar.google.com/citations?user=15g03MoAAAAJ&hl=en">Google Scholar</a>
 
 <!---## Group highlights--->
 
