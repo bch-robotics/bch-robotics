@@ -1,7 +1,7 @@
 ---
 title: "Dupont Lab - Team"
 layout: gridlay
-excerpt: "Pediatric Cardiac Bioengineering Lab: Team members"
+excerpt: "Dupont Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
