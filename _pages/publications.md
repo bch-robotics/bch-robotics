@@ -1,7 +1,7 @@
 ---
 title: "Dupont Lab - Publications"
 layout: gridlay
-excerpt: "Pediatric Cardiac Bioengineering Lab -- Publications."
+excerpt: "Dupont Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Publications 
 
-<div><b><a href="https://scholar.google.com/citations?user=15g03MoAAAAJ&hl=en">Google Scholar</a></b> - <b><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Pierre+dupont">PubMed</a></b>
+<div><b><a href="https://scholar.google.com/citations?user=15g03MoAAAAJ&hl=en">Google Scholar</a></b> - <b><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Pierre+E.+Dupont">PubMed</a></b>
 
 <!---## Group highlights--->
 
