@@ -1,7 +1,7 @@
 ---
 title: "Dupont Lab - Research"
 layout: textlay
-excerpt: "Pediatric Cardiac Bioengineering Lab -- Research"
+excerpt: "Dupont Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
