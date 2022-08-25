@@ -1,7 +1,7 @@
 ---
 title: "Dupont Lab - News"
 layout: textlay
-excerpt: "Dupont Laboratory at Boston Children's Hospital and Harvard Medical School."
+excerpt: "Dupont Lab at Boston Children's Hospital and Harvard Medical School."
 sitemap: false
 permalink: /allnews.html
 ---
