@@ -14,12 +14,8 @@ permalink: /research/
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/two_tubes_septum.png){: style="width: 250px; float: left; margin: 0px  10px"}
 <div align="justify">Our overall goal is to convert heart valve repair procedures that are currently performed as open-heart surgery into transcatheter interventions that avoid both the trauma of opening the chest as well as the use of cardiopulmonary bypass. This approach can reduce procedural risk enabling treatment earlier in the disease process and in patients too sick to undergo surgery. Replicating the dexterity and visualization of open surgery at the tip of the catheter inside a beating heart is challenging. Our research is comprised of three main components: the creation of steerable robotic catheters as a platform for valve repair, the development and integration of imaging technologies into the catheter tip and the design of valve repair tools and devices. Our projects span identification of clinical need, idea conception, algorithmic design and prototyping to in vivo testing. We are currently targeting repair of the aortic, mitral and tricuspid valves.
 
+<br />
 
-
-<br />
-<br />
-<br />
-<br />
 **Multi-armed single-port medical robots**.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Two-armed robot.png){: style="width: 250px; float: left; margin: 0px  10px"}
