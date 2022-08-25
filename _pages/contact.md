@@ -8,4 +8,4 @@ permalink: /contact/
 
 ### Contact 
 <div>Pierre E. Dupont, Ph. D.<br>
-  email: Pierre.Dupont@childrens.harvard.edu
+  <a href = "mailto: Pierre.Dupont@childrens.harvard.edu">Pierre.Dupont@childrens.harvard.edu</a>
