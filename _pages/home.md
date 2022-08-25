@@ -36,13 +36,13 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 1"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bimanual.png" alt="Slide 1"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Heart.png" alt="Slide 2"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 2"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bowel.png" alt="Slide 3"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Heart.png" alt="Slide 3"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Scope.png" alt="Slide 4"/>
@@ -63,7 +63,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fellows.png" alt="Slide 9"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bimanual.png" alt="Slide 10"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bowel.png" alt="Slide 10"/>
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Valve.png" alt="Slide 11"/>
