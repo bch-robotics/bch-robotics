@@ -11,3 +11,7 @@ permalink: /contact/
   Department of Cardiac Surgery, Boston Children’s Hospital, Harvard Medical School<br>
   300 Longwood Ave, Boston, MA 02115<br>
   <a href = "mailto: Pierre.Dupont@childrens.harvard.edu">Pierre.Dupont@childrens.harvard.edu</a>
+  
+ <figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Team.jpg" width="95%">
+</figure>
