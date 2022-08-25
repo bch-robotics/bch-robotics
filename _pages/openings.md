@@ -1,5 +1,5 @@
 ---
-title: "Pierre Dupont - Vacancies"
+title: "Dupont Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
