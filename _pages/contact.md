@@ -13,5 +13,5 @@ permalink: /contact/
   <a href = "mailto: Pierre.Dupont@childrens.harvard.edu">Pierre.Dupont@childrens.harvard.edu</a>
   
  <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Team.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/mainentrance.jpg" width="95%">
 </figure>
