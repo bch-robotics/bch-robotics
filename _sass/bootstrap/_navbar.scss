@@ -381,6 +381,14 @@
   .navbar-left {
     float: left !important;
   }
+  .navbar-center {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+  }
+}
   .navbar-right {
     float: right !important;
   margin-right: -$navbar-padding-horizontal;
