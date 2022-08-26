@@ -382,11 +382,9 @@
     float: left !important;
   }
   .navbar-center {
-    position: absolute;
-    width: 100%;
-    left: 0;
-    text-align: center;
-    margin: auto;
+    float:center !important;
+    display:inline-block !important;
+    text-align:center !important;
   }
 
   .navbar-right {
