@@ -382,10 +382,10 @@
     float: left !important;
   }
   .navbar-center {
-    float: left !important;
+    float: left;
     position: relative;
     left: 50%;
-    transform: translate(-50%);
+    transform: translatex(-50%);
   }
 
   .navbar-right {
