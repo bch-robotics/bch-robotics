@@ -384,9 +384,9 @@
   .navbar-center {
     float: left;
     position: absolute;
+    top: 70%;
     left: 50%;
-    bottom: 0;
-    transform: translatex(-50%);
+    transform: translate(-50%, -70%);
   }
 
   .navbar-right {
