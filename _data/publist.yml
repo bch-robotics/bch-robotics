@@ -22,7 +22,7 @@
   description: This paper investigates a strategy in which an implant is fabricated from a combination of absorbable and non-absorbable materials with the latter connected by a tether to the skin.
   authors: V. Del Bono, J. Peine, M. Finocchiaro, K. Price, M. Mencattelli, Y. Chitalia, V. Ko, L. Yu, J. Secor, A. Pan, Z. Machaidze, M. Puder, A. Artoni, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/delbono2022nonsurgical.pdf
+    url: https://ieeexplore.ieee.org/document/9722894
     display: IEEE Transactions on Medical Robotics and Bionics, 2022
   editor: 
   
@@ -97,7 +97,7 @@
   title: "Varying Ultrasound Power to Distinguish Surgical Instruments and Tissue"
   authors:  H. Ren, A. Banani,P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2017varying.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6257990/pdf/nihms-997371.pdf
     display: Medical & Biological Engineering & Computing, vol. 56, pp. 453-467, 2018
 
 - title: "Minimally invasive bilateral anterior cingulotomy via open minicraniotomy using a novel multiport cisternoscope: a cadaveric demonstration"
@@ -109,7 +109,7 @@
 - title: "Modeling Tube Clearance and Bounding the Effect of Friction in Concentric Tube Robot Kinematics"
   authors:  J. Ha, G. Fagogenis, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2018modeling.pdf
+    url: https://ieeexplore.ieee.org/document/8534407
     display: IEEE Trans. on Robotics, vol. 35, no. 2, pp. 353-370, 2018
 
 - title: "In vivo tissue regeneration with robotic implants"
@@ -129,13 +129,13 @@
   title: "Optimizing Tube Precurvature to Enhance Elastic Stability of Concentric Tube Robots"
   authors:  J. Ha, F.C. Park, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017optimizing.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5614523/pdf/nihms850145.pdf
     display: IEEE Trans. on Robotics, vol. 33, no. 1, pp. 22-37, 2017
 
 - title: "Medical robotics---Regulatory, ethical, and legal considerations for increasing levels of autonomy"
   authors:  G.Z. Yang, J. Cambias, K. Cleary, E. Daimler, J. Drake, P.E. Dupont, N. Hata, P. Kazanzides, S. Martel, R. Patel, V. Santos, R. Taylor
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/yang2017medical.pdf
+    url: https://www.science.org/doi/epdf/10.1126/scirobotics.aam8638
     display: Science Robotics, vol. 2, no. 4, pp. eaam8638, 2017
 
 - title: "A low cost bioprosthetic semilunar valve for research, disease modeling and surgical training applications"
@@ -147,31 +147,31 @@
 - title: "Image-based Contact Stabilization Inside the Beating Heart"
   authors: B. Rosa, G. Fagogenis, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/rosa2017image.pdf
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Image-based+Contact+Stabilization+Inside+the+Beating+Heart&btnG=
     display: Hamlyn Symposium on Medical Robotics, pp. 17-18, 2017
 
 - title: "Cardioscopically-guided beating heart surgery: paravalvular leak repair"
   authors: B. Rosa, Z. Machaidze, M. Mencattelli, S. Manjila, B. Shin, K. Price, M. Borger, V. Thourani, P.J. del Nido, D. Brown, C. Baird, J. Mayer Jr, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/rosa2017cardioscopically.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572817/pdf/nihms864554.pdf
     display: The Annals of Thoracic Surgery, vol. 104, no. 3, pp. 1074-1079, 2017
 
 - title: "Incorporating Tube-to-Tube Clearances in the Kinematics of Concentric Tube Robots"
   authors: J. Ha, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017incorporating.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/7989797
     display: IEEE Int. Conf. Robotics and Automation, pp. 6730-6736, 2017
 
 - title: "Effect of Path HIstory on Concentric Tube Robot Model Calibration"
   authors: J. Ha, G. Fagogenis, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2017effect.pdf
+    url: https://www.researchgate.net/profile/Andras-Lasso/publication/332391301_3D_Gaze_Tracking_based_on_Eye_and_Head_Pose_Tracking/links/5f281036a6fdcccc43a665bb/3D-Gaze-Tracking-based-on-Eye-and-Head-Pose-Tracking.pdf#page=89
     display: Hamlyn Symposium on Medical Robotics, pp. 77-78, 2017
 
 - title: "Designing Stable Concentric Tube Robots Using Piecewise Straight Tubes"
   authors: J. Ha, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2016designing.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5654633/pdf/nihms873679.pdf
     display: IEEE Robotics and Automation Letters, vol. 2, no. 1, pp. 298-304, 2017
     
     
@@ -179,49 +179,49 @@
   title: "A Multi-port MR-compatible Neuroendoscope - Spanning the Gap Between Rigid and Flexible Scopes"
   authors: S. Manjila,M. Mencattelli, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/manjila2016multiport.pdf
+    url: https://thejns.org/focus/view/journals/neurosurg-focus/41/3/article-pE13.xml
     display: Neurosurgical Focus, vol. 41, no. 3, pp. E13 (15 pages), 2016
  
 - title: "Cardioscopic Tool-delivery Instrument for Beating-heart Surgery"
   authors: A. Ataollahi,I. Berra, N.V. Vasilyev, Z. Machaidze, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ataollahi2015cardio.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778079/pdf/nihms-688638.pdf
     display: ASME / IEEE Trans. Mechatronics, vol. 21, no. 1, pp. 584-590, 2016
 
 - title: "When will a robot outperform a handheld instrument? - A Case Study in Beating-heart Paravalvular Leak Closure"
   authors: B. Rosa and Z. Machaidze, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/rosa2016when.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366623/pdf/nihms-873859.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 11-12, 2016
 
 - title: "A Robotic Implant for Enterogenesis"
   authors: K. Price, Z. Machaidze, T. Jaksic, R.P. Jennings, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/price2016robotic.pdf
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=A+Robotic+Implant+for+Enterogenesis&btnG=
     display: Hamlyn Symposium on Medical Robotics, pp. 68-69, 2016
 
 - title: "Multi-port Neuroendoscope for Robotic Intraventricular Procedures"
   authors: M. Mencattelli, S. Manjila, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mencattelli2016multi.pdf
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Multi-port+Neuroendoscope+for+Robotic+Intraventricular+Procedures&btnG=
     display: Hamlyn Symposium on Medical Robotics, pp. 32-33, 2016
 
 - title: "Enabling Automated MRI-based Targeting Assessment During Dipole Field Navigation"
   authors: M. Latulippe, O. Felfoul, P.E. Dupont, S. Martel
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/latulippe2016enabling.pdf
+    url: https://aip.scitation.org/doi/pdf/10.1063/1.4941925
     display: Applied Physics Letters, vol. 108, no. 062403, 2016
 
 - title: "Toward On-line Parameter Estimation of Concentric Tube Robots Using a Mechanics-based Model"
   authors: C. Jang, J. Ha, P.E. Dupont, F.C. Park
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/jang2016toward.pdf
+    url: https://ieeexplore.ieee.org/document/7759374
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2016
 
 - title: "Elastic Stability of Concentric Tube Robots Subject to External Loads"
   authors: J. Ha, F.C. Park, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2016elastic.pdf
+    url: https://ieeexplore.ieee.org/document/7283569
     display: IEEE Trans. Biomedical Engineering, vol. 63, no. 6, pp. 1116-1128, 2016
 
 - title: "Simultaneous steering and imaging of magnetic particles using MRI toward delivery of therapeutics"
@@ -233,13 +233,13 @@
 - title: "Adaptive Nonparametric Kinematic Modeling of Concentric Tube Robots"
   authors: G. Fagogenis, C. Bergeles, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/fagogenis2016adaptive.pdf
+    url: https://ieeexplore.ieee.org/document/7759636
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2016
 
 - title: "Biocompatible Pressure Sensing Skins for Minimally Invasive Surgical Instruments"
   authors: V. Arabagi, O. Felfoul, A. Gosline, R. Wood, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/arabagi2016biocompatible.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021448/pdf/nihms-781689.pdf
     display: IEEE Sensors Journal, vol. 16, no. 5, pp. 1294-1303, 2016
     
     
@@ -247,37 +247,37 @@
   title: "Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints"
   authors: C. Bergeles, A.H. Gosline, N.V. Vasilyev, P.J. Codd, P.J. del Nido, P.E. and Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2015concentric.pdf
+    url: https://ieeexplore.ieee.org/document/7019012
     display: IEEE Trans. Robotics, vol. 33, no. 1, pp. 67-84, 2015
 
 - title: "Tissue Removal Inside the Beating Heart using a Robotically Delivered Metal MEMS Tool"
   authors: N.V. Vasilyev, A. Gosline, A. Veeramani, M.T. Wu,G. Schmitz, R. Chen, V. Arabagi, P.J. del Nido, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2015tissue.pdf
+    url: https://journals.sagepub.com/doi/abs/10.1177/0278364914543671
     display: Int. J. Robotics Research, vol. 34, no. 2, pp. 236-247, 2015
 
 - title: "Intensity-based Visual Servoing for Instrument and Tissue Tracking in 3D Ultrasound Volumes"
   authors: C. Nadeau, H. Ren, A. Krupa, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/nadeau2015intensity.pdf
+    url: https://hal.inria.fr/hal-01071247/file/TASE.pdf
     display: IEEE Transactions on Automation Science and Engineering, vol. 12, no. 1, pp. 367-371, 2015
 
 - title: "Real-time Adaptive Kinematic Model Estimation of Concentric Tube Robots"
   authors: C. Kim, S. Ryu, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/kim2015real.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860649/pdf/nihms781634.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3214-3219, 2015
 
 - title: "Cardioscopic Imaging to Guide Manual and Robotic Surgery Inside the Beating Heart"
   authors: C. Kim, A. Ataollahi, I. Berra, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/kim2015cardioscopic.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9803&rep=rep1&type=pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 15-16, 2015
 
 - title: "Untethered Magnetic Millirobot for Targeted Drug Delivery"
   authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/iacovacci2015untethered.pdf
+    url: https://www.researchgate.net/profile/Veronica-Iacovacci/publication/277251970_Untethered_magnetic_millirobot_for_targeted_drug_delivery/links/556879bc08aefcb861d4cbcb/Untethered-magnetic-millirobot-for-targeted-drug-delivery.pdf
     display: Biomedical Microdevices, vol. 17, no. 3, pp. 1-12, 2015
 
 - title: "Magnetic Bi-component Millirobot for Targeted Drug Delivery"
@@ -289,25 +289,25 @@
 - title: "Achieving Commutation Control of an MRI-powered Robot Actuator"
   authors: O. Felfoul, A. Becker, C. Bergeles, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/felfoul2015achieving.pdf
+    url: https://uh-ir.tdl.org/bitstream/handle/10657/4901/Becker_2015_AchievingCommutationControlAM.pdf?sequence=1
     display: IEEE Trans. Robotics, vol. 31, no. 2, pp. 387-399, 2015
 
 - title: "Stabilizing the Relative Position of Millirobots inside an MRI Scanner Considering Magnetic Interaction Forces"
   authors: A. Eqtami, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/eqtami2015stabilizing.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/7353824
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3220-3226, 2015
 
 - title: "Design of a robotic implant for in vivo esophageal tissue growth"
   authors: D. Damian, S. Arabagi, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/damian2015design.pdf
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&as_vis=1&q=Design+of+a+robotic+implant+for+in+vivo+esophageal+tissue+growth&btnG=
     display: Hamlyn Symposium on Medical Robotics, pp. 73-74, 2015
 
 - title: "Toward Tissue Penetration by MRI-powered Millirobots Using a Self-Assembled Gauss Gun"
   authors: A. Becker, O. Felfoul, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/becker2015toward.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/7139341
     display: IEEE Int. Conf. Robotics and Automation, pp. 1184-1189, 2015
 
 - title: "MRI-Powered Robotics"
@@ -321,43 +321,43 @@
   title: "Novel Pressure-Sensing Skin for Detecting Impending Tissue Damage during Neuroendoscopy"
   authors: P. Codd, V. Arabagi, A. Gosline, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/codd2014novel.pdf
+    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/258248727_Novel_pressure-sensing_skin_for_detecting_impending_tissue_damage_during_neuroendoscopy_Laboratory_investigation/links/56b36c3008ae75a092d00cc5/Novel-pressure-sensing-skin-for-detecting-impending-tissue-damage-during-neuroendoscopy-Laboratory-investigation.pdf
     display: Journal of Neurosurgery - Pediatrics, vol. 13, no. 1, pp. 114-121, 2014
 
 - title: "FBG-based Shape Sensing Tubes for Continuum Robots"
   authors: S. Ryu, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ryu2014FBG.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/6907368
     display: IEEE Int. Conf. Robotics and Automation, pp. 3531-3537, 2014
 
 - title: "Optimizing Curvature Sensor Placement for Fast, Accurate Shape Sensing of Continuum Robots"
   authors: B. Kim, J. Ha, F.C. Park, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/kim2014optimizing.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/6907649
     display: IEEE Int. Conf. Robotics and Automation, pp. 5374-5379, 2014
 
 - title: "Achieving Elastic Stability of Concentric Tube Robots Through Optimization of Tube Precurvature"
   authors: J. Ha, F. Park, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ha2014achieving.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/6942661
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 864-870, 2014
 
 - title: "MRI-powered Closed-loop Control for Multiple Magnetic Capsules"
   authors: A. Eqtami, O. Felfoul, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/eqtami2014MRI.pdf
+    url: https://d1wqtxts1xzle7.cloudfront.net/35502234/IROS14_FINAL-libre.pdf?1415641508=&response-content-disposition=inline%3B+filename%3DMRI_powered_Closed_loop_Control_for_Mult.pdf&Expires=1662587994&Signature=FBLRfOGqKAC3H2ttlH7FafMbn4EQihSvV6RVqDgOSn-ML-zQ7OAfPtYuQ8AnuVr1bFcBUrJJv9d2N3zKI4UEtwp-HeUrkJ5Z8M1lAoP7YseQP91ldWZ8drk4jXtPOGWU8M504t00GKIdlui1mtTLDThvnprnt9VuUCWYJ0Rs~hrcxuU56yAGUC3ASQlffJm6yOowf42O1zIa3~FD9Rz3lcPggOyAsXiHxYaFpiO5fdpSfrUENRQl2mXrTNWStN5dymX2rVVqu5T0ynG8VP8F7H0HzOE3ajhqS-wWiXbiTkSUvm3UqbQQSc4eTQHP56BTjZ5hZxR0lmKsqOecSDt61Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3536-3542, 2014
 
 - title: "Robotic Implant to Apply Tissue Traction Forces in the Treatment of Esophageal Atresia"
   authors: D. Damian, S. Arabagi, A. Fabozzo, P. Ngo, R. Jennings, M. Manfredi, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/damian2014robotic.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.8354&rep=rep1&type=pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 786-792, 2014
 
 - title: "Simultaneously Powering and Controlling Many Actuators With a Clinical MRI Scanner"
   authors: A. Becker, O. Felfoul, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/becker2014simultaneously.pdf
+    url: https://swarmcontrol.ece.uh.edu/wp-content/papercite-data/pdf/6942831.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2017-2023, 2014
 
 - title: "Robotic Surgery"
