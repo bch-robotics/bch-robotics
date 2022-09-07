@@ -281,10 +281,7 @@
     display: Biomedical Microdevices, vol. 17, no. 3, pp. 1-12, 2015
 
 - title: "Magnetic Bi-component Millirobot for Targeted Drug Delivery"
-  authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
-  link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/iacovacci2015magnetic.pdf
-    display: Hamlyn Symposium on Medical Robotics, pp. 5-6, 2015
+  authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi <br> Hamlyn Symposium on Medical Robotics, pp. 5-6, 2015
 
 - title: "Achieving Commutation Control of an MRI-powered Robot Actuator"
   authors: O. Felfoul, A. Becker, C. Bergeles, P.E. Dupont
@@ -371,37 +368,37 @@
   title: "An MRI-powered and Controlled Actuator Technology for Tetherless Robotic Interventions"
   authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2013MRI.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.8719&rep=rep1&type=pdf
     display: Int. J. Robotics Research, vol. 32, no. 13, pp. 1536-1552, 2013
 
 - title: "Percutaneous Steerable Robotic Tool Delivery Platform and Metal MEMS Device for Tissue Manipulation and Approximation: Initial Experience with Closure of Patent Foramen Ovale"
   authors: N.V. Vasilyev, A. Gosline, E. Butler, N. Lang, P. Codd, H. Yamauchi, E. Feins, C. Folk, A. Cohen, R. Chen, P.J. del Nido, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2013percutaneous.pdf
+    url: https://www.ahajournals.org/doi/epub/10.1161/CIRCINTERVENTIONS.112.000324
     display: Circulation - Cardiovascular Interventions, vol. 6, pp. 468-475, 2013
 
 - title: "Achieving Biocompatibility in Soft Sensors for Surgical Robots"
   authors: A. Gosline, V. Arabagi, A. Kassam, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/gosline2013achieving.pdf
+    url: https://mediatum.ub.tum.de/doc/1283865/1283865.pdf#page=15
     display: Hamlyn Symposium on Medical Robotics, pp. 5-6, 2013
 
 - title: "Planning Stable Paths for Concentric Tube Robots"
   authors: C. Bergeles, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2013planning.pdf
+    url: https://drive.google.com/file/d/1HgJaU07gV4FvzW-NvhmIHLNQEELMCII1/view
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3077-3082, 2013
 
 - title: "Closed-Loop Commutation Control of an MRI-Powered Robot Actuator"
   authors: C. Bergeles, P. Vartholomeos, L. Qin, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2013closed.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.2954&rep=rep1&type=pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 690-695, 2013
 
 - title: "Simultaneous Soft Sensing of Contact Orientation and Force for Millimeter-scale Medical Robots"
   authors: V. Arabagi, A. Gosline, R. Wood, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/arabagi2013simultaneous.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825410/pdf/nihms454743.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 4381-4387, 2013
 
 
@@ -409,73 +406,64 @@
   title: "Robotics and imaging in congenital heart surgery"
   authors: N.V. Vasilyev, P.E. Dupont, P.J. del Nido
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vasilyev2012robotics.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326442/pdf/nihms364832.pdf
     display: Future Cardiology, vol. 8, no. 2, pp. 285-296, 2012
 
 - title: "Motion planning for multiple millimeter-scale magnetic capsules in a fluid environment"
   authors: P. Vartholomeos, R. Akhavan-Sharif, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2012motion.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/6225330
     display: IEEE Int. Conf. Robotics and Automation, pp. 1927-1932, 2012
 
 - title: "Closed-loop position control of an MRI-powered biopsy robot"
-  authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
-  link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2012closed.pdf
-    display: Hamlyn Symposium on Medical Robotics, pp. 83-84, 2012
+  authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont <br> Hamlyn Symposium on Medical Robotics, pp. 83-84, 2012
 
 - title: "Passive markers for tracking surgical instruments in real-time 3D ultrasound imaging"
   authors: J.A. Stoll, H. Ren, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2012passive.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638948/pdf/nihms-454737.pdf
     display: IEEE Trans. Medical Imaging, vol. 31, no. 3, pp. 563-575, 2012
 
 - title: "Tubular enhanced geodesic active contours for continuum robot detection using 3D ultrasound"
   authors: H. Ren, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2012tubular.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825407/pdf/nihms453581.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2907-2912, 2012
 
 - title: "Target tracking in 3D ultrasound volumes by direct visual servoing"
   authors: C. Nadeau, H. Ren, A. Krupa, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/nadeau2012target.pdf
+    url: https://hal.inria.fr/hal-00751755/document
     display: Hamlyn Symposium on Medical Robotics, pp. 15-16, 2012
 
 - title: "Percutaneous intracardiac beating-heart surgery using metal MEMS tissue approximation tools"
   authors: A. Gosline, N.V. Vasilyev, E. and Butler, C. Folk, A. Cohen, R. Chen, N. Lang, P.J. del Nido, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/gosline2012percutaneous.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671619/pdf/nihms-453585.pdf
     display: Int. J. Robotics Research, 2012
 
 - title: "Metal-MEMS tools for beating-heart tissue approximation"
   authors: E. Butler, C. Folk, A. Cohen, N.V. Vasilyev, R. Chen, P.J. del Nido, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/gosline2012metal.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252216/pdf/nihms346106.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 411-416, 2012
 
 - title: "Extending the reach and stability of manually steerable neuroendoscopes through robotics"
-  authors: P.E. Dupont, S. Chawarski, E. Butler, R. Hammond-Oakley, A. Gosline, P. Codd, T. Anor, J. Madsen, J. Lock
-  link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2012extending.pdf
-    display: Hamlyn Symposium on Medical Robotics, pp. 89-90, 2012
+  authors: P.E. Dupont, S. Chawarski, E. Butler, R. Hammond-Oakley, A. Gosline, P. Codd, T. Anor, J. Madsen, J. Lock <br> Hamlyn Symposium on Medical Robotics, pp. 89-90, 2012
 
 - title: "Concentric Tube Robots for Minimally Invasive Surgery"
-  authors: P.E. Dupont, A. Gosline, N. Vasilyev, J. Lock, E. Butler, C. Folk, A. Cohen, A. Veeramani, M. Wu, G. Schmitz, R. Chen, R. del Nido
-  link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2012concentric.pdf
-    display: Hamlyn Symposium on Medical Robotics, pp. 3-4, 2012
+  authors: P.E. Dupont, A. Gosline, N. Vasilyev, J. Lock, E. Butler, C. Folk, A. Cohen, A. Veeramani, M. Wu, G. Schmitz, R. Chen, R. del Nido <br> Hamlyn Symposium on Medical Robotics, pp. 3-4, 2012
 
 - title: "Robotic neuroendoscope with concentric tube augmentation"
   authors:  E. Butler, R. Hammond-Oakley, S. Chawarski, A. Gosline, P. Codd, T. Anor, J. Madsen, P.E. Dupont, J. Lock
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/butler2012robotic.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3825412/pdf/nihms399286.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2941-2946, 2012
 
 - title: "Tracking and position control of an MRI-powered needle-insertion robot"
   authors:  C. Bergeles, L. Qin, P. Vartholomeos, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/bergeles2012tracking.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/6346084
     display: IEEE Engineering in Medicine and Biology Conf., pp. 928-931, 2012
 
 - year: 2011
