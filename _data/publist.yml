@@ -147,7 +147,7 @@
 - title: "Image-based Contact Stabilization Inside the Beating Heart"
   authors: B. Rosa, G. Fagogenis, P.E. Dupont
   link:
-    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Image-based+Contact+Stabilization+Inside+the+Beating+Heart&btnG=
+    url: https://hamlynsymposium.org/app/uploads/2022/01/Proceedings_HSMR17-1.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 17-18, 2017
 
 - title: "Cardioscopically-guided beating heart surgery: paravalvular leak repair"
@@ -165,7 +165,7 @@
 - title: "Effect of Path HIstory on Concentric Tube Robot Model Calibration"
   authors: J. Ha, G. Fagogenis, P.E. Dupont
   link:
-    url: https://www.researchgate.net/profile/Andras-Lasso/publication/332391301_3D_Gaze_Tracking_based_on_Eye_and_Head_Pose_Tracking/links/5f281036a6fdcccc43a665bb/3D-Gaze-Tracking-based-on-Eye-and-Head-Pose-Tracking.pdf#page=89
+    url: https://hamlynsymposium.org/app/uploads/2022/01/Proceedings_HSMR17-1.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 77-78, 2017
 
 - title: "Designing Stable Concentric Tube Robots Using Piecewise Straight Tubes"
@@ -197,13 +197,13 @@
 - title: "A Robotic Implant for Enterogenesis"
   authors: K. Price, Z. Machaidze, T. Jaksic, R.P. Jennings, P.E. Dupont
   link:
-    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=A+Robotic+Implant+for+Enterogenesis&btnG=
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR16-compressed.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 68-69, 2016
 
 - title: "Multi-port Neuroendoscope for Robotic Intraventricular Procedures"
   authors: M. Mencattelli, S. Manjila, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
   link:
-    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Multi-port+Neuroendoscope+for+Robotic+Intraventricular+Procedures&btnG=
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR16-compressed.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 32-33, 2016
 
 - title: "Enabling Automated MRI-based Targeting Assessment During Dipole Field Navigation"
@@ -281,7 +281,10 @@
     display: Biomedical Microdevices, vol. 17, no. 3, pp. 1-12, 2015
 
 - title: "Magnetic Bi-component Millirobot for Targeted Drug Delivery"
-  authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi <br> Hamlyn Symposium on Medical Robotics, pp. 5-6, 2015
+  authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
+    link:
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR15-compressed.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 5-6, 2015
 
 - title: "Achieving Commutation Control of an MRI-powered Robot Actuator"
   authors: O. Felfoul, A. Becker, C. Bergeles, P.E. Dupont
@@ -298,7 +301,7 @@
 - title: "Design of a robotic implant for in vivo esophageal tissue growth"
   authors: D. Damian, S. Arabagi, P.E. Dupont
   link:
-    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&as_vis=1&q=Design+of+a+robotic+implant+for+in+vivo+esophageal+tissue+growth&btnG=
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR15-compressed.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 73-74, 2015
 
 - title: "Toward Tissue Penetration by MRI-powered Millirobots Using a Self-Assembled Gauss Gun"
@@ -416,7 +419,10 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 1927-1932, 2012
 
 - title: "Closed-loop position control of an MRI-powered biopsy robot"
-  authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont <br> Hamlyn Symposium on Medical Robotics, pp. 83-84, 2012
+  authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
+    link:
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR12.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 83-84, 2012
 
 - title: "Passive markers for tracking surgical instruments in real-time 3D ultrasound imaging"
   authors: J.A. Stoll, H. Ren, P.E. Dupont
@@ -449,10 +455,16 @@
     display: IEEE Int. Conf. Robotics and Automation, pp. 411-416, 2012
 
 - title: "Extending the reach and stability of manually steerable neuroendoscopes through robotics"
-  authors: P.E. Dupont, S. Chawarski, E. Butler, R. Hammond-Oakley, A. Gosline, P. Codd, T. Anor, J. Madsen, J. Lock <br> Hamlyn Symposium on Medical Robotics, pp. 89-90, 2012
+  authors: P.E. Dupont, S. Chawarski, E. Butler, R. Hammond-Oakley, A. Gosline, P. Codd, T. Anor, J. Madsen, J. Lock
+    link:
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR12.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 89-90, 2012
 
 - title: "Concentric Tube Robots for Minimally Invasive Surgery"
-  authors: P.E. Dupont, A. Gosline, N. Vasilyev, J. Lock, E. Butler, C. Folk, A. Cohen, A. Veeramani, M. Wu, G. Schmitz, R. Chen, R. del Nido <br> Hamlyn Symposium on Medical Robotics, pp. 3-4, 2012
+  authors: P.E. Dupont, A. Gosline, N. Vasilyev, J. Lock, E. Butler, C. Folk, A. Cohen, A. Veeramani, M. Wu, G. Schmitz, R. Chen, R. del Nido
+    link:
+    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR12.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp. 3-4, 2012
 
 - title: "Robotic neuroendoscope with concentric tube augmentation"
   authors:  E. Butler, R. Hammond-Oakley, S. Chawarski, A. Gosline, P. Codd, T. Anor, J. Madsen, P.E. Dupont, J. Lock
