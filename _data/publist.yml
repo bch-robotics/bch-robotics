@@ -470,117 +470,117 @@
   title: "MRI-powered actuators for robotic interventions"
   authors: P. Vartholomeos, L. Qin, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/vartholomeos2011mri.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3266608/pdf/nihms346110.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 4508-4515, 2011
 
 - title: "Tubular structure enhancement for surgical instrument detection in 3D ultrasound"
   authors: H. Ren, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2011tubular.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263977/pdf/nihms-346060.pdf
     display: IEEE Engineering in Medicine and Biology Conf., pp. 7203-7206, 2011
 
 - title: "Detection of curved robots using 3D ultrasound"
   authors: H. Ren, N.V. Vasilyev, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/ren2011detection.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252206/pdf/nihms-346112.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2083-2089, 2011
 
 - title: "Stiffness control of surgical continuum manipulators"
   authors: M. Mahvash, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2011stiffness.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837630/pdf/nihms454732.pdf
     display: IEEE Trans. Robotics, vol. 27, no. 2, pp. 334-345, 2011
 
 - title: "Friction modeling in concentric tube roots"
   authors: J. Lock, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/lock2011friction.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3282594/pdf/nihms-346105.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1139-1146, 2011
 
 - title: "Beating-heart mitral valve chordal replacement"
   authors: G. Laing, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/laing2011beating.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3294288/pdf/nihms-346033.pdf
     display: IEEE Engineering in Medicine and Biology Conf., pp. 2476-2479, 2011
 
 - title: "Metal-MEMS tools for beating-heart tissue approximation"
   authors: E. Butler, C. Folk, A. Cohen, N.V. Vasilyev, R. Chen, P.J. del Nido, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/butler2011metal.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252216/pdf/nihms346106.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 411-416, 2011
 
 - title: "Design optimization of concentric tube robots based on task and anatomical constraints"
   authors: C. Bedell, J. Lock, A. Gosline, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/bedell2011design.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252204/pdf/nihms-346091.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 398-403, 2011
 
 - title: "Algorithms for design of continuum robots using the concentric tubes approach: a neurosurgical example"
   authors: T. Anor, J. Madsen, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/anor2011algorithms.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262313/pdf/nihms346108.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 667-673, 2011
 
 - year: 2010
   title: "IN-Haptics: interactive navigation using haptics"
   authors: R. Walker, S. Andersson, C. Belta, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/walker2010in.pdf
+    url: https://www.researchgate.net/profile/Sean-Andersson/publication/224129846_IN-HAPTICS_Interactive_navigation_using_haptics/links/542370430cf238c6ea6e3de2/IN-HAPTICS-Interactive-navigation-using-haptics.pdf
     display: IEEE Haptics Symposium, pp. 463-466, 2010
 
 - title: "Stiffness control of a continuum manipulator in contact with a soft environment"
   authors: M. Mahvash, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2010stiffness.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051195/pdf/nihms251110.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 863-870, 2010
 
 - title: "Mechanics of dynamic needle insertion into a biological material"
   authors: M. Mahvash, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2010mechanics.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3021974/pdf/nihms-251082.pdf
     display: IEEE Trans. Biomedical Engineering, vol. 57, no. 4, pp. 934-943, 2010
 
 - title: "Quasistatic modeling of concentric tube robots with external loads"
   authors: J. Lock, G. Lain, M. Mahvash, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/lock2010quasistatic.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028209/pdf/nihms-251112.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 2325-2332, 2010
 
 - title: "Real-time position control of concentric tube robots"
   authors: P.E. Dupont, J. Lock, B. Itkowitz
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2010real.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198832/pdf/nihms251114.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 562-568, 2010
 
 - title: "Design and control of concentric tube robots"
   authors: P.E. Dupont, J. Lock, B. Itkowitz, E. Butler
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2010design.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022350/pdf/nihms-251097.pdf
     display: IEEE Trans. Robotics, vol. 26, no. 2, pp. 209-225, 2010
 
 - year: 2009
   title: "Image guided surgical interventions"
   authors: D. Perrin, N.V. Vasilyev, P. Novotny, J.A. Stoll, R. Howe,P.E. Dupont, I. Salgo, P.J. del Nido
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/perrin2009image.pdf
+    url: https://reader.elsevier.com/reader/sd/pii/S0011384009000537?token=96161C33D1B2C0892C0694A239A2A7656EFA5A1EA0E2322835C2186BFABBB52505712AD7EA829D25666AE1043CA1C704&originRegion=us-east-1&originCreation=20220908151228
     display: Current Problems in Surgery, vol. 46, no. 9, pp. 730-766, 2009
 
 - title: "Fast needle insertion to minimize tissue deformation and damage"
   authors: M. Mahvash, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2009fast.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051196/pdf/nihms251102.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3097-3102, 2009
 
 - title: "Discrete-time elasto-plastic friction estimation"
   authors: V. Hayward, B. Armstrong, F. Altpeter, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/hayward2009discrete.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.704.6058&rep=rep1&type=pdf
     display: IEEE Trans. Control Systems Technology, vol. 17, no. 3, pp. 688-696, 2009
 
 - title: "Torsional kinematic model for concentric tube robots"
   authors: P.E. Dupont, J. Lock, E. Butler
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2009torsional.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071574/pdf/nihms251100.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3851-3858, 2009
 
 
@@ -588,7 +588,7 @@
   title: "Bilateral teleoperation of flexible surgical robots"
   authors: M. Mahvash, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mahvash2008bilateral.pdf
+    url: https://d1wqtxts1xzle7.cloudfront.net/50351653/Bilateral_Teleoperation_of_Flexible_Surg20161116-17555-1nhqlr6-with-cover-page-v2.pdf?Expires=1662653635&Signature=R3VP1pDVJyT9fiywdVUd1~4cmET9cRaZhlZT0ddJxcjSqovMPM0iUVWS7WyXBO5tCkjr07bXvSGse7Wd2OnGAfZaB0rEV1x2~8Lm1UkdTPwGZVgzfboR8Opv6KUUWgFnBYK~-KCUk7amhtFaavzRPXTgTSTFrweps2qOo7WUKbhebYi7jpFkxFo~ehydPial8NizkCdBiAAnzTLSalrKv~8hmDb94LnDnsH7VasoVsNrEVi~14i30bXKsJVJes1wpC~q~HUzmHyQ8urzi1cX82Nq~4xDMJ8rBEEr4g1gmI8x7mMukMjRkQzSB8AKTdimZvLn5gsD-4TFgFhFZ9ZF~g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
     display: IEEE Int. Conf. Robotics and Automation, New Vistas and Challenges in Telerobotics Workshop, 2008
 
 
@@ -596,13 +596,13 @@
   title: "Inverse kinematics of concentric tube steerable needles"
   authors: P. Sears, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/sears2007inverse.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3655419/pdf/nihms462483.pdf
     display: IEEE Int. Conf. Robotics and Automation, 2007
 
 - title: "Real-time visual servoing of a robot using three dimensional ultrasound"
   authors: P. Novotny, J. Stoll, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/novotny2007real.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.8577&rep=rep1&type=pdf
     display: IEEE Int. Conf. Robotics and Automation, 2007
 
 - title: "GPU based real-time instrument tracking with three-dimensional ultrasound"
@@ -614,7 +614,7 @@
 - title: "Imaging artifacts of medical instruments in ultrasound-guided interventions"
   authors: J. Huang, J. Triedman, N.V. Vasilyev, Y. Suematsu, R. Cleveland, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/huang2007imaging.pdf
+    url: https://onlinelibrary.wiley.com/doi/abs/10.7863/jum.2007.26.10.1303
     display: J. Ultrasound in Medicine, vol. 26, pp. 1303-1322, 2007
 
 
@@ -622,19 +622,19 @@
   title: "Real-time 3D ultrasound-based servoing of a surgical instrument"
   authors: J. Stoll, P. Novotny, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2006real.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/1641778
     display: IEEE Int. Conf. Robotics and Automation, 2006
 
 - title: "Force control for grasping force tissue"
   authors: J. Stoll, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2006force.pdf
+    url: http://www.bu.edu/biorobotics/publications/force%20control%20ICRA06.pdf
     display: IEEE Int. Conf. Robotics and Automation, 2006
 
 - title: "A steerable needle technology using curved concentric tubes"
   authors: P. Sears, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/sears2006steerable.pdf
+    url: http://www.bu.edu/biorobotics/publications/Steerable%20Needles%20-%20IROS06.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2006
 
 - title: "Stereo display of 3D ultrasound images for surgical robot guidance"
@@ -646,7 +646,7 @@
 - title: "GPU based real-time instrument tracking with three-dimensional ultrasound"
   authors: P. Novotny, J. Stoll, N.V. Vasilyev, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/novotny2006gpu.pdf
+    url: https://link.springer.com/content/pdf/10.1007/11866565_8.pdf
     display: Int. Conf. Medical Image Computing and Computer Assisted Intervention, 2006
 
 - title: "3D ultrasound in robotic surgery: a study of performance with stereo displays"
@@ -658,13 +658,13 @@
 - title: "Producing diffuse ultrasound reflections from medical instruments using the quadratic residue diffuser"
   authors: J. Huang, P.E. Dupont, A. Undurti, J. Triedman, R. Cleveland
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/huang2006producing.pdf
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0301562906014864
     display: Ultrasound in Medicine and Biology, vol. 32, no. 5, pp. 721-727, 2006
 
 - title: "Electromechanical emulation of active vibratory systems"
   authors: W. Chen, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/chen2006electromechanical.pdf
+    url: https://asa.scitation.org/doi/pdf/10.1121/1.2167053
     display: J. Acoustical Society of America, vol. 119, no. 3, pp. 27-33, 2006
 
 
