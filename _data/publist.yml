@@ -625,7 +625,7 @@
     url: https://ieeexplore.ieee.org/abstract/document/1641778
     display: IEEE Int. Conf. Robotics and Automation, 2006
 
-- title: "Force control for grasping force tissue"
+- title: "Force control for grasping soft tissue"
   authors: J. Stoll, P.E. Dupont
   link:
     url: http://www.bu.edu/biorobotics/publications/force%20control%20ICRA06.pdf
@@ -672,13 +672,13 @@
   title: "Three-dimensional echo-guided beating heart surgery without cardiopulmonary bypass - atrial septal defect closure in a swine model"
   authors: Y. Suematsu, J.F. Martinez, B.K. Wolf, G.R. Marx, J.A. Stoll, P.E. Dupont, R. Howe, J.K. Triedman, P.J. del Nido
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/suematsu2005three.pdf
+    url: https://reader.elsevier.com/reader/sd/pii/S0022522305011797?token=0AAFE3A45B175CD667D6BCD6B3BF6BB4908191F30189563FE269E01215D7C7489A3740C9C77C34E614F52F3C5FAF13D1&originRegion=us-east-1&originCreation=20220908153247
     display: J. Thorac Cardiovascular Surgery, vol. 130, no. 5, pp. 1348-1357, 2005
 
 - title: "Passive markers for ultrasound tracking of surgical instruments"
   authors: J. Stoll, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2005passive.pdf
+    url: https://link.springer.com/content/pdf/10.1007/11566489_6.pdf
     display: Int. Conf. Medical Image Computing and Computer Assisted Intervention, 2005
 
 - title: "Trajectory optimization for dynamic needle insertion"
@@ -690,13 +690,13 @@
 - title: "Distinguishability and identifiability testing of contact state models"
   authors: T.J. Debus, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2005distinguishability.pdf
+    url: https://www.tandfonline.com/doi/abs/10.1163/156855305323383794
     display: Advanced Robotics, vol. 19, no. 5, pp. 545-566, 2005
 
 - title: "Realization of mechanical systems from second-order models"
   authors: W. Chen, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/chen2005realization.pdf
+    url: https://dash.harvard.edu/bitstream/handle/1/33885198/1%252E1953227.pdf?sequence=1&isAllowed=y
     display: J. Acoustical Society of America, vol. 118, no. 2, 2005
 
 
@@ -704,25 +704,25 @@
   title: "Multi-Channel Vibrotactile Display for Teleoperated Assembly"
   authors: T. Debus, P.E. Dupont, R.D. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004multi.pdf
+    url: https://koreascience.kr/article/JAKO200411922627376.pdf
     display: International Journal of Control, Automation and System, vol. 2, no. 3, pp. 390-397, 2004
 
 - title: "Distinguishability and identifiability of contact states"
   authors: T. Debus, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004distinguishability.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/1307977
     display: IEEE Int. Conf. Robotics and Automation, pp. 1135-1140, 2004
 
 - title: "Contact state estimation using multiple model estimation and hidden markov models"
   authors: T. Debus, P.E. Dupont, R.D. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2004contact.pdf
+    url: http://biorobotics.harvard.edu/pubs/DebusIJRR2004.pdf
     display: Int. J. Robotics Research, vol. 23, no. 4, pp. 399-414, 2004
 
 - title: "Kinematic error correction for minimally invasive surgical robots"
   authors: R. Beasley, R. Howe, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/beasley2004kinematic.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/1307176
     display: IEEE Int. Conf. Robotics and Automation, 2004
 
 
@@ -730,19 +730,19 @@
   title: "Contact state estimation using multiple model estimation and hidden markov models"
   authors: T. Debus, P.E. Dupont, R.D. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2003contact.pdf
+    url: http://biorobotics.harvard.edu/pubs/DebusIJRR2004.pdf
     display: 8th Int. Symposium on Experimental Robotics, vol. 5, pp. 517-52, 2003
 
 - title: "Real-time 3-dimensional ultrasound for guiding surgical tasks"
   authors: J. Cannon, J. Stoll, I. Salgo, H. Knowles, R. Howe, P.E. Dupont, G. Marx, P.J. del Nido
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/cannon2003real.pdf
+    url: https://www.tandfonline.com/doi/pdf/10.3109/10929080309146042
     display: Computer Aided Surgery, vol. 8, no. 2  pp. 82-90, 2003
 
 - title: "Port placement planning in robot-assisted coronary artery bypass"
   authors: J. Cannon, J. Stoll, S. Selha, P.E. Dupont, R.D. Howe, D. Torchiana
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/cannon2003port.pdf
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3265792/pdf/nihms-346078.pdf
     display: IEEE Trans. Robotics and Automation, vol. 19, no. 5  pp. 912-917, 2003
 
 - title: "Application of robotics in congenital cardiac surgery"
@@ -757,13 +757,13 @@
   title: "Single state elasto-plastic friction models"
   authors: P.E. Dupont, V. Hayward, B. Armstrong, F. Altpeter
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2002single.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.1844&rep=rep1&type=pdf
     display: IEEE Trans. Automatic Control, vol. 47, no. 5  pp. 787-792, 2002
 
 - title: "Multichannel Vibrotactile Display for Teleoperated Assembly"
   authors: T. Debus, P.E. Dupont, T.J. Jang, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2002multichannel.pdf
+    url: https://koreascience.kr/article/JAKO200411922627376.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 592-597, 2002
 
 
@@ -772,37 +772,37 @@
   title: "Ultrasound-based Servoing of Manipulators for Telesurgery"
   authors: J. Stoll, P. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/stoll2001ultrasound.pdf
+    url: https://dash.harvard.edu/bitstream/handle/1/33892602/SPIE01_US.pdf?sequence=1
     display: Telemanipulator and Telepresence Technologies VIII Conference, Proceedings of the SPIE, vol. 4570, pp. 78-85, 2001
 
 - title: "Analysis of rigid body dynamic models for simulation of systems with frictional contacts"
   authors: P. Song, P. Kraus, V. Kumar, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/song2001analysis.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.9072&rep=rep1&type=pdf
     display: J. Applied Mechanics, vol. 68, no. 1,  pp. 118-128, 2001
 
 - title: "Optimal Port Placement in Robot-Assisted Coronary Artery Bypass Grafting"
   authors: S. Selha, P.E. Dupont, R. Howe, D. Torchiana
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/selha2001optimal.pdf
+    url: https://link.springer.com/content/pdf/10.1007/3-540-45468-3_258.pdf
     display: Medical Image Computing and Computer-Assisted Intervention, pp. 1435-1436, 2001
 
 - title: "Dexterity Optimization by Port Placement in Robot-Assisted Minimally Invasive Surgery"
   authors: S. Selha, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/selha2001dexterity.pdf
+    url: https://dash.harvard.edu/bitstream/handle/1/33892601/01_SPIE_portplacement.pdf?sequence=1
     display: Telemanipulator and Telepresence Technologies VIII Conference, Proceedings of the SPIE, vol. 4570, 2001
 
 - title: "Multichannel Vibrotactile Display for Sensory Substitution During teleoperation"
   authors: T. Debus, T. Becker, P.E. Dupont, T.J. Jang, R. and Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2001multichannel.pdf
+    url: https://dash.harvard.edu/bitstream/handle/1/33885205/SPIE01VB.pdf?sequence=1
     display: Multichannel Vibrotactile Display for Sensory Substitution During teleoperation, 2001
 
 - title: "Cooperative Human and Machine Perception in Teleoperated Assembly"
   authors: T. Debus, J. Stoll, R. Howe, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2001cooperative.pdf
+    url: http://www.bu.edu/biorobotics/publications/00_Iser_pptyestim.pdf
     display: Cooperative Human and Machine Perception in Teleoperated Assembly, Lecture notes in control and information sciences, vol. 271, pp. 51-60, 2001
 
 
@@ -811,25 +811,25 @@
   title: "A wave approach to estimating frequency-dependent damping under transient loading"
   authors: J.G. McDaniel, P.E. Dupont, L. Salvino
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/mcdaniel2000wave.pdf
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0022460X99927232
     display: J. Sound and Vibration, vol. 231, no. 2, pp. 433-449, 2000
 
 - title: "Analysis of floquet wave generation and propagation in a plate with multiple arrays of attachments"
   authors: D. Gueorguiev, J.G. McDaniel, P.E. Dupont, L. Felsen
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/gueorguiev2000analysis.pdf
+    url: http://www.bu.edu/biorobotics/publications/floquet.pdf
     display: J. Sound and Vibration, vol. 203, no. 5, pp. 819-840, 2000
 
 - title: "Elasto-plastic Friction Model: Contact Compliance and Stiction"
   authors: P.E. Dupont, B. Armstrong, V. Hayward
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont2000elastic.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/876665
     display: American Control Conference, pp. 1072-1077, 2000
 
 - title: "Automatic Identification of Local Geometric Properties During Teleoperation"
   authors: T. Debus, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus2000automatic.pdf
+    url: https://biorobotics.harvard.edu/pubs/2000/debus_ICRA2000.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3428-3434, 2000
 
 
@@ -842,19 +842,19 @@
 - title: "Simplified Dispersion Relations for Floquet Waves in a Plate with Multiple Arrays of Attachments"
   authors: D. Gueorguiev, J.G. McDaniel, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/gueorguiev1999simplified.pdf
+    url: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/DETC99/861/1097809
     display: Proc 17th Biennial Conference on Mechanical Vibration and Noise, ASME 1999 Design Engineering , 1999
 
 - title: "Automatic identification of environment haptic properties"
   authors: P.E. Dupont, P. Schulteis, P. Millman, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1999automatic.pdf
+    url: https://dash.harvard.edu/bitstream/handle/1/33885201/105474699566305.pdf?sequence=1
     display: PRESENCE - Teleoperators and virtual environments, vol. 8, no. 4, pp. 392-409, 1999
 
 - title: "Automatic Property Identification via Parameterized Constraints"
   authors: T. Debus, P.E. Dupont, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/debus1999automatic.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.5638&rep=rep1&type=pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1876-1881, 1999
 
 
