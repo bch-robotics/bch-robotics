@@ -730,7 +730,7 @@
   title: "Contact state estimation using multiple model estimation and hidden markov models"
   authors: T. Debus, P.E. Dupont, R.D. Howe
   link:
-    url: http://biorobotics.harvard.edu/pubs/DebusIJRR2004.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.535&rep=rep1&type=pdf
     display: 8th Int. Symposium on Experimental Robotics, vol. 5, pp. 517-52, 2003
 
 - title: "Real-time 3-dimensional ultrasound for guiding surgical tasks"
@@ -863,7 +863,7 @@
   title: "Evaluation of Granular-fill Damping in Shock Loaded Box Beams"
   authors: L. Salvino, P.E. Dupont, J.G. McDaniel
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/salvino1998evaluation.pdf
+    url: http://www.bu.edu/biorobotics/publications/98b_Svs_vibration.pdf
     display: Proc 69th Shock and Vibration Symposium, 1998
 
 - title: "An Error Measure for the Shock Testing of Scale Models"
@@ -875,25 +875,25 @@
 - title: "Analysis of Frictional Contact Models for Dynamic Simulation"
   authors: P. Kraus, V. Kumar, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/kraus1998analysis.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.1690&rep=rep1&type=pdf
     display: IEEE Int. Conf. Robotics and Automation, vol. 2, pp. 976-981, 1998
 
 - title: "Constrained optimal control of vibration dampers"
   authors: P. Kasturi, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/kasturi1998constrained.pdf
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0022460X98916613
     display: J. Sound and Vibration, pp.  499-509, 1998
 
 - title: "Haptic Identification of Remote Environment Properties"
   authors: R. Howe, T. Debus, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/howe1998haptic.pdf
+    url: https://dash.harvard.edu/bitstream/handle/1/33885204/Haptic_identification_of_remote_environment_proper%202.pdf?sequence=2
     display: SPIE Int Symp Intelligent Systems and Advanced Manufacturing, Proc SPIE, vol. 3524, 1998
 
 - title: "Model Reduction Techniques for Shock Loaded Equipment Emulators"
   authors: P.E. Dupont, A. Stokes
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1998model.pdf
+    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/252786453_Model_Reduction_Techniques_for_Shock_Loaded_Equipment_Emulators/links/559a70f208ae99aa62ccd68b/Model-Reduction-Techniques-for-Shock-Loaded-Equipment-Emulators.pdf
     display: Proc 69th Shock and Vibration Symposium, 1998
 
 
@@ -901,38 +901,38 @@
   title: "Semi-active Control of Friction Dampers"
   authors: P.E. Dupont, P. Kasturi, A. Stokes
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1997semi.pdf
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X96907981
     display: Journal of Sound and Vibration, vol. 202, no. 2, pp. 203-218, 1997
 
 - title: "Stability of Frictional Contact in Constrained Rigid-body Dynamics"
   authors: P.E. Dupont, S. Yamajako
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1997stability.pdf
+    url: http://www.bu.edu/biorobotics/publications/97_Tra_friction.pdf
     display: IEEE Trans. Robotics and Automation, vol. 13, no. 2, pp. 230-236, 1997
 
 - title: "Periodic Optimal Control of Dampers"
   authors: P. Kasturi, P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/kasturi1997periodic.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.8761&rep=rep1&type=pdf
     display: ASME Design Engineering Technical Conference, 1997
 
 - title: "Experimental Identification of Kinematic Constraints"
   authors: P.E. Dupont, P. Schulteis, R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1997experimental.pdf
+    url: https://www.biorobotics.harvard.edu/pubs/1997/dupont_ICRA1997.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2677-2682, 1997
 
 - year: 1996
   title: "Perturbational Stability of Frictional Sliding with Varying Normal Force"
   authors: P.E. Dupont, D. Bapna
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1996perturbation.pdf
+    url: http://www.bu.edu/biorobotics/publications/96_Jva_friction.pdf
     display: ASME Journal of Vibration and Acoustics, vol. 118, no. 3, pp. 491-497, 1996
 
 - title: "Automatic Identification of Remote Environments"
   authors: P. Schulteis, P.E. Dupont, P. Millman,R. Howe
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/schulteis1996automatic.pdf
+    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/228645085_Automatic_identification_of_remote_environments/links/559a710108ae99aa62ccd784/Automatic-identification-of-remote-environments.pdf
     display: ASME Int Mechanical Engineering Congress & Exposition, pp. 451-458, 1996
 
 - title: "Experimental Evaluation of a Semi-active Friction Damper"
@@ -943,13 +943,13 @@
   title: "Friction Modeling and PD Compensation at Very Low Velocities"
   authors: P.E. Dupont, E. Dunlap
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1995friction.pdf
+    url: http://www.bu.edu/biorobotics/publications/95_Jdsmc_friction.pdf
     display: ASME Journal of Dynamic Systems, Measurement and Control, vol. 117, pp. 8-14, 1995
 
 - title: "Stability of Rigid-body Dynamics with Sliding Frictional Contacts"
   authors: P.E. Dupont, S. Yamajako
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1995stability.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/503806
     display: IEEE Int. Conf. Robotics and Automation, pp. 378-384, 1995
 
 - title: "Semi-active Control of Friction Dampers"
@@ -975,25 +975,25 @@
 - title: "A Survey of Models, Analysis Tools and Compensation Methods for the Control of Machines with Friction"
   authors: B. Armstrong-Helouvry, P.E. Dupont, C. Canudas de Wit
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/armstrong1994survey.pdf
+    url: https://pdf.sciencedirectassets.com/271426/1-s2.0-S0005109800X02403/1-s2.0-0005109894902097/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICGn7IFY6LAq9nCqlSjag8QN%2FkeSXqZKqpaNQj24llJeAiAHoEAr2sWNXEUj8Yr8iMBrXU3TAZVPNHfE70jZC9eKTSrMBAgwEAUaDDA1OTAwMzU0Njg2NSIMSJyPXcgAPRWuThevKqkEg%2FztDqljLyLgnfKhj7xAlX6C%2BhZidavZutHRQ1HRitZAiXQG%2BARWUqWxiXE0RDdTIvho5KhBF3r5vfB4c5BIY9anw3DzsejwXeXw0iiI42Y2UH28cYlThZXDUJtYAZR%2BI1nQgy7vLgUz1oRI%2BsTxFobsFsz6SRsJdaw2LOd6T%2FtzJN%2F22UxnaszfRJba6vAcgSs7Wj8fr516WGhOfwhnF2fwSPQQG2vN4NpPAUh%2FBzCgjWaDGw%2FI6OrkZqC7CDeAS5HrLCGSt7D85nHashRW3Yl6U%2BVnibAnASUE7s5rKNaAjgmRl0E7kFcBpcShslrOB7phYwJy679Ave4p9utVVO%2FHJzlC6r7moT4UCZNZeP1ZtYkcm0aaQmDWDGUgo6KWshns7u%2BZBIcB2hAoDseeYFkQ%2BsSNMWKiQcMCmdKB%2Bwv0%2Bb2m2E4qGhCjnnKPUaz%2FPScXXDj7zcbbKC30aEOhuGxg1GYTMWrIGLeHvvHmfji9%2FqKIfiQSqmfAk1kR3MKhYnZy%2FzuXz2moJl1ssLvGJxVcjrTV9aoUGF8xr53ilK%2BCIHRJ4ph4rUgkf%2BgleVjX6hMv79XK0g7OaJsZ9MrE63aahQl7bUuozO3xhleT7sifogjLPfmAtSA%2FjkD2%2BDYqf6dqP8ND0aVpejA9nzzZkiemug5eMlIkWvnRFtE0x22gAxUzlyG5p4RwN%2FnivxPq%2FBOuwdXIdrK%2FlurCcoWSo63DG07keQmMtDCF%2FeeYBjqqAWPw2I%2B9hTA%2FIxm1KnVK6CRyCPtR2LqfOOq%2BYI5KNJHFTg4fpHgcgKa%2FZoiZb7UtULBEMcSObHfbxMLqk0NqK0cslxtBP6l%2FxxkAaFcyR8c4MutDC1LiDyGgSkbHw4MBchKc7WOllYxdm%2FMXgKFR9kgqQcBmw%2F6f7IeeRW9gRUZg8z5zVfFhmx583QWBbUlZQzsFXb3ju696%2BWwlQP%2BS6ijoVEhxXacXegh0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220908T160135Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTWKSYCVJ%2F20220908%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b05f176d1f6686f2a5539e2fa521ac1fd11ae20852256c176a39f15f183a7e40&hash=ef506cc73a3f91059d8820b9e525c8d99889699b38c4110e5fe6d09b9ba781b2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0005109894902097&tid=spdf-4f29d142-a0fe-4ef0-9284-f42aaf7a8275&sid=b59ce406839fd1407d19e01063ff537c6810gxrqa&type=client&ua=4d525257075556530006&rr=7478e753cc743b8d
     display: Automatica, vol. 30, no. 7, pp. 1083-1138, 1994
 
 - title: "Avoiding Stick-slip Through PD Control"
   authors: P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994avoiding.pdf
+    url: http://www.bu.edu/biorobotics/publications/94_Tac_friction.pdf
     display: IEEE Trans. Automatic Control, vol. 39, no. 5, pp. 1094-1097, 1994
 
 - title: "Stability of Sliding Frictional Surfaces with Varying Normal Force"
   authors: P.E. Dupont, D. Bapna
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994stability.pdf
+    url: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.4697&rep=rep1&type=pdf
     display: ASME Journal of Vibration and Acoustics, vol. 116, no. 2, pp. 237-242, 1994
 
 - title: "Jamming and Wedging in Constrained Rigid-body Dynamics"
   authors: P.E. Dupont, S. Yamajako
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1994jamming.pdf
+    url: http://www.bu.edu/biorobotics/publications/94_Icra_jammingandwedging.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 2349-2354, 1994
 
 
@@ -1001,19 +1001,19 @@
   title: "The Effect of Friction on the Forward Dynamics Problem"
   authors: P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993effect.pdf
+    url: https://journals.sagepub.com/doi/abs/10.1177/027836499301200205
     display: Int. J. Robotics Research, vol. 12, no. 2, pp. 164-179, 1993
 
 - title: "Friction Modeling and Control in Boundary Lubrication"
   authors: P.E. Dupont, E. Dunlap
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993friction.pdf
+    url: http://www.bu.edu/biorobotics/publications/93_Acc_friction.pdf
     display: American Control Conference, pp. 1910-1914, 1993
 
 - title: "Existence and Uniqueness of Rigid-Body Dynamics with Coulomb Friction"
   authors: P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1993existence.pdf
+    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/266490994_Existence_and_uniqueness_of_rigid-body_dynamics_with_Coulomb_friction/links/559a70ee08ae5d8f3936a1f4/Existence-and-uniqueness-of-rigid-body-dynamics-with-Coulomb-friction.pdf
     display: Transactions of the Canadian Society for Mechanical Engineering, vol. 17, no. 4A, pp. 513-525, 1993
 
 - title: "Compensation Techniques for Servos with Friction"
@@ -1036,7 +1036,7 @@
 - title: "The Effect of Coulomb Friction on the Existence and Uniqueness of the Forward Dynamics Problem"
   authors: P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1992effect.pdf
+    url: https://ieeexplore.ieee.org/document/220148
     display: IEEE Int. Conf. Robotics and Automation, pp. 1442-1447, 1993
 
 
@@ -1044,7 +1044,7 @@
   title: "Avoiding Stick-slip In Position and Force Control Through Feedback"
   authors: P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1991avoiding.pdf
+    url: https://ieeexplore.ieee.org/document/131823
     display: IEEE Int. Conf. Robotics and Automation, pp. 1470-1475, 1991
 
 
@@ -1052,13 +1052,13 @@
   title: "Two Phase Path Planning for Robots with Six or More Joints"
   authors: P.E. Dupont, S. Derby
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1990two.pdf
+    url: http://www.bu.edu/biorobotics/publications/90_Jmd_pathplanning.pdf
     display: Transactions of the ASME - Journal of Mechanical Design, vol. 112, no. 1, pp. 50-58, 1990
 
 - title: "Friction Modeling in Dynamic Robot Simulation"
   authors: P.E. Dupont
   link:
-    url: http://robotics.tch.harvard.edu/publications/pdfs/dupont1990friction.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/126193
     display: IEEE Int. Conf. Robotics and Automation, pp. 1370-1376, 1990
 
 
