@@ -987,7 +987,7 @@
 - title: "A Survey of Models, Analysis Tools and Compensation Methods for the Control of Machines with Friction"
   authors: B. Armstrong-Helouvry, P.E. Dupont, C. Canudas de Wit
   link:
-    url: https://docs.google.com/viewer?url=${https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/armstrong1994survey.pdf}
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/armstrong1994survey.pdf
     display: Automatica, vol. 30, no. 7, pp. 1083-1138, 1994
 
 - title: "Avoiding Stick-slip Through PD Control"
