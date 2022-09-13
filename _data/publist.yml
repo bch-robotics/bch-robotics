@@ -77,7 +77,7 @@
   title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
   authors: J. Wang, J. Ha, P.E. Dupont
   link:
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910658/
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/wang2019steering.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 9834-9840, 2019
 
 - title: "Optically-guided instrument for transapical beating-heart delivery of artificial mitral chordae tendineae"
@@ -89,7 +89,7 @@
 - title: "Autonomous robotic intracardiac catheter navigation using haptic vision"
   authors:  G. Fagogenis, M. Mencattelli, Z. Machaidze, B. Rosa, K. Price, F. Wu, V. Weixler, M. Saeed, J.E. Mayer, P.E. Dupont
   link:
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6693882/
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/fagogenis2019autonomous.pdf
     display: Science Robotics, vol. 4, no. 29, pp. eaaw1977, 2019
 
 
@@ -103,7 +103,7 @@
 - title: "Minimally invasive bilateral anterior cingulotomy via open minicraniotomy using a novel multiport cisternoscope: a cadaveric demonstration"
   authors:  S. Manjila, B. Rosa, M. Mencattelli, P.E. Dupont
   link:
-    url: https://pubmed.ncbi.nlm.nih.gov/29733426/
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/manjila2018minimally.pdf
     display: Operative Neurosurgery, pp. opy083, 2018
 
 - title: "Modeling Tube Clearance and Bounding the Effect of Friction in Concentric Tube Robot Kinematics"
