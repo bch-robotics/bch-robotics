@@ -253,7 +253,7 @@
 - title: "Tissue Removal Inside the Beating Heart using a Robotically Delivered Metal MEMS Tool"
   authors: N.V. Vasilyev, A. Gosline, A. Veeramani, M.T. Wu,G. Schmitz, R. Chen, V. Arabagi, P.J. del Nido, P.E. Dupont
   link:
-    url: https://journals.sagepub.com/doi/abs/10.1177/0278364914543671
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/vasilyev2015tissue.pdf
     display: Int. J. Robotics Research, vol. 34, no. 2, pp. 236-247, 2015
 
 - title: "Intensity-based Visual Servoing for Instrument and Tissue Tracking in 3D Ultrasound Volumes"
@@ -415,13 +415,13 @@
 - title: "Motion planning for multiple millimeter-scale magnetic capsules in a fluid environment"
   authors: P. Vartholomeos, R. Akhavan-Sharif, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/6225330
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/vartholomeos2012motion.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1927-1932, 2012
 
 - title: "Closed-loop position control of an MRI-powered biopsy robot"
   authors: P. Vartholomeos, C. Bergeles, L. Qin, P.E. Dupont
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR12.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/vartholomeos2012closed.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 83-84, 2012
 
 - title: "Passive markers for tracking surgical instruments in real-time 3D ultrasound imaging"
@@ -537,7 +537,7 @@
   title: "IN-Haptics: interactive navigation using haptics"
   authors: R. Walker, S. Andersson, C. Belta, P.E. Dupont
   link:
-    url: https://www.researchgate.net/profile/Sean-Andersson/publication/224129846_IN-HAPTICS_Interactive_navigation_using_haptics/links/542370430cf238c6ea6e3de2/IN-HAPTICS-Interactive-navigation-using-haptics.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/walker2010in.pdf
     display: IEEE Haptics Symposium, pp. 463-466, 2010
 
 - title: "Stiffness control of a continuum manipulator in contact with a soft environment"
@@ -742,10 +742,6 @@
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/suematsu2004three.pdf
     display: The Journal of Thoracic and Cardiovascular Surgery, vol. 128, no. 4, pp. 579-587, 2004
-  authors: Y. Suematsu, J.F. Martinez, B.K. Wolf, G.R. Marx, J.A. Stoll, P.E. Dupont, R. Howe, J.K. Triedman, P.J. del Nido
-  link:
-    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/suematsu2005three.pdf
-    display: J. Thorac Cardiovascular Surgery, vol. 130, no. 5, pp. 1348-1357, 2005
 
 
 - year: 2003
