@@ -83,7 +83,7 @@
 - title: "Optically-guided instrument for transapical beating-heart delivery of artificial mitral chordae tendineae"
   authors: Z. Machaidze, M. Mencattelli, G. Arnal, K. Price, F. Wu, V. Weixler, D. Brown, J. Mayer Jr, P.E. Dupont
   link:
-    url: https://www.jtcvs.org/article/S0022-5223(19)30671-3/fulltext
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/machaidze2019optically.pdf
     display: The Journal of Thoracic and Cardiovascular Surgery, vol. 158, no. 5, pp. 9834-9840, 2019
 
 - title: "Autonomous robotic intracardiac catheter navigation using haptic vision"
@@ -109,7 +109,7 @@
 - title: "Modeling Tube Clearance and Bounding the Effect of Friction in Concentric Tube Robot Kinematics"
   authors:  J. Ha, G. Fagogenis, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/document/8534407
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/ha2018modeling.pdf
     display: IEEE Trans. on Robotics, vol. 35, no. 2, pp. 353-370, 2018
 
 - title: "In vivo tissue regeneration with robotic implants"
@@ -159,13 +159,13 @@
 - title: "Incorporating Tube-to-Tube Clearances in the Kinematics of Concentric Tube Robots"
   authors: J. Ha, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/7989797
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/ha2017incorporating.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 6730-6736, 2017
 
 - title: "Effect of Path History on Concentric Tube Robot Model Calibration"
   authors: J. Ha, G. Fagogenis, P.E. Dupont
   link:
-    url: https://hamlynsymposium.org/app/uploads/2022/01/Proceedings_HSMR17-1.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/ha2017effect.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 77-78, 2017
 
 - title: "Designing Stable Concentric Tube Robots Using Piecewise Straight Tubes"
@@ -179,7 +179,7 @@
   title: "A Multi-port MR-compatible Neuroendoscope - Spanning the Gap Between Rigid and Flexible Scopes"
   authors: S. Manjila,M. Mencattelli, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
   link:
-    url: https://thejns.org/focus/view/journals/neurosurg-focus/41/3/article-pE13.xml
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/manjila2016multiport.pdf
     display: Neurosurgical Focus, vol. 41, no. 3, pp. E13 (15 pages), 2016
  
 - title: "Cardioscopic Tool-delivery Instrument for Beating-heart Surgery"
@@ -203,37 +203,37 @@
 - title: "Multi-port Neuroendoscope for Robotic Intraventricular Procedures"
   authors: M. Mencattelli, S. Manjila, B. Rosa, K. Price, G. Fagogenis, P.E. Dupont
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR16-compressed.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/mencattelli2016multi.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 32-33, 2016
 
 - title: "Enabling Automated MRI-based Targeting Assessment During Dipole Field Navigation"
   authors: M. Latulippe, O. Felfoul, P.E. Dupont, S. Martel
   link:
-    url: https://aip.scitation.org/doi/pdf/10.1063/1.4941925
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/latulippe2016enabling.pdf
     display: Applied Physics Letters, vol. 108, no. 062403, 2016
 
 - title: "Toward On-line Parameter Estimation of Concentric Tube Robots Using a Mechanics-based Model"
   authors: C. Jang, J. Ha, P.E. Dupont, F.C. Park
   link:
-    url: https://ieeexplore.ieee.org/document/7759374
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/jang2016toward.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2016
 
 - title: "Elastic Stability of Concentric Tube Robots Subject to External Loads"
   authors: J. Ha, F.C. Park, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/document/7283569
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/ha2016elastic.pdf
     display: IEEE Trans. Biomedical Engineering, vol. 63, no. 6, pp. 1116-1128, 2016
 
 - title: "Simultaneous steering and imaging of magnetic particles using MRI toward delivery of therapeutics"
   authors: O. Felfoul, A. Becker, G. Fagogenis, P.E. Dupont
   link:
-    url: https://www.nature.com/articles/srep33567
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/felfoul2016simultaneous.pdf
     display: Scientific Reports, 2016
 
 - title: "Adaptive Nonparametric Kinematic Modeling of Concentric Tube Robots"
   authors: G. Fagogenis, C. Bergeles, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/document/7759636
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/fagogenis2016adaptive.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, 2016
 
 - title: "Biocompatible Pressure Sensing Skins for Minimally Invasive Surgical Instruments"
@@ -277,13 +277,13 @@
 - title: "Untethered Magnetic Millirobot for Targeted Drug Delivery"
   authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
   link:
-    url: https://www.researchgate.net/profile/Veronica-Iacovacci/publication/277251970_Untethered_magnetic_millirobot_for_targeted_drug_delivery/links/556879bc08aefcb861d4cbcb/Untethered-magnetic-millirobot-for-targeted-drug-delivery.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/iacovacci2015untethered.pdf
     display: Biomedical Microdevices, vol. 17, no. 3, pp. 1-12, 2015
 
 - title: "Magnetic Bi-component Millirobot for Targeted Drug Delivery"
   authors: V. Iacovacci, G. Lucarini, L. Ricotti, P. Dario, P.E. Dupont, A. Menciassi
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR15-compressed.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/iacovacci2015magnetic.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 5-6, 2015
 
 - title: "Achieving Commutation Control of an MRI-powered Robot Actuator"
@@ -295,7 +295,7 @@
 - title: "Stabilizing the Relative Position of Millirobots inside an MRI Scanner Considering Magnetic Interaction Forces"
   authors: A. Eqtami, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/7353824
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/eqtami2015stabilizing.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3220-3226, 2015
 
 - title: "Design of a robotic implant for in vivo esophageal tissue growth"
@@ -333,19 +333,19 @@
 - title: "Optimizing Curvature Sensor Placement for Fast, Accurate Shape Sensing of Continuum Robots"
   authors: B. Kim, J. Ha, F.C. Park, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/6907649
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/kim2014optimizing.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 5374-5379, 2014
 
 - title: "Achieving Elastic Stability of Concentric Tube Robots Through Optimization of Tube Precurvature"
   authors: J. Ha, F. Park, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/6942661
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/ha2014achieving.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 864-870, 2014
 
 - title: "MRI-powered Closed-loop Control for Multiple Magnetic Capsules"
   authors: A. Eqtami, O. Felfoul, P.E. Dupont
   link:
-    url: https://d1wqtxts1xzle7.cloudfront.net/35502234/IROS14_FINAL-libre.pdf?1415641508=&response-content-disposition=inline%3B+filename%3DMRI_powered_Closed_loop_Control_for_Mult.pdf&Expires=1662587994&Signature=FBLRfOGqKAC3H2ttlH7FafMbn4EQihSvV6RVqDgOSn-ML-zQ7OAfPtYuQ8AnuVr1bFcBUrJJv9d2N3zKI4UEtwp-HeUrkJ5Z8M1lAoP7YseQP91ldWZ8drk4jXtPOGWU8M504t00GKIdlui1mtTLDThvnprnt9VuUCWYJ0Rs~hrcxuU56yAGUC3ASQlffJm6yOowf42O1zIa3~FD9Rz3lcPggOyAsXiHxYaFpiO5fdpSfrUENRQl2mXrTNWStN5dymX2rVVqu5T0ynG8VP8F7H0HzOE3ajhqS-wWiXbiTkSUvm3UqbQQSc4eTQHP56BTjZ5hZxR0lmKsqOecSDt61Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/eqtami2014MRI.pdf
     display: IEEE/RSJ Int. Conf. Intelligent Robots and Systems, pp. 3536-3542, 2014
 
 - title: "Robotic Implant to Apply Tissue Traction Forces in the Treatment of Esophageal Atresia"
@@ -626,7 +626,7 @@
 - title: "Imaging artifacts of medical instruments in ultrasound-guided interventions"
   authors: J. Huang, J. Triedman, N.V. Vasilyev, Y. Suematsu, R. Cleveland, P.E. Dupont
   link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.7863/jum.2007.26.10.1303
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/huang2007imaging.pdf
     display: J. Ultrasound in Medicine, vol. 26, pp. 1303-1322, 2007
 
 
@@ -670,7 +670,7 @@
 - title: "Producing diffuse ultrasound reflections from medical instruments using the quadratic residue diffuser"
   authors: J. Huang, P.E. Dupont, A. Undurti, J. Triedman, R. Cleveland
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0301562906014864
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/huang2006producing.pdf
     display: Ultrasound in Medicine and Biology, vol. 32, no. 5, pp. 721-727, 2006
 
 - title: "Electromechanical emulation of active vibratory systems"
@@ -823,7 +823,7 @@
   title: "A wave approach to estimating frequency-dependent damping under transient loading"
   authors: J.G. McDaniel, P.E. Dupont, L. Salvino
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0022460X99927232
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/mcdaniel2000wave.pdf
     display: J. Sound and Vibration, vol. 231, no. 2, pp. 433-449, 2000
 
 - title: "Analysis of floquet wave generation and propagation in a plate with multiple arrays of attachments"
@@ -854,7 +854,7 @@
 - title: "Simplified Dispersion Relations for Floquet Waves in a Plate with Multiple Arrays of Attachments"
   authors: D. Gueorguiev, J.G. McDaniel, P.E. Dupont
   link:
-    url: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/DETC99/861/1097809
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/gueorguiev1999simplified.pdf
     display: Proc 17th Biennial Conference on Mechanical Vibration and Noise, ASME 1999 Design Engineering , 1999
 
 - title: "Automatic identification of environment haptic properties"
@@ -893,7 +893,7 @@
 - title: "Constrained optimal control of vibration dampers"
   authors: P. Kasturi, P.E. Dupont
   link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0022460X98916613
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/kasturi1998constrained.pdf
     display: J. Sound and Vibration, pp.  499-509, 1998
 
 - title: "Haptic Identification of Remote Environment Properties"
