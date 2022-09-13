@@ -141,13 +141,13 @@
 - title: "A low cost bioprosthetic semilunar valve for research, disease modeling and surgical training applications"
   authors:  B. Rosa, Z. Machaidze, B. Shin, S. Manjila, D. Brown, C. Baird, J. Mayer Jr,P.E. Dupont
   link:
-    url: https://academic.oup.com/icvts/article/25/5/785/4060635
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/rosa2017low.pdf
     display: Interactive CardioVascular and Thoracic Surgery, 2017
 
 - title: "Image-based Contact Stabilization Inside the Beating Heart"
   authors: B. Rosa, G. Fagogenis, P.E. Dupont
   link:
-    url: https://hamlynsymposium.org/app/uploads/2022/01/Proceedings_HSMR17-1.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/rosa2017image.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 17-18, 2017
 
 - title: "Cardioscopically-guided beating heart surgery: paravalvular leak repair"
@@ -197,7 +197,7 @@
 - title: "A Robotic Implant for Enterogenesis"
   authors: K. Price, Z. Machaidze, T. Jaksic, R.P. Jennings, P.E. Dupont
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR16-compressed.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/price2016robotic.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 68-69, 2016
 
 - title: "Multi-port Neuroendoscope for Robotic Intraventricular Procedures"
@@ -327,7 +327,7 @@
 - title: "FBG-based Shape Sensing Tubes for Continuum Robots"
   authors: S. Ryu, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/6907368
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/ryu2014FBG.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 3531-3537, 2014
 
 - title: "Optimizing Curvature Sensor Placement for Fast, Accurate Shape Sensing of Continuum Robots"
@@ -574,7 +574,7 @@
   title: "Image guided surgical interventions"
   authors: D. Perrin, N.V. Vasilyev, P. Novotny, J.A. Stoll, R. Howe,P.E. Dupont, I. Salgo, P.J. del Nido
   link:
-    url: https://reader.elsevier.com/reader/sd/pii/S0011384009000537?token=96161C33D1B2C0892C0694A239A2A7656EFA5A1EA0E2322835C2186BFABBB52505712AD7EA829D25666AE1043CA1C704&originRegion=us-east-1&originCreation=20220908151228
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/perrin2009image.pdf
     display: Current Problems in Surgery, vol. 46, no. 9, pp. 730-766, 2009
 
 - title: "Fast needle insertion to minimize tissue deformation and damage"
@@ -634,7 +634,7 @@
   title: "Real-time 3D ultrasound-based servoing of a surgical instrument"
   authors: J. Stoll, P. Novotny, P.E. Dupont, R. Howe
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/1641778
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/stoll2006real.pdf
     display: IEEE Int. Conf. Robotics and Automation, 2006
 
 - title: "Force control for grasping soft tissue"
@@ -684,7 +684,7 @@
   title: "Three-dimensional echo-guided beating heart surgery without cardiopulmonary bypass - atrial septal defect closure in a swine model"
   authors: Y. Suematsu, J.F. Martinez, B.K. Wolf, G.R. Marx, J.A. Stoll, P.E. Dupont, R. Howe, J.K. Triedman, P.J. del Nido
   link:
-    url: https://reader.elsevier.com/reader/sd/pii/S0022522305011797?token=0AAFE3A45B175CD667D6BCD6B3BF6BB4908191F30189563FE269E01215D7C7489A3740C9C77C34E614F52F3C5FAF13D1&originRegion=us-east-1&originCreation=20220908153247
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/suematsu2005three.pdf
     display: J. Thorac Cardiovascular Surgery, vol. 130, no. 5, pp. 1348-1357, 2005
 
 - title: "Passive markers for ultrasound tracking of surgical instruments"
@@ -736,6 +736,16 @@
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/beasley2004kinematic.pdf
     display: IEEE Int. Conf. Robotics and Automation, 2004
+    
+- title: "Three-dimensional echocardiography-guided beating-heart surgery without cardiopulmonary bypass: A feasibility study"
+  authors: Y. Suematsu, G.R. Marx, J.A. Stoll, P.E. DuPont, R.O. Cleveland, R.D. Howe, J.K. Triedman, T. Mihaljevic, B.N. Mora, B.J. Savord, I.S. Salgo, P.J. del Nido
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/suematsu2004three.pdf
+    display: The Journal of Thoracic and Cardiovascular Surgery, vol. 128, no. 4, pp. 579-587, 2004
+  authors: Y. Suematsu, J.F. Martinez, B.K. Wolf, G.R. Marx, J.A. Stoll, P.E. Dupont, R. Howe, J.K. Triedman, P.J. del Nido
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/suematsu2005three.pdf
+    display: J. Thorac Cardiovascular Surgery, vol. 130, no. 5, pp. 1348-1357, 2005
 
 
 - year: 2003
@@ -944,7 +954,7 @@
 - title: "Automatic Identification of Remote Environments"
   authors: P. Schulteis, P.E. Dupont, P. Millman,R. Howe
   link:
-    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/228645085_Automatic_identification_of_remote_environments/links/559a710108ae99aa62ccd784/Automatic-identification-of-remote-environments.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/schulteis1996automatic.pdf
     display: ASME Int Mechanical Engineering Congress & Exposition, pp. 451-458, 1996
 
 - title: "Experimental Evaluation of a Semi-active Friction Damper"
