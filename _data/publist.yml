@@ -1037,7 +1037,7 @@
 - title: "Compensation Techniques for Servos with Friction"
   authors: P.E. Dupont, B. Armstrong-Helouvry
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/4793211
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1993compensation.pdf
     display: American Control Conference, pp. 1915-1919, 1993
 
 - title: "Friction Modeling for Control"
