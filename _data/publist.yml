@@ -115,7 +115,7 @@
 - title: "In vivo tissue regeneration with robotic implants"
   authors:  D. Damian, K. Price, S. Arabagi, I. Berra, Z. Machaidze, S. Manjila, S. Shimada, A. Fabozzo, G. Arnal, D. Van Story, J. Goldsmith, A. Agoston, C. Kim, R. Jennings, P. Ngo, M. Manfredi, P.E. Dupont
   link:
-    url: https://robotics.sciencemag.org/content/3/14/eaaq0018.full?ijkey=NtIEM3XHk8elg&keytype=ref&siteid=robotics
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/damian2018in - old.pdf
     display: Science Robotics, vol. 3, no. 14, pp. eaaq0018, 2018
 
 - title: "The grand challenges of Science Robotics"
@@ -247,7 +247,7 @@
   title: "Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints"
   authors: C. Bergeles, A.H. Gosline, N.V. Vasilyev, P.J. Codd, P.J. del Nido, P.E. and Dupont
   link:
-    url: https://ieeexplore.ieee.org/document/7019012
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/bergeles2015concentric.pdf
     display: IEEE Trans. Robotics, vol. 33, no. 1, pp. 67-84, 2015
 
 - title: "Tissue Removal Inside the Beating Heart using a Robotically Delivered Metal MEMS Tool"
@@ -301,13 +301,13 @@
 - title: "Design of a robotic implant for in vivo esophageal tissue growth"
   authors: D. Damian, S. Arabagi, P.E. Dupont
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR15-compressed.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/damian2015design.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 73-74, 2015
 
 - title: "Toward Tissue Penetration by MRI-powered Millirobots Using a Self-Assembled Gauss Gun"
   authors: A. Becker, O. Felfoul, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/7139341
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/becker2015toward.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1184-1189, 2015
 
 - title: "MRI-Powered Robotics"
@@ -321,7 +321,7 @@
   title: "Novel Pressure-Sensing Skin for Detecting Impending Tissue Damage during Neuroendoscopy"
   authors: P. Codd, V. Arabagi, A. Gosline, P.E. Dupont
   link:
-    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/258248727_Novel_pressure-sensing_skin_for_detecting_impending_tissue_damage_during_neuroendoscopy_Laboratory_investigation/links/56b36c3008ae75a092d00cc5/Novel-pressure-sensing-skin-for-detecting-impending-tissue-damage-during-neuroendoscopy-Laboratory-investigation.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/codd2014novel.pdf
     display: Journal of Neurosurgery - Pediatrics, vol. 13, no. 1, pp. 114-121, 2014
 
 - title: "FBG-based Shape Sensing Tubes for Continuum Robots"
@@ -457,13 +457,13 @@
 - title: "Extending the reach and stability of manually steerable neuroendoscopes through robotics"
   authors: P.E. Dupont, S. Chawarski, E. Butler, R. Hammond-Oakley, A. Gosline, P. Codd, T. Anor, J. Madsen, J. Lock
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR12.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont2012extending.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 89-90, 2012
 
 - title: "Concentric Tube Robots for Minimally Invasive Surgery"
   authors: P.E. Dupont, A. Gosline, N. Vasilyev, J. Lock, E. Butler, C. Folk, A. Cohen, A. Veeramani, M. Wu, G. Schmitz, R. Chen, R. del Nido
   link:
-    url: https://hamlynsymposium.org/app/uploads/2021/08/Proceedings_HSMR12.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont2012concentric.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 3-4, 2012
 
 - title: "Robotic neuroendoscope with concentric tube augmentation"
@@ -475,7 +475,7 @@
 - title: "Tracking and position control of an MRI-powered needle-insertion robot"
   authors:  C. Bergeles, L. Qin, P. Vartholomeos, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/6346084
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/bergeles2012tracking.pdf
     display: IEEE Engineering in Medicine and Biology Conf., pp. 928-931, 2012
 
 - year: 2011
@@ -702,7 +702,7 @@
 - title: "Distinguishability and identifiability testing of contact state models"
   authors: T.J. Debus, P.E. Dupont, R. Howe
   link:
-    url: https://www.tandfonline.com/doi/abs/10.1163/156855305323383794
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/debus2005distinguishability.pdf
     display: Advanced Robotics, vol. 19, no. 5, pp. 545-566, 2005
 
 - title: "Realization of mechanical systems from second-order models"
@@ -722,7 +722,7 @@
 - title: "Distinguishability and identifiability of contact states"
   authors: T. Debus, P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/1307977
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/debus2004distinguishability.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1135-1140, 2004
 
 - title: "Contact state estimation using multiple model estimation and hidden markov models"
@@ -835,7 +835,7 @@
 - title: "Elasto-plastic Friction Model: Contact Compliance and Stiction"
   authors: P.E. Dupont, B. Armstrong, V. Hayward
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/876665
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont2000elastic.pdf
     display: American Control Conference, pp. 1072-1077, 2000
 
 - title: "Automatic Identification of Local Geometric Properties During Teleoperation"
@@ -905,7 +905,7 @@
 - title: "Model Reduction Techniques for Shock Loaded Equipment Emulators"
   authors: P.E. Dupont, A. Stokes
   link:
-    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/252786453_Model_Reduction_Techniques_for_Shock_Loaded_Equipment_Emulators/links/559a70f208ae99aa62ccd68b/Model-Reduction-Techniques-for-Shock-Loaded-Equipment-Emulators.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1998model.pdf
     display: Proc 69th Shock and Vibration Symposium, 1998
 
 
@@ -913,7 +913,7 @@
   title: "Semi-active Control of Friction Dampers"
   authors: P.E. Dupont, P. Kasturi, A. Stokes
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0022460X96907981
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1997semi.pdf
     display: Journal of Sound and Vibration, vol. 202, no. 2, pp. 203-218, 1997
 
 - title: "Stability of Frictional Contact in Constrained Rigid-body Dynamics"
@@ -961,7 +961,7 @@
 - title: "Stability of Rigid-body Dynamics with Sliding Frictional Contacts"
   authors: P.E. Dupont, S. Yamajako
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/503806
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1995stability.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 378-384, 1995
 
 - title: "Semi-active Control of Friction Dampers"
@@ -1013,7 +1013,7 @@
   title: "The Effect of Friction on the Forward Dynamics Problem"
   authors: P.E. Dupont
   link:
-    url: https://journals.sagepub.com/doi/abs/10.1177/027836499301200205
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1993effect.pdf
     display: Int. J. Robotics Research, vol. 12, no. 2, pp. 164-179, 1993
 
 - title: "Friction Modeling and Control in Boundary Lubrication"
@@ -1025,7 +1025,7 @@
 - title: "Existence and Uniqueness of Rigid-Body Dynamics with Coulomb Friction"
   authors: P.E. Dupont
   link:
-    url: https://www.researchgate.net/profile/Pierre-Dupont-3/publication/266490994_Existence_and_uniqueness_of_rigid-body_dynamics_with_Coulomb_friction/links/559a70ee08ae5d8f3936a1f4/Existence-and-uniqueness-of-rigid-body-dynamics-with-Coulomb-friction.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1993existence.pdf
     display: Transactions of the Canadian Society for Mechanical Engineering, vol. 17, no. 4A, pp. 513-525, 1993
 
 - title: "Compensation Techniques for Servos with Friction"
@@ -1048,7 +1048,7 @@
 - title: "The Effect of Coulomb Friction on the Existence and Uniqueness of the Forward Dynamics Problem"
   authors: P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/document/220148
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1992effect.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1442-1447, 1993
 
 
@@ -1056,7 +1056,7 @@
   title: "Avoiding Stick-slip In Position and Force Control Through Feedback"
   authors: P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/document/131823
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1991avoiding.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1470-1475, 1991
 
 
@@ -1070,7 +1070,7 @@
 - title: "Friction Modeling in Dynamic Robot Simulation"
   authors: P.E. Dupont
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/126193
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont1990friction.pdf
     display: IEEE Int. Conf. Robotics and Automation, pp. 1370-1376, 1990
 
 
