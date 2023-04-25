@@ -8,6 +8,15 @@
     display: International Symposium on Medical Robotics (ISMR) 2023
   highlight: 0
 
+- title: "Robotic instruments inside the MRI bore: key concepts and evolving paradigms in imaging-enhanced cranial neurosurgery"
+  image: dupon1abcdefghijklm-3141338-small.gif
+  description: XXX
+  authors: S. Manjila, B. Rosa, K. Price, R. Manjila, M. Mancatelli, P.E. Dupont
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/manjila2023MRI.pdf
+    display: World Neurosurgery, 2023
+  highlight: 0
+
 - year: 2022
   title: "Eccentric Tube Robots as Multiarmed Steerable Sheaths"
   image: wang1-3080659-large.gif
@@ -24,7 +33,7 @@
   authors: P.E. Dupont, N. Simaan, H. Choset, C. Rucker
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/dupont2022continuum.pdf
-    display: Proceedings of the IEEE, 2022.
+    display: Proceedings of the IEEE, 2022
   highlight: 0
 
 - title: "Non-surgical Removal of Partially Absorbable Bionic Implants"
