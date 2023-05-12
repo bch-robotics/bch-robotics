@@ -7,8 +7,17 @@
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Mondal2023.pdf
     display: The Journal of Thoracic and Cardiovascular Surgery
   highlight: 0
+ 
+- title: "Magnetic Ball Chain Robots for Endoluminal Interventions"
+  image: dupon1abcdefghijklm-3141338-small.gif
+  description: XXX
+  authors: G. Pittiglio, M. Mencattelli, P.E. Dupont
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/pittiglio2_2023.pdf
+    display: World Neurosurgery, 2023
+  highlight: 0
   
-  title: "Closed-form Kinematic Model and Workspace Characterization for Magnetic Ball Chain Robots"
+- title: "Closed-form Kinematic Model and Workspace Characterization for Magnetic Ball Chain Robots"
   image: wang1-3080659-large.gif
   description: XXX
   authors: G. Pittiglio, M. Mencattelli, P.E. Dupont
@@ -16,7 +25,16 @@
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Pittiglio2023ISMR.pdf
     display: International Symposium on Medical Robotics (ISMR) 2023
   highlight: 0
-
+  
+- title: "Modeling Tendon-actuated Concentric Tube Robots"
+  image: wang1-3080659-large.gif
+  description: XXX
+  authors: Y. Chitalia, A. Donder, P.E. Dupont
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Chitalia2023.pdf
+    display: International Symposium on Medical Robotics (ISMR) 2023
+  highlight: 0
+  
 - title: "Robotic instruments inside the MRI bore: key concepts and evolving paradigms in imaging-enhanced cranial neurosurgery"
   image: dupon1abcdefghijklm-3141338-small.gif
   description: XXX
