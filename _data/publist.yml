@@ -7,6 +7,15 @@
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Mondal2023.pdf
     display: The Journal of Thoracic and Cardiovascular Surgery
   highlight: 0
+
+- title: "Workspace Characterization for Hybrid Tendon and Ball Chain Continuum Robots"
+  image: dupon1abcdefghijklm-3141338-small.gif
+  description: XXX
+  authors: G. Pittiglio, M. Mencattelli, A. Donder, Y. Chitalia, P.E. Dupont
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/PittiglioHamlyn2023.pdf
+    display: Hamlyn Symposium on Medical Robotics, pp 27-28, 2023
+  highlight: 0
  
 - title: "Magnetic Ball Chain Robots for Endoluminal Interventions"
   image: dupon1abcdefghijklm-3141338-small.gif
