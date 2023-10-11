@@ -4,11 +4,11 @@
 #  email:
 #  bio:
 
-- name: Yash Chitalia, Ph.D.
-  photo: Yash.jpg
+- name: Max McCandless, Ph.D.
+  photo: Max.jpg
   interests: Surgical Robotics
-  email: Yash.Chitalia@childrens.harvard.edu
-  bio: Yash received his PhD in 2021 from Georgia Tech. His research involves the design, modeling and control of tendon-driven robotic catheters and neuro-endoscopes.​
+  email: Max.Mccandless@childrens.harvard.edu
+  bio: Max received his PhD in 2023 from Boston University. His research involves the design, modeling and control of soft robots for minimally invasive surgery.​
 
 - name: Abdulhamit Donder, Ph.D.
   photo: Abdul.jpg
@@ -34,8 +34,8 @@
   email: Abhijit.Mondal@childrens.harvard.edu
   bio: Abhijit received his PhD in Bioengineering in 2017 from University of Utah (Salt Lake City, UT, USA). His research involves the development of airway stent systems for treating tracheobronchomalacia.
 
-- name: Thibaud Bertrand, B.S.
-  photo: Thibaud.jpg
+- name: Silvan Otto, B.S.
+  photo: Silvan.jpg
   interests: Medical robots, cardiac assist and cardiac repair devices
-  email: Thibaud.Bertrand@childrens.harvard.edu
-  bio: Thibaud received his BS in mechanical engineering from the Swiss Federal Institute of Technology (ETHZ) and is currently pursuing his MS degree there. His MS research at BCH involves the development of devices to repair mitral valve regurgitation.
+  email: Silvan.Otto@childrens.harvard.edu
+  bio: Silvan received his BS in mechanical engineering from the Swiss Federal Institute of Technology (ETHZ) and is currently pursuing his MS degree there. His MS research at BCH involves the development of transcatheter cardiac valve intervention devices.
