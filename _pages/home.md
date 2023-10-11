@@ -30,7 +30,8 @@ permalink: /
 	<li data-target="#carousel" data-slide-to="13"></li>
 	<li data-target="#carousel" data-slide-to="14"></li>
 	<li data-target="#carousel" data-slide-to="15"></li>
-	<li data-target="#carousel" data-slide-to="15"></li>
+	<li data-target="#carousel" data-slide-to="16"></li>
+	<li data-target="#carousel" data-slide-to="16"></li>    
     </ol>
 
     <!-- Items -->
@@ -38,50 +39,53 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bimanual.png" alt="Slide 1"/>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 2"/>
+	<div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LunchSept2023.jpg" alt="Slide 2"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Heart.png" alt="Slide 3"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Team1.png" alt="Slide 3"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Scope.png" alt="Slide 4"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Heart.png" alt="Slide 4"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Trachea.png" alt="Slide 5"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Scope.png" alt="Slide 5"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Trachea.png" alt="Slide 6"/>
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent.png" alt="Slide 6"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent.png" alt="Slide 7"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/OR.png" alt="Slide 7"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/OR.png" alt="Slide 8"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/OR1.png" alt="Slide 8"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/OR1.png" alt="Slide 9"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fellows.png" alt="Slide 9"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fellows.png" alt="Slide 10"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bowel.png" alt="Slide 10"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bowel.png" alt="Slide 11"/>
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Valve.png" alt="Slide 11"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Valve.png" alt="Slide 12"/>
         </div>	
 	     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Autonomous.png" alt="Slide 12"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Autonomous.png" alt="Slide 13"/>
         </div>	
 	    <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Finger.png" alt="Slide 13"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Finger.png" alt="Slide 14"/>
         </div>	
 	    <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent1.png" alt="Slide 14"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Stent1.png" alt="Slide 15"/>
         </div>
 	    <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Eccentric.png" alt="Slide 15"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Eccentric.png" alt="Slide 16"/>
         </div>
 	    <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Robotics.png" alt="Slide 15"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Robotics.png" alt="Slide 16"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
