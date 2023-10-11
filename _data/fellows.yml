@@ -5,7 +5,7 @@
 #  bio:
 
 - name: Max McCandless, Ph.D.
-  photo: Max.jpg
+  photo: Max2.png
   interests: Medical Robotics, Surgical Robotics, Soft Robotic Sensing and Actuation
   email: Max.Mccandless@childrens.harvard.edu
   bio: Max received his Ph.D. in 2023 from Boston University. His research involves the design, modeling, and control of soft robots for minimally invasive surgery.​ He is working toward developing new robots for cardiac interventions.
@@ -23,7 +23,7 @@
   bio: Margherita received her Ph.D. in 2016 from the Biorobotics Institute, Scuola Superiore Sant'Anna, Pisa. She is working on endoscopic robotic platforms, autonomous navigation and airway stents.
 
 - name: Yuan Wang, M.S.
-  photo: Max.jpg
+  photo: Yuan.jpg
   interests: Artificial Intelligence, Machine Learning, Robot Modeling, Medical Device Algorithms
   email: Yuan.Wang3@childrens.harvard.edu
   bio: Yuan earned her M.S. degree from Shanghai Jiao Tong University. Her current research focuses on the development of learning-based methods for kinematic modeling of medical robots.
