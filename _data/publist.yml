@@ -68,7 +68,7 @@
   description: XXX
   authors: K. Price, J. Peine, Y. Chitalia, M. Mencattelli, A. Pourkand, T. Looi, J. Drake, P. E. Dupont,
   link:
-    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Price-Hamlyn2022.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Price-Hamlyn2022.pdf
     display: Hamlyn Symposium on Medical Robotics 2022 pp. 99-100, 2022
   highlight: 0
 
@@ -77,7 +77,7 @@
   description: XXX
   authors: Y. Chitalia, A. Donder, P. E. Dupont
   link:
-    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Chitalia2023.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Chitalia2023.pdf
     display: Hamlyn Symposium on Medical Robotics 2022 pp. 131-132, 2022
   highlight: 0
 
@@ -159,13 +159,13 @@
   title: "Design of a Robotic Balloon-catheter Endoscope for Sinus Procedures"
   authors: Y. Li, R. Rahbar, P. E. Dupont
   link:
-    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Li-Hamlyn2019.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Li-Hamlyn2019.pdf
     display: Hamlyn Symposium on Medical Robotics 2019, pp 9-10, 2019 
     
 - title: "Design and Modelling of a Multi-segment Steerable Sheath for Single-port Endoscopic Procedures"
   authors: J. Wang, P.E. Dupont
   link:
-    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Wang-Hamlyn2019.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/Wang-Hamlyn2019.pdf
     display: Hamlyn Symposium on Medical Robotics 2019, pp 45-46, 2019 
   
 - title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
