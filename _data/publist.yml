@@ -55,7 +55,7 @@
   
 - title: "Robotic instruments inside the MRI bore: key concepts and evolving paradigms in imaging-enhanced cranial neurosurgery"
   image: dupon1abcdefghijklm-3141338-small.gif
-  description: XXX
+  : XXX
   authors: S. Manjila, B. Rosa, K. Price, R. Manjila, M. Mencattelli, P.E. Dupont
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/manjila2023MRI.pdf
@@ -65,7 +65,7 @@
 - year: 2022
   title: "Bimanual Endoscopic Robot for Neurosurgery"
   image: wang1-3080659-large.gif
-  description: 
+  description: XXX
   authors: K. Price, J. Peine, Y. Chitalia, M. Mencattelli, A. Pourkand, T. Looi, J. Drake, P. E. Dupont,
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Price-Hamlyn2022.pdf
@@ -74,7 +74,7 @@
 
   title: "Modeling Telescoping Tendon-Actuated Continuum Robots"
   image: wang1-3080659-large.gif
-  description: 
+  description: XXX
   authors: Y. Chitalia, A. Donder, P. E. Dupont
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Chitalia2023.pdf
