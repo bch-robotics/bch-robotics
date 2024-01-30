@@ -72,7 +72,7 @@
     display: Hamlyn Symposium on Medical Robotics 2022 pp. 99-100, 2022
   highlight: 0
 
-  title: "Modeling Telescoping Tendon-Actuated Continuum Robots"
+- title: "Modeling Telescoping Tendon-Actuated Continuum Robots"
   image: wang1-3080659-large.gif
   description: XXX
   authors: Y. Chitalia, A. Donder, P. E. Dupont
@@ -81,7 +81,7 @@
     display: Hamlyn Symposium on Medical Robotics 2022 pp. 131-132, 2022
   highlight: 0
 
-  title: "Eccentric Tube Robots as Multiarmed Steerable Sheaths"
+- title: "Eccentric Tube Robots as Multiarmed Steerable Sheaths"
   image: wang1-3080659-large.gif
   description: This article presents a novel continuum robot sheath for use in single-port minimally invasive procedures such as neuroendoscopy in which the sheath is designed to deliver multiple robotic arms. Actuation of the sheath is achieved by using precurved superelastic tubes lining the working channels used for arm delivery. 
   authors: J. Wang, J. Peine, P.E. Dupont
@@ -162,13 +162,13 @@
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Li-Hamlyn2019.pdf
     display: Hamlyn Symposium on Medical Robotics 2019, pp 9-10, 2019 
     
-  title: "Design and Modelling of a Multi-segment Steerable Sheath for Single-port Endoscopic Procedures"
+- title: "Design and Modelling of a Multi-segment Steerable Sheath for Single-port Endoscopic Procedures"
   authors: J. Wang, P.E. Dupont
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/blob/gh-pages/_pdfs/Wang-Hamlyn2019.pdf
     display: Hamlyn Symposium on Medical Robotics 2019, pp 45-46, 2019 
   
-  title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
+- title: "Steering a Multi-armed Robotic Sheath Using Eccentric Precurved Tubes"
   authors: J. Wang, J. Ha, P.E. Dupont
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/wang2019steering.pdf
