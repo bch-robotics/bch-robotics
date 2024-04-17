@@ -1,3 +1,13 @@
+- year: 2024
+  title: "Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots"
+  # image: wang1-3080659-large.gif
+  description: XXXx
+  authors: Y. Wang, M. McCandless, A. Donder, G. Pittiglio, B. Moradkhani, Y. Chitalia, P. E. Dupont
+  link:
+    url: https://arxiv.org/abs/2404.07168
+    display: 2024 International Symposium on Medical Robotics (ISMR)
+  highlight: 0
+
 - year: 2023
   title: "Hybrid Tendon and Ball Chain Continuum Robots for Enhanced Dexterity in Medical Interventions"
   image: wang1-3080659-large.gif
