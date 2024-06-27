@@ -1,4 +1,13 @@
 - year: 2024
+  - title: "Steerable Balloon Endoscopes for Transcatheter Intracardiac Procedures"
+  #image: dupon1abcdefghijklm-3141338-small.gif
+  description: XXX
+  authors: M. McCandless, S. Otto, P.E. Dupont
+  link:
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/HSMR_2024_Max.pdf
+    display: Hamlyn Symposium on Medical Robotics, 2024
+  highlight: 0
+  
   title: "Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots"
   # image: wang1-3080659-large.gif
   description: XXXx
