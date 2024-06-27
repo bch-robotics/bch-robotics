@@ -4,11 +4,11 @@
   description: XXX
   authors: M. McCandless, S. Otto, P.E. Dupont
   link:
-    #url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/HSMR_2024_Max.pdf
+    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/HSMR_2024_Max.pdf
     display: Hamlyn Symposium on Medical Robotics, 2024
   highlight: 0
   
-  title: "Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots"
+- title: "Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots"
   # image: wang1-3080659-large.gif
   description: XXXx
   authors: Y. Wang, M. McCandless, A. Donder, G. Pittiglio, B. Moradkhani, Y. Chitalia, P. E. Dupont
