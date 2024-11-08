@@ -3,7 +3,7 @@
   description: XXX
   authors: G. Pittiglio, A. Donder and P. E. Dupont
   link:
-    url: 
+    url: https://arxiv.org/abs/2410.16025
     display: arXiv preprint arXiv:2410.16025
   highlight: 0
   
@@ -11,7 +11,7 @@
   description: XXX
   authors: G. Pittiglio, F. Leuenberger, M. Mencattelli, M. McCandless, E. O’Leary and P. E. Dupont
   link:
-    url: 10.1109/TMRB.2024.3465828
+    url: https://10.1109/TMRB.2024.3465828
     display: IEEE Transactions on Medical Robotics and Bionics, 2024
   highlight: 0
 
@@ -19,7 +19,7 @@
   description: XXX
   authors: G. Pittiglio, F. Leuenberger, M. Mencattelli, M. McCandless, E. O’Leary, and P. E. Dupont
   link:
-    url: 10.31256/HSMR2024.7
+    url: https://10.31256/HSMR2024.7
     display: Hamlyn Symposium on Medical Robotics, pp. 13-14, 2024
   highlight: 0
 
@@ -27,7 +27,7 @@
   description: XXX
   authors: Y. Wang, P.E. Dupont
   link:
-    url: 10.31256/HSMR2024.39
+    url: https://10.31256/HSMR2024.39
     display: Hamlyn Symposium on Medical Robotics, pp. 77-78, 2024
   highlight: 0
 
