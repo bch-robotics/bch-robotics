@@ -1,11 +1,43 @@
 - year: 2024
-  title: "Steerable Balloon Endoscopes for Transcatheter Intracardiac Procedures"
+title: "Continuum Robot Shape Estimation Using Magnetic Ball Chains"
+  description: XXX
+  authors: G. Pittiglio, A. Donder and P. E. Dupont
+  link:
+    url: 
+    display: arXiv preprint arXiv:2410.16025
+  highlight: 0
+  
+- title: "Magnetic Ball Chain Robots for Cardiac Arrhythmia Treatment"
+  description: XXX
+  authors: G. Pittiglio, F. Leuenberger, M. Mencattelli, M. McCandless, E. O’Leary and P. E. Dupont
+  link:
+    url: 10.1109/TMRB.2024.3465828
+    display: IEEE Transactions on Medical Robotics and Bionics, 2024
+  highlight: 0
+
+- title: "Magnetic Ball Chain Catheters for Atrial Fibrillation Ablation"
+  description: XXX
+  authors: G. Pittiglio, F. Leuenberger, M. Mencattelli, M. McCandless, E. O’Leary, and P. E. Dupont
+  link:
+    url: 10.31256/HSMR2024.7
+    display: Hamlyn Symposium on Medical Robotics, pp. 13-14, 2024
+  highlight: 0
+
+- title: "Investigating Neural Network Modeling of Hysteretic Forward Kinematics in Tendon-Actuated Continuum Robots"
+  description: XXX
+  authors: Y. Wang, P.E. Dupont
+  link:
+    url: 10.31256/HSMR2024.39
+    display: Hamlyn Symposium on Medical Robotics, pp. 77-78, 2024
+  highlight: 0
+
+- title: "Steerable Balloon Endoscopes for Transcatheter Intracardiac Procedures"
   #image: dupon1abcdefghijklm-3141338-small.gif
   description: XXX
   authors: M. McCandless, S. Otto, P.E. Dupont
   link:
     url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/HSMR_2024_Max.pdf
-    display: Hamlyn Symposium on Medical Robotics, 2024
+    display: Hamlyn Symposium on Medical Robotics, pp. 101-102, 2024
   highlight: 0
   
 - title: "Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots"
