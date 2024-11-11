@@ -33,3 +33,21 @@
   interests: Surgical Robotics, Haptics, Modeling and Simulation, Continuum Robots, Controls
   email: neel.shihora@childrens.harvard.edu
   bio: Neel received his Ph.D. in 2024 from Vanderbilt University, where his research focused on task-based design, modeling, and telemanipulation assistance of dexterous robotics for surgical confined spaces and remote intervention. His current research involves investigating modeling and control techniques for tendon-driven telescoping catheters used in cardiac interventions.
+
+- name: Namrata U. Nayar, Ph.D.
+  photo: Namarata.jpg
+  interests: Surgical Robotics, Design, Control, Perception
+  email: Namrata.UnnikrishnanNayar@childrens.harvard.edu
+  bio: Namrata received her Ph.D. in 2024 from the Georgia Institute of Technology, where her research focused on the design and development of robotic transcatheter systems, with an emphasis on control using medical imaging. Her current research involves developing a robotic delivery system for cardiac interventions with intuitive control strategies and ease of adaptability for current medical devices.
+
+- name: Lea Pistorius, B.S. 
+  photo: Lea.png
+  interests: Biomedical engineering, medical and surgical devices, design
+  email: Lea.Pistorius@childrens.harvard.edu 
+  bio: Léa completed her Bachelor's degree in Life Science Engineering at the École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland. She is now pursuing a Master's degree in Biomedical Engineering at the Eidgenössische Technische Hochschule Zürich (ETH Zurich), in Switzerland. For her Master's thesis, Léa is working at the Dupont Laboratory, where her research focuses on developing and evaluating a robotic tendon-driven catheter designed for cardiac procedures.
+
+- name: Jonathan Hamid, B.S.
+  photo: Jonathan.jpg
+  interests: Biomedical engineering, medical devices, medical and surgical robotics
+  email: Jonathan.Hamid@childrens.harvard.edu
+  bio: Jonathan completed his Bachelor's degree in Mechanical Engineering at the Eidgenössische Technische Hochschule Zürich (ETH Zürich) in Switzerland in 2022. He is currently pursuing a Master’s degree in Biomedical Engineering at the same institution. His Master’s thesis at the Dupont Laboratory focuses on the design, manufacturing, and control of soft robots for minimally invasive intracardiac procedures.
